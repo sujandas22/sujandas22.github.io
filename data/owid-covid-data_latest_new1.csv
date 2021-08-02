@@ -1,0 +1,1421 @@
+iso_code,continent,location,date,total_cases,month,new_cases,new_cases_smoothed,total_deaths,new_deaths,people_vaccinated,life_expectancy,human_development_index,excess_mortality,vaccine,total_vaccinations,recovery_count,age_years,Total_deaths,COVID-19_Deaths
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,1,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,NewlyRecovered,Male Above 65,14445,1388
+ALB,Europe,Bangladesh,6/28/21,100,21-Jun,1,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Male Above 30 and Below 65,1835,74
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,6,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,Mild,Male Below 30,44392,6443
+AND,Europe,Andorra,6/28/21,13882,21-Jun,0,2.571,127,0,,83.73,0.868,,OxfordAstraZeneca,298706,TotalRecovered,Female Above 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,8,123.571,891,2,943301,61.15,0.581,,Moderna,3028162,NewlyRecovered,Female Below 30,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,0,0,42,0,,77.02,0.778,,JohnsonJohnson,23,SeriousCritical,Female Above 30 and Below 65,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,5,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,Mild,Male Above 65,2203,81
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,20,85.429,4510,2,,75.09,0.776,,JohnsonJohnson,4,TotalRecovered,Male Above 30 and Below 65,44502,6455
+ABW,North America,Aruba,6/28/21,,21-Jun,,,,,67457,76.29,,,JohnsonJohnson,533,NewlyRecovered,Male Below 30,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,3,27.714,910,0,6152645,83.44,0.944,,PfizerBioNTech,2975738,SeriousCritical,Female Above 65,10556,30
+AUT,Europe,Austria,6/28/21,650324,21-Jun,1,93.429,10701,1,4692442,81.54,0.922,,OxfordAstraZeneca,9020928,Mild,Female Below 30,14445,1388
+AZE,Asia,Azerbaijan,6/28/21,335874,21-Jun,2,50.429,4970,2,2139001,73,0.756,,Moderna,10026,TotalRecovered,Female Above 30 and Below 65,1353,37
+BHS,North America,Bahamas,6/28/21,12467,21-Jun,0,14.714,245,0,,73.92,0.814,,OxfordAstraZeneca,293234,NewlyRecovered,Male Above 65,27334,3160
+BHR,Asia,Bahrain,6/28/21,265477,21-Jun,0,311.714,1348,3,1054837,77.29,0.852,,OxfordAstraZeneca,315676,SeriousCritical,Male Above 30 and Below 65,5731,217
+BGD,Asia,Bangladesh,6/28/21,,21-Jun,2,5780.857,14276,0,5823245,72.59,0.632,,JohnsonJohnson,8886,Mild,Male Below 30,42328,5286
+BRB,North America,Barbados,6/28/21,4077,21-Jun,2,4.571,47,0,,79.19,0.814,,OxfordAstraZeneca,342263,TotalRecovered,Female Above 65,2337,112
+BLR,Europe,Belarus,6/28/21,415780,21-Jun,5,661,3122,9,,74.79,0.823,,Moderna,168953,NewlyRecovered,Male Above 65,44392,6443
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,7,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,NewlyRecovered,Male Above 30 and Below 65,41363,6045
+BLZ,North America,Belize,6/28/21,13189,21-Jun,5,21.429,329,0,,74.62,0.716,,Moderna,82622178,SeriousCritical,Male Below 30,2868,39
+BEN,Africa,Benin,6/28/21,8170,21-Jun,0,4.286,104,0,36188,61.77,0.545,,OxfordAstraZeneca,36223,NewlyRecovered,Female Above 65,13015,1197
+BTN,Asia,Bhutan,6/28/21,2062,21-Jun,10,17.571,1,0,,71.78,0.654,,PfizerBioNTech,70268,SeriousCritical,Female Below 30,204,3
+BOL,South America,Bolivia,6/28/21,435568,21-Jun,10,1822.429,16631,50,1788228,71.51,0.718,,Moderna,3188,Mild,Female Above 30 and Below 65,14386,1580
+BIH,Europe,Bosnia and Herzegovina,6/28/21,204991,21-Jun,4,18.714,9658,3,,77.4,0.78,,Moderna,277708,NewlyRecovered,Male Above 30 and Below 65,676,2
+BWA,Africa,Botswana,6/28/21,69680,21-Jun,5,553.143,1125,30,,69.59,0.735,,PfizerBioNTech,4003939,SeriousCritical,Male Below 30,3391,217
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,4,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,NewlyRecovered,Female Above 65,198,2
+BRN,Asia,Brunei,6/28/21,259,21-Jun,0,0.571,3,0,,75.86,0.838,,Moderna,30454,SeriousCritical,Female Below 30,563,4
+BGR,Europe,Bulgaria,6/28/21,421646,21-Jun,8,70.571,18040,13,944704,75.05,0.816,,PfizerBioNTech,32991282,NewlyRecovered,Female Above 30 and Below 65,8208,816
+BFA,Africa,Burkina Faso,6/28/21,13479,21-Jun,1,1.429,168,0,25833,61.58,0.452,,Moderna,1262,SeriousCritical,Male Above 65,511,3
+BDI,Africa,Burundi,6/28/21,5423,21-Jun,75,25.857,8,0,,61.58,0.433,,JohnsonJohnson,8696,Mild,Male Above 30 and Below 65,1380,31
+KHM,Asia,Cambodia,6/28/21,48532,21-Jun,9,726.571,556,16,4019751,69.82,0.594,,PfizerBioNTech,3458360,TotalRecovered,Male Below 30,1380,31
+CMR,Africa,Cameroon,6/28/21,80487,21-Jun,0,22.714,1320,0,88333,59.29,0.563,,PfizerBioNTech,38623102,NewlyRecovered,Female Above 65,40580,5683
+CAN,North America,Canada,6/28/21,1421695,21-Jun,2,637,26215,28,25610293,82.43,0.929,,OxfordAstraZeneca,113339,SeriousCritical,Female Below 30,40580,5683
+CPV,Africa,Cape Verde,6/28/21,32399,21-Jun,4,51.429,286,0,76390,72.98,0.665,,Moderna,19302,Mild,Female Above 30 and Below 65,1641,14
+CYM,North America,Cayman Islands,6/28/21,,21-Jun,,,,,48262,83.92,,,OxfordAstraZeneca,69579,TotalRecovered,Female Above 65,5379,171
+CAF,Africa,Central African Republic,6/28/21,7141,21-Jun,2,1.714,98,0,,53.28,0.397,,PfizerBioNTech,1644401,NewlyRecovered,Female Below 30,25561,2968
+TCD,Africa,Chad,6/28/21,4951,21-Jun,0,0.571,174,0,,54.24,0.398,,Moderna,24951,SeriousCritical,Female Above 30 and Below 65,433,9
+CHL,South America,Chile,6/28/21,1551137,21-Jun,6,4130.571,32454,156,,80.18,0.851,,Moderna,656926,Mild,Male Above 65,48343,6719
+CHN,Asia,China,6/28/21,91825,21-Jun,1,20.429,4636,0,,76.91,0.761,,JohnsonJohnson,1622000,TotalRecovered,Male Above 30 and Below 65,48321,7079
+COL,South America,Colombia,6/28/21,4187194,21-Jun,1,31255.571,105326,648,,77.29,0.767,,PfizerBioNTech,2763676,NewlyRecovered,Male Below 30,6649,400
+COM,Africa,Comoros,6/28/21,3912,21-Jun,6,0,146,0,,64.32,0.554,,JohnsonJohnson,11517956,SeriousCritical,Female Above 65,2374,126
+COG,Africa,Congo,6/28/21,12485,21-Jun,0,26.714,165,0,,64.57,0.574,,OxfordAstraZeneca,43144,Mild,Female Below 30,38574,5050
+CRI,North America,Costa Rica,6/28/21,364304,21-Jun,8,1458.429,4648,46,,80.28,0.81,,PfizerBioNTech,322211,TotalRecovered,Female Above 30 and Below 65,21784,2364
+CIV,Africa,Cote d'Ivoire,6/28/21,48203,21-Jun,0,22.286,313,1,745327,57.78,0.538,,OxfordAstraZeneca,306725,NewlyRecovered,Male Above 65,347,8
+HRV,Europe,Croatia,6/28/21,359666,21-Jun,5,68.857,8202,2,1482581,78.49,0.851,,JohnsonJohnson,9127,SeriousCritical,Male Above 30 and Below 65,27516,3296
+CUB,North America,Cuba,6/28/21,184943,21-Jun,20,2225.429,1253,12,,78.8,0.783,,OxfordAstraZeneca,176989,Mild,Male Below 30,1380,31
+CUW,North America,Curacao,6/28/21,,21-Jun,,,,,88632,78.88,,,OxfordAstraZeneca,184859,TotalRecovered,Female Above 65,5078,123
+CYP,Europe,Cyprus,6/28/21,75099,21-Jun,3,198.429,374,0,,80.98,0.887,,JohnsonJohnson,204468,NewlyRecovered,Female Below 30,37330,4373
+CZE,Europe,Czechia,6/28/21,1666947,21-Jun,1,123.571,30298,0,4994613,79.38,0.9,,Moderna,171716,SeriousCritical,Female Above 30 and Below 65,3391,217
+COD,Africa,Democratic Republic of Congo,6/28/21,40439,21-Jun,2,359,916,0,,60.68,0.48,,JohnsonJohnson,1778648,Mild,Male Above 65,44166,6610
+DNK,Europe,Denmark,6/28/21,293916,21-Jun,0,185.429,2534,1,3281015,80.9,0.94,,PfizerBioNTech,24608,TotalRecovered,Male Above 30 and Below 65,48343,6719
+DJI,Africa,Djibouti,6/28/21,11601,21-Jun,0,1.429,155,0,,67.11,0.524,,PfizerBioNTech,218095,NewlyRecovered,Male Below 30,3541,50
+DMA,North America,Dominica,6/28/21,193,21-Jun,2,0.286,,,,75,0.742,,JohnsonJohnson,17,SeriousCritical,Female Above 65,9343,829
+DOM,North America,Dominican Republic,6/28/21,323650,21-Jun,2,857.857,3801,4,,74.08,0.756,,PfizerBioNTech,2954838,Mild,Male Above 65,945,21
+ECU,South America,Ecuador,6/28/21,455743,21-Jun,5,1301.429,21523,0,,77.01,0.759,,OxfordAstraZeneca,179606,TotalRecovered,Male Above 30 and Below 65,40580,5683
+EGY,Africa,Egypt,6/28/21,280770,21-Jun,7,424.714,16125,33,,71.99,0.707,,OxfordAstraZeneca,15195,NewlyRecovered,Male Below 30,13444,1485
+SLV,North America,El Salvador,6/28/21,78766,21-Jun,5,183.143,2371,4,,73.32,0.673,,PfizerBioNTech,1567267,NewlyRecovered,Female Above 65,10556,30
+GNQ,Africa,Equatorial Guinea,6/28/21,8723,21-Jun,0,2.143,121,0,,58.74,0.592,,Moderna,1807866,SeriousCritical,Female Below 30,3343,160
+ERI,Africa,Eritrea,6/28/21,5884,21-Jun,10,66.143,22,1,,66.32,0.459,,OxfordAstraZeneca,646291,NewlyRecovered,Female Above 30 and Below 65,39204,5309
+EST,Europe,Estonia,6/28/21,130983,21-Jun,10,23.571,1269,0,555280,78.74,0.892,,Moderna,25646,SeriousCritical,Male Above 30 and Below 65,30967,3502
+SWZ,Africa,Eswatini,6/28/21,19084,21-Jun,4,36.143,678,0,,60.19,0.611,,Moderna,1870855,Mild,Male Below 30,676,2
+ETH,Africa,Ethiopia,6/28/21,275974,21-Jun,5,93.714,4315,1,,66.6,0.485,,Moderna,121125577,NewlyRecovered,Male Above 65,10358,943
+FRO,Europe,Faeroe Islands,6/28/21,,21-Jun,4,,,,28060,80.67,,,PfizerBioNTech,186127467,SeriousCritical,Male Above 30 and Below 65,2563,123
+FJI,Oceania,Fiji,6/28/21,3832,21-Jun,0,248.857,17,2,,67.44,0.743,,PfizerBioNTech,6062839,NewlyRecovered,Male Below 30,210,3
+FIN,Europe,Finland,6/28/21,95168,21-Jun,8,112.714,969,0,3227042,81.91,0.938,,CanSino,10450,SeriousCritical,Female Above 65,250,1
+FRA,Europe,France,6/28/21,5832490,21-Jun,1,1843.714,111174,44,,82.66,0.901,,PfizerBioNTech,597717,NewlyRecovered,Female Below 30,210,3
+GAB,Africa,Gabon,6/28/21,24984,21-Jun,75,17.143,159,0,,66.47,0.703,,PfizerBioNTech,2653189,SeriousCritical,Female Above 30 and Below 65,352,6
+GMB,Africa,Gambia,6/28/21,6069,21-Jun,9,3.429,181,0,,62.05,0.496,,PfizerBioNTech,7763195,Mild,Male Above 65,13015,1397
+GEO,Asia,Georgia,6/28/21,363874,21-Jun,0,676.143,5275,9,254737,73.77,0.812,,Moderna,70,TotalRecovered,Male Above 30 and Below 65,2868,39
+DEU,Europe,Germany,6/28/21,3734830,21-Jun,2,601.571,90826,58,44886784,81.33,0.947,,PfizerBioNTech,30602125,NewlyRecovered,Male Below 30,3541,50
+GHA,Africa,Ghana,6/28/21,95476,21-Jun,4,59.571,795,0,,64.07,0.611,,Moderna,1,SeriousCritical,Female Above 65,19423,1953
+GRC,Europe,Greece,6/28/21,421266,21-Jun,,388.286,12663,8,4762181,82.24,0.888,,PfizerBioNTech,219676,Mild,Female Below 30,2374,126
+GRL,North America,Greenland,6/28/21,,21-Jun,2,,,,25298,71.7,,,OxfordAstraZeneca,306124,TotalRecovered,Female Above 30 and Below 65,181,1
+GRD,North America,Grenada,6/28/21,161,21-Jun,0,0,1,0,,72.4,0.779,,JohnsonJohnson,297824,NewlyRecovered,Male Above 65,7262,554
+GTM,North America,Guatemala,6/28/21,291977,21-Jun,6,1589,9089,39,,74.3,0.663,,PfizerBioNTech,12798,SeriousCritical,Male Above 30 and Below 65,2868,39
+GIN,Africa,Guinea,6/28/21,23744,21-Jun,1,29.857,168,0,,61.6,0.477,,Moderna,215678,Mild,Male Below 30,3603,210
+GNB,Africa,Guinea-Bissau,6/28/21,3846,21-Jun,1,3,69,0,21855,58.32,0.48,,PfizerBioNTech,912824,TotalRecovered,Female Above 65,37780,4802
+GUY,South America,Guyana,6/28/21,19891,21-Jun,6,106.714,466,4,,69.91,0.682,,JohnsonJohnson,0,NewlyRecovered,Male Above 65,3453,47
+HTI,North America,Haiti,6/28/21,18212,21-Jun,0,164.429,413,13,,64,0.51,,OxfordAstraZeneca,217059,SeriousCritical,Male Above 30 and Below 65,11721,1007
+HND,North America,Honduras,6/28/21,260331,21-Jun,8,876.714,6922,6,,75.27,0.634,,Moderna,721192,Mild,Male Below 30,5181,1
+HKG,Asia,Hong Kong,6/28/21,11920,21-Jun,0,4.429,210,0,2179683,84.86,0.949,,Moderna,248526,TotalRecovered,Female Above 65,2352,6
+HUN,Europe,Hungary,6/28/21,808042,21-Jun,5,58.857,29989,9,5477405,76.88,0.854,,JohnsonJohnson,3307113,NewlyRecovered,Female Below 30,34630,4076
+ISL,Europe,Iceland,6/28/21,6555,21-Jun,20,0,29,0,,82.99,0.949,,Sinovac,1067158,SeriousCritical,Female Above 30 and Below 65,5731,217
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 30 and Below 65,5078,123
+IDN,Asia,Indonesia,6/28/21,2135998,21-Jun,3,18793.286,57561,423,27419898,71.72,0.718,,OxfordAstraZeneca,187096,TotalRecovered,Male Below 30,39550,4959
+IRN,Asia,Iran,6/28/21,3180092,21-Jun,1,10638.857,83985,140,,76.68,0.783,,OxfordAstraZeneca,563768,NewlyRecovered,Female Above 65,13015,1197
+IRQ,Asia,Iraq,6/28/21,1332046,21-Jun,2,5620.857,17121,30,,70.6,0.674,,Moderna,325091,SeriousCritical,Female Below 30,1835,74
+IRL,Europe,Ireland,6/28/21,271589,21-Jun,0,324,4989,0,,82.3,0.955,,JohnsonJohnson,361802,Mild,Female Above 30 and Below 65,44166,6610
+IMN,Europe,Isle of Man,6/28/21,,21-Jun,0,,,,63236,81.4,,,PfizerBioNTech,48221685,TotalRecovered,Male Above 65,36127,4512
+ISR,Asia,Israel,6/28/21,841196,21-Jun,2,172.286,6429,0,5566179,82.97,0.919,,OxfordAstraZeneca,4804950,NewlyRecovered,Male Above 30 and Below 65,7262,554
+ITA,Europe,Italy,6/28/21,4258456,21-Jun,2,713.714,127500,28,33582287,83.51,0.892,,PfizerBioNTech,4461960,SeriousCritical,Male Below 30,6205,307
+JAM,North America,Jamaica,6/28/21,50054,21-Jun,5,48.857,1061,0,,74.47,0.734,,OxfordAstraZeneca,24084,Mild,Female Above 65,39550,4959
+JPN,Asia,Japan,6/28/21,797084,21-Jun,7,1502.571,14659,38,28049718,84.63,0.919,,OxfordAstraZeneca,5,TotalRecovered,Female Below 30,44974,5677
+JOR,Asia,Jordan,6/28/21,750389,21-Jun,5,484.143,9737,10,2371379,74.53,0.729,,PfizerBioNTech,42596130,NewlyRecovered,Female Above 30 and Below 65,30967,3502
+KAZ,Asia,Kazakhstan,6/28/21,478063,21-Jun,0,1570.571,3527,3,3165155,73.6,0.825,,PfizerBioNTech,41010,SeriousCritical,Female Above 65,901,7
+KEN,Africa,Kenya,6/28/21,182884,21-Jun,10,513,3612,17,1003204,66.7,0.601,,PfizerBioNTech,10437,Mild,Female Below 30,20534,2192
+KIR,Oceania,Kiribati,6/28/21,2,21-Jun,10,0,,,,68.37,0.63,,Moderna,2375,TotalRecovered,Female Above 30 and Below 65,1641,14
+OWID_KOS,Europe,Kosovo,6/28/21,107331,21-Jun,4,12,2262,2,,,,,JohnsonJohnson,78410,NewlyRecovered,Female Above 65,14445,1388
+KWT,Asia,Kuwait,6/28/21,353133,21-Jun,5,1738,1943,10,,75.49,0.806,,OxfordAstraZeneca,129307,SeriousCritical,Female Below 30,1978,75
+KGZ,Asia,Kyrgyzstan,6/28/21,121946,21-Jun,4,904.429,1982,5,,71.45,0.697,,PfizerBioNTech,3939640,Mild,Female Above 30 and Below 65,34630,4076
+LAO,Asia,Laos,6/28/21,2110,21-Jun,0,8,3,0,886238,67.92,0.613,,PfizerBioNTech,30285,TotalRecovered,Male Above 65,306,5
+LVA,Europe,Latvia,6/28/21,137240,21-Jun,8,55.714,2503,0,646816,75.29,0.866,,PfizerBioNTech,800991,NewlyRecovered,Male Above 30 and Below 65,24541,2731
+LBN,Asia,Lebanon,6/28/21,544520,21-Jun,1,138.429,7845,2,870901,78.93,0.744,,PfizerBioNTech,131657484,SeriousCritical,Male Above 65,3775,238
+LSO,Africa,Lesotho,6/28/21,11239,21-Jun,75,18.857,329,0,,54.33,0.527,,OxfordAstraZeneca,39231,Mild,Male Above 30 and Below 65,2337,15
+LBR,Africa,Liberia,6/28/21,3794,21-Jun,9,97.857,123,3,79670,64.1,0.48,,PfizerBioNTech,7895198,TotalRecovered,Male Below 30,13015,1197
+LBY,Africa,Libya,6/28/21,192786,21-Jun,0,249.714,3191,4,,72.91,0.724,,OxfordAstraZeneca,342096,NewlyRecovered,Female Above 65,840,23
+LIE,Europe,Liechtenstein,6/28/21,3034,21-Jun,2,0.857,59,0,,82.49,0.919,,OxfordAstraZeneca,58452,TotalRecovered,Female Below 30,37780,4802
+LTU,Europe,Lithuania,6/28/21,278689,21-Jun,4,40.286,4381,1,1231196,75.93,0.882,,Moderna,764791,NewlyRecovered,Female Above 30 and Below 65,5810,250
+LUX,Europe,Luxembourg,6/28/21,70642,21-Jun,,15.286,818,0,328962,82.25,0.916,,PfizerBioNTech,4183099,TotalRecovered,Male Above 65,4306,5
+MAC,Asia,Macao,6/28/21,,21-Jun,2,,,,229957,84.24,,,PfizerBioNTech,11924683,NewlyRecovered,Male Above 30 and Below 65,18492,1907
+MDG,Africa,Madagascar,6/28/21,42194,21-Jun,0,8.143,909,3,197001,67.04,0.528,,JohnsonJohnson,0,SeriousCritical,Male Below 30,199,3
+MWI,Africa,Malawi,6/28/21,35709,21-Jun,6,113.571,1187,5,385242,64.26,0.483,,Moderna,2443605,Mild,Female Above 65,5379,171
+MYS,Asia,Malaysia,6/28/21,739266,21-Jun,1,5463.857,5001,57,5463128,76.16,0.81,,JohnsonJohnson,0,TotalRecovered,Female Below 30,5731,217
+MDV,Asia,Maldives,6/28/21,73482,21-Jun,1,190.429,209,0,,78.92,0.74,,OxfordAstraZeneca,62497,NewlyRecovered,Female Above 30 and Below 65,36574,4465
+MLI,Africa,Mali,6/28/21,14419,21-Jun,6,4.857,525,0,,59.31,0.434,,OxfordAstraZeneca,40,SeriousCritical,Male Above 65,840,23
+MLT,Europe,Malta,6/28/21,30612,21-Jun,0,3.143,420,0,357171,82.53,0.895,,JohnsonJohnson,1248174,Mild,Male Above 30 and Below 65,198,2
+MHL,Oceania,Marshall Islands,6/28/21,4,21-Jun,8,0,,,,73.7,0.704,,PfizerBioNTech,50026083,TotalRecovered,Male Below 30,39504,5088
+MRT,Africa,Mauritania,6/28/21,20676,21-Jun,0,44.429,487,1,,64.92,0.546,,Moderna,133665,NewlyRecovered,Female Above 65,2374,126
+MUS,Africa,Mauritius,6/28/21,1833,21-Jun,5,18.857,18,0,,74.99,0.804,,Moderna,23120,SeriousCritical,Male Above 65,36127,4512
+MEX,North America,Mexico,6/28/21,2507453,21-Jun,20,4128.857,232608,44,,75.05,0.779,,Moderna,18933,Mild,Male Above 30 and Below 65,228,1
+FSM,Oceania,Micronesia (country),6/28/21,1,21-Jun,,0,,,,67.88,0.62,,Moderna,37220,TotalRecovered,Male Below 30,44526,6471
+MDA,Europe,Moldova,6/28/21,256614,21-Jun,3,61,6187,3,435687,71.9,0.75,,PfizerBioNTech,2022454,NewlyRecovered,Female Above 65,5945,280
+MCO,Europe,Monaco,6/28/21,2575,21-Jun,1,3.714,33,0,,86.75,,,OxfordAstraZeneca,216125,TotalRecovered,Female Below 30,763,7
+MNG,Asia,Mongolia,6/28/21,111505,21-Jun,2,1922.143,533,0,1981613,69.87,0.737,,PfizerBioNTech,281650,NewlyRecovered,Female Above 30 and Below 65,4409,340
+MNE,Europe,Montenegro,6/28/21,100204,21-Jun,0,16,1609,0,150031,76.88,0.829,,PfizerBioNTech,63693721,TotalRecovered,Male Above 30 and Below 65,44166,6610
+MAR,Africa,Morocco,6/28/21,529895,21-Jun,0,451.143,9283,6,9908882,76.68,0.686,,OxfordAstraZeneca,43018,NewlyRecovered,Male Below 30,5810,250
+MOZ,Africa,Mozambique,6/28/21,75422,21-Jun,2,406.429,869,1,,60.85,0.456,,PfizerBioNTech,1042927,SeriousCritical,Female Above 65,23792,2746
+MMR,Asia,Myanmar,6/28/21,154385,21-Jun,2,824,3309,12,,67.13,0.583,,OxfordAstraZeneca,370753,Mild,Female Below 30,228,1
+NAM,Africa,Namibia,6/28/21,86649,21-Jun,5,1554.714,1445,45,,63.71,0.646,,PfizerBioNTech,1151057,TotalRecovered,Female Above 30 and Below 65,7276,567
+NPL,Asia,Nepal,6/28/21,635188,21-Jun,7,1792.571,9051,42,2587873,70.78,0.602,,PfizerBioNTech,156381,NewlyRecovered,Male Above 65,2702,127
+NLD,Europe,Netherlands,6/28/21,1711545,21-Jun,5,623.429,18024,0,,82.28,0.944,,OxfordAstraZeneca,3791775,SeriousCritical,Male Above 30 and Below 65,563,4
+NZL,Oceania,New Zealand,6/28/21,2742,21-Jun,0,3,26,0,,82.29,0.931,,Moderna,257739,Mild,Male Below 30,3453,47
+NIC,North America,Nicaragua,6/28/21,7920,21-Jun,10,32,189,0,,74.48,0.66,,JohnsonJohnson,1944532,TotalRecovered,Male Above 65,13015,1197
+NER,Africa,Niger,6/28/21,5480,21-Jun,10,1.571,193,0,,62.42,0.394,,JohnsonJohnson,0,NewlyRecovered,Male Above 30 and Below 65,373,1
+NGA,Africa,Nigeria,6/28/21,167532,21-Jun,4,34.286,2119,0,,54.69,0.539,,PfizerBioNTech,218095,SeriousCritical,Male Below 30,21784,2364
+MKD,Europe,North Macedonia,6/28/21,155676,21-Jun,5,7,5484,0,,75.8,0.774,,PfizerBioNTech,9578174,Mild,Female Above 65,4220,75
+NOR,Europe,Norway,6/28/21,130744,21-Jun,4,171.286,792,0,2495201,82.4,0.957,,Moderna,7,TotalRecovered,Female Below 30,4409,340
+OMN,Asia,Oman,6/28/21,264302,21-Jun,0,1961.429,3013,46,854274,77.86,0.813,,JohnsonJohnson,38210,NewlyRecovered,Female Above 30 and Below 65,433,9
+PAK,Asia,Pakistan,6/28/21,956392,21-Jun,8,936.286,22254,23,,67.27,0.557,,OxfordAstraZeneca,178518,Mild,Male Above 65,42164,5821
+PSE,Asia,Palestine,6/28/21,313851,21-Jun,1,148.571,3561,2,490082,74.05,0.708,,OxfordAstraZeneca,103691,TotalRecovered,Male Above 30 and Below 65,5810,250
+PAN,North America,Panama,6/28/21,401332,21-Jun,75,1013,6529,5,994064,78.51,0.815,,PfizerBioNTech,484291,NewlyRecovered,Male Below 30,40326,5079
+PNG,Oceania,Papua New Guinea,6/28/21,17098,21-Jun,9,12.143,173,0,,64.5,0.555,,OxfordAstraZeneca,835580,SeriousCritical,Female Above 65,1380,31
+PRY,South America,Paraguay,6/28/21,419764,21-Jun,0,1720.429,12641,124,,74.25,0.728,,PfizerBioNTech,1912347,Mild,Female Below 30,39204,5309
+PER,South America,Peru,6/28/21,2048115,21-Jun,2,2500.571,191899,315,,76.74,0.777,,PfizerBioNTech,32232422,TotalRecovered,Female Above 30 and Below 65,228,1
+PHL,Asia,Philippines,6/28/21,1403588,21-Jun,4,5621.286,24456,84,,71.23,0.718,,PfizerBioNTech,87142,NewlyRecovered,Male Above 65,8501,14
+POL,Europe,Poland,6/28/21,2879689,21-Jun,,121.286,74979,0,16716871,78.73,0.88,,PfizerBioNTech,243669,NewlyRecovered,Male Above 30 and Below 65,19636,2089
+PRT,Europe,Portugal,6/28/21,875449,21-Jun,2,1377.571,17086,2,5386835,82.05,0.864,,PfizerBioNTech,3359401,SeriousCritical,Male Below 30,5078,123
+QAT,Asia,Qatar,6/28/21,221810,21-Jun,0,125.714,588,0,1689837,80.23,0.848,,PfizerBioNTech,397127,Mild,Female Above 65,42328,5286
+ROU,Europe,Romania,6/28/21,1080667,21-Jun,6,55,33311,58,4702086,76.05,0.828,,PfizerBioNTech,6354991,TotalRecovered,Male Above 65,8084,697
+RUS,Europe,Russia,6/28/21,5408744,21-Jun,1,19488,131671,601,21790363,72.58,0.824,,Moderna,122580,TotalRecovered,Male Above 30 and Below 65,5077,432
+RWA,Africa,Rwanda,6/28/21,37384,21-Jun,1,849.857,427,7,,69.02,0.543,,PfizerBioNTech,41577309,NewlyRecovered,Male Below 30,413701,56709
+KNA,North America,Saint Kitts and Nevis,6/28/21,439,21-Jun,6,12.714,3,0,,76.23,0.779,,JohnsonJohnson,26,SeriousCritical,Female Above 65,2563,123
+LCA,North America,Saint Lucia,6/28/21,5284,21-Jun,0,9.429,84,0,,76.2,0.759,,SinopharmBeijing,1873498,Mild,Female Below 30,40580,5683
+VCT,North America,Saint Vincent and the Grenadines,6/28/21,2219,21-Jun,8,3.286,12,0,,72.53,0.738,,OxfordAstraZeneca,23333,TotalRecovered,Female Above 30 and Below 65,3752,65
+WSM,Oceania,Samoa,6/28/21,3,21-Jun,0,0,,,,73.32,0.715,,Moderna,28350,NewlyRecovered,Male Above 30 and Below 65,48343,6719
+SMR,Europe,San Marino,6/28/21,5091,21-Jun,5,0.143,90,0,,84.97,,,PfizerBioNTech,6241647,SeriousCritical,Male Below 30,7262,554
+STP,Africa,Sao Tome and Principe,6/28/21,2365,21-Jun,20,0.429,37,0,16453,70.39,0.625,,OxfordAstraZeneca,10462051,Mild,Female Above 65,15199,1474
+SAU,Asia,Saudi Arabia,6/28/21,484539,21-Jun,,1305.143,7789,14,,75.13,0.854,,PfizerBioNTech,41237,TotalRecovered,Female Below 30,1185,47
+SEN,Africa,Senegal,6/28/21,42929,21-Jun,3,70.286,1164,0,515344,67.94,0.512,,PfizerBioNTech,49089,NewlyRecovered,Female Above 30 and Below 65,41363,6045
+SRB,Europe,Serbia,6/28/21,716385,21-Jun,1,77.714,7039,8,,76,0.806,,JohnsonJohnson,78410,SeriousCritical,Male Above 65,8208,816
+SYC,Africa,Seychelles,6/28/21,15579,21-Jun,2,208,68,5,,73.4,0.796,,PfizerBioNTech,487334,Mild,Male Above 30 and Below 65,46888,5960
+SLE,Africa,Sierra Leone,6/28/21,5443,21-Jun,0,80.571,97,3,,54.7,0.452,,Moderna,323062,TotalRecovered,Male Above 65,982,25
+SGP,Asia,Singapore,6/28/21,62553,21-Jun,0,17.571,36,0,,83.62,0.938,,Moderna,38575,NewlyRecovered,Male Above 30 and Below 65,1353,37
+SVK,Europe,Slovakia,6/28/21,391566,21-Jun,2,34.286,12509,4,2007665,77.54,0.86,,PfizerBioNTech,1557676,Mild,Male Below 30,2729,136
+SVN,Europe,Slovenia,6/28/21,257252,21-Jun,2,35.857,4419,0,815838,81.32,0.917,,JohnsonJohnson,10939901,TotalRecovered,Female Above 65,1835,74
+SLB,Oceania,Solomon Islands,6/28/21,20,21-Jun,5,0,,,,73,0.567,,Sinovac,640232,NewlyRecovered,Female Below 30,4754,124
+SOM,Africa,Somalia,6/28/21,14933,21-Jun,7,9.429,775,0,137981,57.4,,,OxfordAstraZeneca,44961,SeriousCritical,Female Above 30 and Below 65,22571,2499
+ZAF,Africa,South Africa,6/28/21,1941119,21-Jun,5,15520,60038,138,2787996,64.13,0.709,,OxfordAstraZeneca,333289,Mild,Male Above 65,9343,829
+KOR,Asia,South Korea,6/28/21,156167,21-Jun,0,609.429,2017,2,15304120,83.03,0.916,,Moderna,53610,TotalRecovered,Male Above 30 and Below 65,15199,1474
+SSD,Africa,South Sudan,6/28/21,10824,21-Jun,10,5.429,116,1,42166,57.85,0.433,,JohnsonJohnson,94539,NewlyRecovered,Male Below 30,41556,6237
+ESP,Europe,Spain,6/28/21,3792642,21-Jun,10,3998.714,80789,10,,83.56,0.904,,OxfordAstraZeneca,151216,NewlyRecovered,Female Above 65,39204,5309
+LKA,Asia,Sri Lanka,6/28/21,255508,21-Jun,4,1955.429,2985,41,2605558,76.98,0.782,,OxfordAstraZeneca,7473179,SeriousCritical,Female Below 30,38574,5050
+SDN,Africa,Sudan,6/28/21,36620,21-Jun,5,39,2754,0,550291,65.31,0.51,,JohnsonJohnson,26,NewlyRecovered,Female Above 30 and Below 65,3752,65
+SUR,South America,Suriname,6/28/21,21360,21-Jun,4,174.143,512,5,157982,71.68,0.738,,JohnsonJohnson,55848,SeriousCritical,Male Above 65,20534,2192
+SWE,Europe,Sweden,6/28/21,1088896,21-Jun,0,608.571,14619,0,,82.8,0.945,,JohnsonJohnson,5,Mild,Male Above 30 and Below 65,14445,1388
+CHE,Europe,Switzerland,6/28/21,702746,21-Jun,8,107.429,10885,3,,83.78,0.955,,Moderna,4,TotalRecovered,Male Below 30,1835,74
+SYR,Asia,Syria,6/28/21,25442,21-Jun,1,40.571,1870,3,,72.7,0.567,,OxfordAstraZeneca,7556219,NewlyRecovered,Female Above 65,23116,2374
+TWN,Asia,Taiwan,6/28/21,14694,21-Jun,75,87.714,635,3,1926572,80.46,,,PfizerBioNTech,32648,SeriousCritical,Male Above 65,38574,5050
+TJK,Asia,Tajikistan,6/28/21,13460,21-Jun,9,21.714,90,0,,71.1,0.668,,OxfordAstraZeneca,269591,Mild,Male Above 30 and Below 65,18492,1907
+TZA,Africa,Tanzania,6/28/21,509,21-Jun,0,0,21,0,,65.46,0.529,,Moderna,74016,TotalRecovered,Male Below 30,204,3
+THA,Asia,Thailand,6/28/21,249853,21-Jun,2,4078.143,1934,22,6721038,77.15,0.777,,OxfordAstraZeneca,194383,NewlyRecovered,Female Above 65,2702,127
+TLS,Asia,Timor,6/28/21,9055,21-Jun,4,46.714,21,0,,69.5,0.606,,PfizerBioNTech,1466214,SeriousCritical,Female Below 30,35264,4206
+TGO,Africa,Togo,6/28/21,13846,21-Jun,,16.429,128,0,,61.04,0.515,,JohnsonJohnson,391734,Mild,Male Above 65,4403,97
+TTO,North America,Trinidad and Tobago,6/28/21,32343,21-Jun,2,225.143,822,5,211363,73.51,0.796,,PfizerBioNTech,322027,TotalRecovered,Male Above 30 and Below 65,7262,554
+TUN,Africa,Tunisia,6/28/21,408931,21-Jun,0,3357.571,14737,83,,76.7,0.74,,Moderna,68858013,NewlyRecovered,Male Below 30,315,3
+TUR,Asia,Turkey,6/28/21,5414310,21-Jun,6,5531,49634,58,33934402,77.69,0.82,,Sinovac,830628,SeriousCritical,Female Above 65,5077,432
+UGA,Africa,Uganda,6/28/21,79089,21-Jun,1,915.714,956,53,,63.37,0.544,,Sinovac,562744,Mild,Female Below 30,2374,126
+UKR,Europe,Ukraine,6/28/21,2298478,21-Jun,1,965.143,54517,19,1912469,72.06,0.779,,PfizerBioNTech,143745,TotalRecovered,Female Above 30 and Below 65,44395,6546
+ARE,Asia,United Arab Emirates,6/28/21,628976,21-Jun,6,2140.429,1802,6,,77.97,0.89,,OxfordAstraZeneca,383508,NewlyRecovered,Male Above 65,44526,6471
+GBR,Europe,United Kingdom,6/28/21,4771367,21-Jun,0,16404.429,128367,3,,81.32,0.932,,Moderna,94678,Mild,Male Above 30 and Below 65,44802,6290
+USA,North America,United States,6/28/21,33640502,21-Jun,8,12318.143,604115,150,179615165,78.86,0.926,,OxfordAstraZeneca,4458360,TotalRecovered,Male Below 30,44526,6471
+URY,South America,Uruguay,6/28/21,366915,21-Jun,0,1504.714,5524,30,,77.91,0.817,,PfizerBioNTech,4281764,NewlyRecovered,Female Above 65,5638,163
+UZB,Asia,Uzbekistan,6/28/21,109692,21-Jun,5,462.857,731,2,,71.72,0.72,,OxfordAstraZeneca,10079638,SeriousCritical,Female Below 30,26496,3114
+VUT,Oceania,Vanuatu,6/28/21,4,21-Jun,20,0,1,0,,70.47,0.609,,JohnsonJohnson,1871546,Mild,Female Above 30 and Below 65,7174,438
+VAT,Europe,Vatican,6/28/21,27,21-Jun,,0,,,,75.12,,,OxfordAstraZeneca,,TotalRecovered,Male Above 65,10556,30
+VEN,South America,Venezuela,6/28/21,269635,21-Jun,3,1085.286,3068,0,,72.06,0.711,,OxfordAstraZeneca,,NewlyRecovered,Male Above 30 and Below 65,3603,210
+VNM,Asia,Vietnam,6/28/21,16136,21-Jun,1,372.286,78,2,3324110,75.4,0.704,,OxfordAstraZeneca,,SeriousCritical,Male Below 30,3939,277
+YEM,Asia,Yemen,6/28/21,6909,21-Jun,2,2.857,1361,1,,66.12,0.47,,OxfordAstraZeneca,,TotalRecovered,Female Above 65,16987,1651
+ZMB,Africa,Zambia,6/28/21,149661,21-Jun,0,2718.571,2091,69,,63.89,0.584,,OxfordAstraZeneca,,NewlyRecovered,Male Above 65,198,2
+ZWE,Africa,Zimbabwe,6/28/21,47284,21-Jun,0,727,1749,13,,61.49,0.571,,OxfordAstraZeneca,,SeriousCritical,Male Above 30 and Below 65,7174,438
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,397637,907,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,Mild,Male Below 30,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,6000,800,265545768,69.66,0.645,,OxfordAstraZeneca,163032,TotalRecovered,Female Above 65,4000,4000
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,45000,907,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,NewlyRecovered,Female Below 30,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,7,48433.714,397637,300,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,SeriousCritical,Female Above 30 and Below 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,70000,907,265545768,69.66,0.645,,OxfordAstraZeneca,566082,Mild,Male Above 30 and Below 65,41363,6045
+IND,Asia,India,6/28/21,30316897,21-Jun,10,48433.714,397637,600,265545768,69.66,0.645,,OxfordAstraZeneca,82622178,TotalRecovered,Male Below 30,2868,500
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,30000,200,265545768,69.66,0.645,,OxfordAstraZeneca,10450,NewlyRecovered,Female Above 65,250,1000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,1000000,907,265545768,69.66,0.645,,OxfordAstraZeneca,1873498,SeriousCritical,Female Below 30,40580,5683
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,4,1692.714,4730,211,,64.83,0.511,,OxfordAstraZeneca,10804437,Mild,Female Above 30 and Below 65,14445,1388
+ALB,Europe,Bangladesh,6/28/21,4,21-Jun,5,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,TotalRecovered,Male Above 65,1835,74
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,4,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,NewlyRecovered,Male Above 30 and Below 65,44392,6443
+AND,Europe,Andorra,6/28/21,13882,21-Jun,0,2.571,127,0,,83.73,0.868,,OxfordAstraZeneca,298706,SeriousCritical,Male Below 30,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,8,123.571,891,2,943301,61.15,0.581,,OxfordAstraZeneca,3028162,Mild,Female Above 65,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,1,0,42,0,,77.02,0.778,,OxfordAstraZeneca,23,NewlyRecovered,Female Below 30,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,1,20891.571,93142,574,15993494,76.67,0.845,,OxfordAstraZeneca,2707983,SeriousCritical,Male Above 65,2203,81
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,9,85.429,4510,2,,75.09,0.776,,OxfordAstraZeneca,4,NewlyRecovered,Male Above 30 and Below 65,44502,6455
+ABW,North America,Aruba,6/28/21,,21-Jun,0,,,,67457,76.29,,,OxfordAstraZeneca,533,SeriousCritical,Male Below 30,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,2,27.714,910,0,6152645,83.44,0.944,,OxfordAstraZeneca,2975738,NewlyRecovered,Female Above 65,10556,30
+AUT,Europe,Austria,6/28/21,650324,21-Jun,4,93.429,10701,1,4692442,81.54,0.922,,OxfordAstraZeneca,9020928,SeriousCritical,Female Below 30,14445,1388
+AZE,Asia,Azerbaijan,6/28/21,335874,21-Jun,,50.429,4970,2,2139001,73,0.756,,OxfordAstraZeneca,10026,Mild,Female Above 30 and Below 65,1353,37
+BHS,North America,Bahamas,6/28/21,12467,21-Jun,2,14.714,245,0,,73.92,0.814,,OxfordAstraZeneca,293234,TotalRecovered,Male Above 65,27334,3160
+BHR,Asia,Bahrain,6/28/21,265477,21-Jun,0,311.714,1348,3,1054837,77.29,0.852,,OxfordAstraZeneca,315676,NewlyRecovered,Male Above 30 and Below 65,5731,217
+BGD,Asia,Bangladesh,6/28/21,5,21-Jun,6,5780.857,14276,0,5823245,72.59,0.632,,OxfordAstraZeneca,8886,SeriousCritical,Male Below 30,42328,5286
+BRB,North America,Barbados,6/28/21,4077,21-Jun,1,4.571,47,0,,79.19,0.814,,OxfordAstraZeneca,342263,Mild,Female Above 65,2337,112
+BLR,Europe,Belarus,6/28/21,415780,21-Jun,1,661,3122,9,,74.79,0.823,,OxfordAstraZeneca,168953,TotalRecovered,Female Below 30,44392,6443
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,6,548.286,25168,8,7013433,81.63,0.931,,OxfordAstraZeneca,566082,NewlyRecovered,Female Above 30 and Below 65,41363,6045
+BLZ,North America,Belize,6/28/21,13189,21-Jun,0,21.429,329,0,,74.62,0.716,,OxfordAstraZeneca,82622178,SeriousCritical,Male Above 65,2868,39
+BEN,Africa,Benin,6/28/21,8170,21-Jun,8,4.286,104,0,36188,61.77,0.545,,OxfordAstraZeneca,36223,Mild,Male Above 30 and Below 65,13015,1197
+BTN,Asia,Bhutan,6/28/21,2062,21-Jun,0,17.571,1,0,,71.78,0.654,,OxfordAstraZeneca,70268,TotalRecovered,Male Below 30,204,3
+BOL,South America,Bolivia,6/28/21,435568,21-Jun,5,1822.429,16631,50,1788228,71.51,0.718,,OxfordAstraZeneca,3188,NewlyRecovered,Female Above 65,14386,1580
+BIH,Europe,Bosnia and Herzegovina,6/28/21,204991,21-Jun,20,18.714,9658,3,,77.4,0.78,,OxfordAstraZeneca,277708,SeriousCritical,Male Above 65,676,2
+BWA,Africa,Botswana,6/28/21,69680,21-Jun,,553.143,1125,30,,69.59,0.735,,OxfordAstraZeneca,4003939,Mild,Male Above 30 and Below 65,3391,217
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,3,68795.857,514092,618,71291563,75.88,0.765,,OxfordAstraZeneca,10389329,TotalRecovered,Male Below 30,198,2
+BRN,Asia,Brunei,6/28/21,259,21-Jun,1,0.571,3,0,,75.86,0.838,,OxfordAstraZeneca,30454,NewlyRecovered,Female Above 65,563,4
+BGR,Europe,Bulgaria,6/28/21,421646,21-Jun,2,70.571,18040,13,944704,75.05,0.816,,OxfordAstraZeneca,32991282,SeriousCritical,Female Below 30,8208,816
+BFA,Africa,Burkina Faso,6/28/21,13479,21-Jun,0,1.429,168,0,25833,61.58,0.452,,OxfordAstraZeneca,1262,Mild,Female Above 30 and Below 65,511,3
+BDI,Africa,Burundi,6/28/21,5423,21-Jun,0,25.857,8,0,,61.58,0.433,,OxfordAstraZeneca,8696,TotalRecovered,Male Above 30 and Below 65,1380,31
+KHM,Asia,Cambodia,6/28/21,48532,21-Jun,2,726.571,556,16,4019751,69.82,0.594,,OxfordAstraZeneca,3458360,NewlyRecovered,Male Below 30,1380,31
+CMR,Africa,Cameroon,6/28/21,80487,21-Jun,2,22.714,1320,0,88333,59.29,0.563,,OxfordAstraZeneca,38623102,SeriousCritical,Female Above 65,40580,5683
+CAN,North America,Canada,6/28/21,1421695,21-Jun,5,637,26215,28,25610293,82.43,0.929,,OxfordAstraZeneca,113339,Mild,Female Below 30,40580,5683
+CPV,Africa,Cape Verde,6/28/21,32399,21-Jun,7,51.429,286,0,76390,72.98,0.665,,OxfordAstraZeneca,19302,TotalRecovered,Female Above 30 and Below 65,1641,14
+CYM,North America,Cayman Islands,6/28/21,,21-Jun,5,,,,48262,83.92,,,OxfordAstraZeneca,69579,NewlyRecovered,Male Above 65,5379,171
+CAF,Africa,Central African Republic,6/28/21,7141,21-Jun,0,1.714,98,0,,53.28,0.397,,PfizerBioNTech,1644401,SeriousCritical,Male Above 30 and Below 65,25561,2968
+TCD,Africa,Chad,6/28/21,4951,21-Jun,10,0.571,174,0,,54.24,0.398,,Moderna,24951,TotalRecovered,Male Below 30,433,9
+CHL,South America,Chile,6/28/21,1551137,21-Jun,10,4130.571,32454,156,,80.18,0.851,,Moderna,656926,NewlyRecovered,Female Above 65,48343,6719
+CHN,Asia,China,6/28/21,91825,21-Jun,4,20.429,4636,0,,76.91,0.761,,JohnsonJohnson,1622000,SeriousCritical,Female Below 30,48321,7079
+COL,South America,Colombia,6/28/21,4187194,21-Jun,5,31255.571,105326,648,,77.29,0.767,,PfizerBioNTech,2763676,Mild,Female Above 30 and Below 65,6649,400
+COM,Africa,Comoros,6/28/21,3912,21-Jun,4,0,146,0,,64.32,0.554,,JohnsonJohnson,11517956,TotalRecovered,Female Above 65,2374,126
+COG,Africa,Congo,6/28/21,12485,21-Jun,0,26.714,165,0,,64.57,0.574,,OxfordAstraZeneca,43144,NewlyRecovered,Female Below 30,38574,5050
+CRI,North America,Costa Rica,6/28/21,364304,21-Jun,8,1458.429,4648,46,,80.28,0.81,,OxfordAstraZeneca,322211,SeriousCritical,Female Above 30 and Below 65,21784,2364
+CIV,Africa,Cote d'Ivoire,6/28/21,48203,21-Jun,1,22.286,313,1,745327,57.78,0.538,,OxfordAstraZeneca,306725,Mild,Male Above 65,347,8
+HRV,Europe,Croatia,6/28/21,359666,21-Jun,75,68.857,8202,2,1482581,78.49,0.851,,OxfordAstraZeneca,9127,TotalRecovered,Male Above 30 and Below 65,27516,3296
+CUB,North America,Cuba,6/28/21,184943,21-Jun,9,2225.429,1253,12,,78.8,0.783,,OxfordAstraZeneca,176989,NewlyRecovered,Male Below 30,1380,31
+CUW,North America,Curacao,6/28/21,,21-Jun,0,,,,88632,78.88,,,OxfordAstraZeneca,184859,SeriousCritical,Female Above 65,5078,123
+CYP,Europe,Cyprus,6/28/21,75099,21-Jun,2,198.429,374,0,,80.98,0.887,,OxfordAstraZeneca,204468,Mild,Female Below 30,37330,4373
+CZE,Europe,Czechia,6/28/21,1666947,21-Jun,4,123.571,30298,0,4994613,79.38,0.9,,OxfordAstraZeneca,171716,TotalRecovered,Female Above 30 and Below 65,3391,217
+COD,Africa,Democratic Republic of Congo,6/28/21,40439,21-Jun,,359,916,0,,60.68,0.48,,OxfordAstraZeneca,1778648,NewlyRecovered,Male Above 65,44166,6610
+DNK,Europe,Denmark,6/28/21,293916,21-Jun,2,185.429,2534,1,3281015,80.9,0.94,,OxfordAstraZeneca,24608,Mild,Male Above 30 and Below 65,48343,6719
+DJI,Africa,Djibouti,6/28/21,11601,21-Jun,0,1.429,155,0,,67.11,0.524,,OxfordAstraZeneca,218095,TotalRecovered,Male Below 30,3541,50
+DMA,North America,Dominica,6/28/21,193,21-Jun,6,0.286,,,,75,0.742,,OxfordAstraZeneca,17,NewlyRecovered,Female Above 65,9343,829
+DOM,North America,Dominican Republic,6/28/21,323650,21-Jun,1,857.857,3801,4,,74.08,0.756,,OxfordAstraZeneca,2954838,SeriousCritical,Female Below 30,945,21
+ECU,South America,Ecuador,6/28/21,455743,21-Jun,1,1301.429,21523,0,,77.01,0.759,,OxfordAstraZeneca,179606,TotalRecovered,Female Above 30 and Below 65,40580,5683
+EGY,Africa,Egypt,6/28/21,280770,21-Jun,6,424.714,16125,33,,71.99,0.707,,OxfordAstraZeneca,15195,NewlyRecovered,Male Above 65,13444,1485
+SLV,North America,El Salvador,6/28/21,78766,21-Jun,0,183.143,2371,4,,73.32,0.673,,OxfordAstraZeneca,1567267,SeriousCritical,Male Above 30 and Below 65,10556,30
+GNQ,Africa,Equatorial Guinea,6/28/21,8723,21-Jun,8,2.143,121,0,,58.74,0.592,,OxfordAstraZeneca,1807866,Mild,Male Below 30,3343,160
+ERI,Africa,Eritrea,6/28/21,5884,21-Jun,0,66.143,22,1,,66.32,0.459,,OxfordAstraZeneca,646291,TotalRecovered,Female Above 65,39204,5309
+EST,Europe,Estonia,6/28/21,130983,21-Jun,5,23.571,1269,0,555280,78.74,0.892,,OxfordAstraZeneca,25646,NewlyRecovered,Male Above 65,30967,3502
+SWZ,Africa,Eswatini,6/28/21,19084,21-Jun,20,36.143,678,0,,60.19,0.611,,OxfordAstraZeneca,1870855,SeriousCritical,Male Above 30 and Below 65,676,2
+ETH,Africa,Ethiopia,6/28/21,275974,21-Jun,,93.714,4315,1,,66.6,0.485,,OxfordAstraZeneca,121125577,Mild,Male Below 30,10358,943
+FRO,Europe,Faeroe Islands,6/28/21,,21-Jun,3,,,,28060,80.67,,,OxfordAstraZeneca,186127467,TotalRecovered,Female Above 65,2563,123
+FJI,Oceania,Fiji,6/28/21,3832,21-Jun,1,248.857,17,2,,67.44,0.743,,OxfordAstraZeneca,6062839,NewlyRecovered,Female Below 30,210,3
+FIN,Europe,Finland,6/28/21,95168,21-Jun,2,112.714,969,0,3227042,81.91,0.938,,OxfordAstraZeneca,10450,SeriousCritical,Female Above 30 and Below 65,250,1
+FRA,Europe,France,6/28/21,5832490,21-Jun,0,1843.714,111174,44,,82.66,0.901,,OxfordAstraZeneca,597717,Mild,Male Above 30 and Below 65,210,3
+GAB,Africa,Gabon,6/28/21,24984,21-Jun,0,17.143,159,0,,66.47,0.703,,OxfordAstraZeneca,2653189,TotalRecovered,Male Below 30,352,6
+GMB,Africa,Gambia,6/28/21,6069,21-Jun,2,3.429,181,0,,62.05,0.496,,OxfordAstraZeneca,7763195,NewlyRecovered,Female Above 65,13015,1397
+GEO,Asia,Georgia,6/28/21,363874,21-Jun,2,676.143,5275,9,254737,73.77,0.812,,OxfordAstraZeneca,70,NewlyRecovered,Female Below 30,2868,39
+DEU,Europe,Germany,6/28/21,3734830,21-Jun,5,601.571,90826,58,44886784,81.33,0.947,,OxfordAstraZeneca,30602125,SeriousCritical,Female Above 30 and Below 65,3541,50
+GHA,Africa,Ghana,6/28/21,95476,21-Jun,7,59.571,795,0,,64.07,0.611,,OxfordAstraZeneca,1,Mild,Male Above 65,19423,1953
+GRC,Europe,Greece,6/28/21,421266,21-Jun,5,388.286,12663,8,4762181,82.24,0.888,,OxfordAstraZeneca,219676,TotalRecovered,Male Above 30 and Below 65,2374,126
+GRL,North America,Greenland,6/28/21,,21-Jun,0,,,,25298,71.7,,,OxfordAstraZeneca,306124,TotalRecovered,Male Below 30,181,1
+GRD,North America,Grenada,6/28/21,161,21-Jun,10,0,1,0,,72.4,0.779,,OxfordAstraZeneca,297824,NewlyRecovered,Female Above 65,7262,554
+GTM,North America,Guatemala,6/28/21,291977,21-Jun,10,1589,9089,39,,74.3,0.663,,OxfordAstraZeneca,12798,SeriousCritical,Female Below 30,2868,39
+GIN,Africa,Guinea,6/28/21,23744,21-Jun,4,29.857,168,0,,61.6,0.477,,OxfordAstraZeneca,215678,Mild,Female Above 30 and Below 65,3603,210
+GNB,Africa,Guinea-Bissau,6/28/21,3846,21-Jun,5,3,69,0,21855,58.32,0.48,,OxfordAstraZeneca,912824,TotalRecovered,Female Above 65,37780,4802
+GUY,South America,Guyana,6/28/21,19891,21-Jun,4,106.714,466,4,,69.91,0.682,,OxfordAstraZeneca,0,NewlyRecovered,Female Below 30,3453,47
+HTI,North America,Haiti,6/28/21,18212,21-Jun,0,164.429,413,13,,64,0.51,,OxfordAstraZeneca,217059,SeriousCritical,Female Above 30 and Below 65,11721,1007
+HND,North America,Honduras,6/28/21,260331,21-Jun,8,876.714,6922,6,,75.27,0.634,,OxfordAstraZeneca,721192,Mild,Male Above 65,181,1
+HKG,Asia,Hong Kong,6/28/21,11920,21-Jun,1,4.429,210,0,2179683,84.86,0.949,,OxfordAstraZeneca,248526,TotalRecovered,Male Above 30 and Below 65,352,6
+HUN,Europe,Hungary,6/28/21,808042,21-Jun,75,58.857,29989,9,5477405,76.88,0.854,,OxfordAstraZeneca,3307113,NewlyRecovered,Male Below 30,34630,4076
+ISL,Europe,Iceland,6/28/21,6555,21-Jun,9,0,29,0,,82.99,0.949,,OxfordAstraZeneca,1067158,SeriousCritical,Female Above 65,5731,217
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,907,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,Mild,Female Below 30,5078,123
+IDN,Asia,Indonesia,6/28/21,2135998,21-Jun,2,18793.286,57561,423,27419898,71.72,0.718,,OxfordAstraZeneca,187096,TotalRecovered,Female Above 30 and Below 65,39550,4959
+IRN,Asia,Iran,6/28/21,3180092,21-Jun,4,10638.857,83985,140,,76.68,0.783,,OxfordAstraZeneca,563768,NewlyRecovered,Male Above 65,13015,1197
+IRQ,Asia,Iraq,6/28/21,1332046,21-Jun,,5620.857,17121,30,,70.6,0.674,,OxfordAstraZeneca,325091,NewlyRecovered,Male Above 30 and Below 65,1835,74
+IRL,Europe,Ireland,6/28/21,271589,21-Jun,2,324,4989,0,,82.3,0.955,,OxfordAstraZeneca,361802,SeriousCritical,Male Below 30,44166,6610
+IMN,Europe,Isle of Man,6/28/21,,21-Jun,0,,,,63236,81.4,,,OxfordAstraZeneca,48221685,Mild,Female Above 65,36127,4512
+ISR,Asia,Israel,6/28/21,841196,21-Jun,6,172.286,6429,0,5566179,82.97,0.919,,OxfordAstraZeneca,4804950,TotalRecovered,Female Below 30,7262,554
+ITA,Europe,Italy,6/28/21,4258456,21-Jun,1,713.714,127500,28,33582287,83.51,0.892,,OxfordAstraZeneca,4461960,NewlyRecovered,Female Above 30 and Below 65,6205,307
+JAM,North America,Jamaica,6/28/21,50054,21-Jun,1,48.857,1061,0,,74.47,0.734,,OxfordAstraZeneca,24084,TotalRecovered,Male Above 65,39550,4959
+JPN,Asia,Japan,6/28/21,797084,21-Jun,6,1502.571,14659,38,28049718,84.63,0.919,,OxfordAstraZeneca,5,NewlyRecovered,Male Above 30 and Below 65,44974,5677
+JOR,Asia,Jordan,6/28/21,750389,21-Jun,0,484.143,9737,10,2371379,74.53,0.729,,OxfordAstraZeneca,42596130,SeriousCritical,Male Below 30,30967,3502
+KAZ,Asia,Kazakhstan,6/28/21,478063,21-Jun,8,1570.571,3527,3,3165155,73.6,0.825,,OxfordAstraZeneca,41010,Mild,Female Above 65,901,7
+KEN,Africa,Kenya,6/28/21,182884,21-Jun,0,513,3612,17,1003204,66.7,0.601,,OxfordAstraZeneca,10437,TotalRecovered,Male Above 65,20534,2192
+KIR,Oceania,Kiribati,6/28/21,2,21-Jun,5,0,,,,68.37,0.63,,OxfordAstraZeneca,2375,NewlyRecovered,Male Above 30 and Below 65,1641,14
+OWID_KOS,Europe,Kosovo,6/28/21,107331,21-Jun,20,12,2262,2,,,,,OxfordAstraZeneca,78410,SeriousCritical,Male Below 30,14445,1388
+KWT,Asia,Kuwait,6/28/21,353133,21-Jun,,1738,1943,10,,75.49,0.806,,OxfordAstraZeneca,129307,Mild,Female Above 65,1978,75
+KGZ,Asia,Kyrgyzstan,6/28/21,121946,21-Jun,3,904.429,1982,5,,71.45,0.697,,OxfordAstraZeneca,3939640,TotalRecovered,Female Below 30,34630,4076
+LAO,Asia,Laos,6/28/21,2110,21-Jun,1,8,3,0,886238,67.92,0.613,,OxfordAstraZeneca,30285,NewlyRecovered,Female Above 30 and Below 65,306,5
+LVA,Europe,Latvia,6/28/21,137240,21-Jun,2,55.714,2503,0,646816,75.29,0.866,,OxfordAstraZeneca,800991,SeriousCritical,Male Above 30 and Below 65,24541,2731
+LBN,Asia,Lebanon,6/28/21,544520,21-Jun,0,138.429,7845,2,870901,78.93,0.744,,OxfordAstraZeneca,131657484,Mild,Male Below 30,3775,238
+LSO,Africa,Lesotho,6/28/21,11239,21-Jun,0,18.857,329,0,,54.33,0.527,,OxfordAstraZeneca,39231,TotalRecovered,Female Above 65,2337,15
+LBR,Africa,Liberia,6/28/21,3794,21-Jun,2,97.857,123,3,79670,64.1,0.48,,OxfordAstraZeneca,7895198,NewlyRecovered,Male Above 65,13015,1197
+LBY,Africa,Libya,6/28/21,192786,21-Jun,2,249.714,3191,4,,72.91,0.724,,OxfordAstraZeneca,342096,TotalRecovered,Male Above 30 and Below 65,840,23
+LIE,Europe,Liechtenstein,6/28/21,3034,21-Jun,5,0.857,59,0,,82.49,0.919,,OxfordAstraZeneca,58452,NewlyRecovered,Male Below 30,37780,4802
+LTU,Europe,Lithuania,6/28/21,278689,21-Jun,7,40.286,4381,1,1231196,75.93,0.882,,OxfordAstraZeneca,764791,SeriousCritical,Female Above 65,5810,250
+LUX,Europe,Luxembourg,6/28/21,70642,21-Jun,5,15.286,818,0,328962,82.25,0.916,,OxfordAstraZeneca,4183099,Mild,Female Below 30,306,5
+MAC,Asia,Macao,6/28/21,,21-Jun,0,,,,229957,84.24,,,OxfordAstraZeneca,11924683,TotalRecovered,Female Above 30 and Below 65,18492,1907
+MDG,Africa,Madagascar,6/28/21,42194,21-Jun,10,8.143,909,3,197001,67.04,0.528,,OxfordAstraZeneca,0,TotalRecovered,Male Above 65,4199,3
+MWI,Africa,Malawi,6/28/21,35709,21-Jun,10,113.571,1187,5,385242,64.26,0.483,,Moderna,2443605,NewlyRecovered,Male Above 30 and Below 65,5379,171
+MYS,Asia,Malaysia,6/28/21,739266,21-Jun,4,5463.857,5001,57,5463128,76.16,0.81,,JohnsonJohnson,0,SeriousCritical,Male Below 30,5731,217
+MDV,Asia,Maldives,6/28/21,73482,21-Jun,5,190.429,209,0,,78.92,0.74,,OxfordAstraZeneca,62497,Mild,Female Above 65,36574,4465
+MLI,Africa,Mali,6/28/21,14419,21-Jun,4,4.857,525,0,,59.31,0.434,,OxfordAstraZeneca,40,TotalRecovered,Female Below 30,840,23
+MLT,Europe,Malta,6/28/21,30612,21-Jun,0,3.143,420,0,357171,82.53,0.895,,OxfordAstraZeneca,1248174,NewlyRecovered,Female Above 30 and Below 65,3198,2
+MHL,Oceania,Marshall Islands,6/28/21,4,21-Jun,8,0,,,,73.7,0.704,,OxfordAstraZeneca,50026083,SeriousCritical,Male Above 65,39504,5088
+MRT,Africa,Mauritania,6/28/21,20676,21-Jun,1,44.429,487,1,,64.92,0.546,,OxfordAstraZeneca,133665,Mild,Male Above 30 and Below 65,2374,126
+MUS,Africa,Mauritius,6/28/21,1833,21-Jun,75,18.857,18,0,,74.99,0.804,,OxfordAstraZeneca,23120,TotalRecovered,Male Below 30,36167,4512
+MEX,North America,Mexico,6/28/21,2507453,21-Jun,9,4128.857,232608,44,,75.05,0.779,,OxfordAstraZeneca,18933,NewlyRecovered,Female Above 65,228,1
+FSM,Oceania,Micronesia (country),6/28/21,1,21-Jun,0,0,,,,67.88,0.62,,OxfordAstraZeneca,37220,SeriousCritical,Male Above 65,44526,6471
+MDA,Europe,Moldova,6/28/21,256614,21-Jun,2,61,6187,3,435687,71.9,0.75,,PfizerBioNTech,2022454,Mild,Male Above 30 and Below 65,5945,280
+MCO,Europe,Monaco,6/28/21,2575,21-Jun,4,3.714,33,0,,86.75,,,OxfordAstraZeneca,216125,TotalRecovered,Male Below 30,763,7
+MNG,Asia,Mongolia,6/28/21,111505,21-Jun,,1922.143,533,0,1981613,69.87,0.737,,OxfordAstraZeneca,281650,NewlyRecovered,Female Above 65,4409,340
+MNE,Europe,Montenegro,6/28/21,100204,21-Jun,2,16,1609,0,150031,76.88,0.829,,OxfordAstraZeneca,63693721,NewlyRecovered,Female Below 30,44166,6610
+MAR,Africa,Morocco,6/28/21,529895,21-Jun,0,451.143,9283,6,9908882,76.68,0.686,,OxfordAstraZeneca,43018,SeriousCritical,Female Above 30 and Below 65,5810,250
+MOZ,Africa,Mozambique,6/28/21,75422,21-Jun,6,406.429,869,1,,60.85,0.456,,OxfordAstraZeneca,1042927,Mild,Male Above 30 and Below 65,23792,2746
+MMR,Asia,Myanmar,6/28/21,154385,21-Jun,1,824,3309,12,,67.13,0.583,,OxfordAstraZeneca,370753,TotalRecovered,Male Below 30,228,1
+NAM,Africa,Namibia,6/28/21,86649,21-Jun,1,1554.714,1445,45,,63.71,0.646,,OxfordAstraZeneca,1151057,NewlyRecovered,Female Above 65,7276,567
+NPL,Asia,Nepal,6/28/21,635188,21-Jun,6,1792.571,9051,42,2587873,70.78,0.602,,OxfordAstraZeneca,156381,TotalRecovered,Female Below 30,2702,127
+NLD,Europe,Netherlands,6/28/21,1711545,21-Jun,0,623.429,18024,0,,82.28,0.944,,OxfordAstraZeneca,3791775,NewlyRecovered,Female Above 30 and Below 65,563,4
+NZL,Oceania,New Zealand,6/28/21,2742,21-Jun,8,3,26,0,,82.29,0.931,,OxfordAstraZeneca,257739,SeriousCritical,Male Above 65,3453,47
+NIC,North America,Nicaragua,6/28/21,7920,21-Jun,0,32,189,0,,74.48,0.66,,OxfordAstraZeneca,1944532,Mild,Male Above 65,13015,1197
+NER,Africa,Niger,6/28/21,5480,21-Jun,5,1.571,193,0,,62.42,0.394,,OxfordAstraZeneca,0,TotalRecovered,Male Above 30 and Below 65,373,1
+NGA,Africa,Nigeria,6/28/21,167532,21-Jun,20,34.286,2119,0,,54.69,0.539,,OxfordAstraZeneca,218095,NewlyRecovered,Male Below 30,21784,2364
+MKD,Europe,North Macedonia,6/28/21,155676,21-Jun,,7,5484,0,,75.8,0.774,,OxfordAstraZeneca,9578174,SeriousCritical,Female Above 65,4220,75
+NOR,Europe,Norway,6/28/21,130744,21-Jun,3,171.286,792,0,2495201,82.4,0.957,,OxfordAstraZeneca,7,Mild,Female Below 30,4409,340
+OMN,Asia,Oman,6/28/21,264302,21-Jun,1,1961.429,3013,46,854274,77.86,0.813,,OxfordAstraZeneca,38210,TotalRecovered,Female Above 30 and Below 65,433,9
+PAK,Asia,Pakistan,6/28/21,956392,21-Jun,2,936.286,22254,23,,67.27,0.557,,OxfordAstraZeneca,178518,NewlyRecovered,Male Above 65,42164,5821
+PSE,Asia,Palestine,6/28/21,313851,21-Jun,0,148.571,3561,2,490082,74.05,0.708,,OxfordAstraZeneca,103691,SeriousCritical,Male Above 30 and Below 65,5810,250
+PAN,North America,Panama,6/28/21,401332,21-Jun,0,1013,6529,5,994064,78.51,0.815,,PfizerBioNTech,484291,Mild,Male Below 30,40326,5079
+PNG,Oceania,Papua New Guinea,6/28/21,17098,21-Jun,2,12.143,173,0,,64.5,0.555,,OxfordAstraZeneca,835580,TotalRecovered,Female Above 65,1380,31
+PRY,South America,Paraguay,6/28/21,419764,21-Jun,2,1720.429,12641,124,,74.25,0.728,,OxfordAstraZeneca,1912347,NewlyRecovered,Female Below 30,39204,5309
+PER,South America,Peru,6/28/21,2048115,21-Jun,5,2500.571,191899,315,,76.74,0.777,,OxfordAstraZeneca,32232422,TotalRecovered,Female Above 30 and Below 65,228,1
+PHL,Asia,Philippines,6/28/21,1403588,21-Jun,7,5621.286,24456,84,,71.23,0.718,,OxfordAstraZeneca,87142,NewlyRecovered,Male Above 65,8501,14
+POL,Europe,Poland,6/28/21,2879689,21-Jun,5,121.286,74979,0,16716871,78.73,0.88,,OxfordAstraZeneca,243669,SeriousCritical,Male Above 30 and Below 65,19636,2089
+PRT,Europe,Portugal,6/28/21,875449,21-Jun,0,1377.571,17086,2,5386835,82.05,0.864,,OxfordAstraZeneca,3359401,Mild,Male Below 30,5078,123
+QAT,Asia,Qatar,6/28/21,221810,21-Jun,10,125.714,588,0,1689837,80.23,0.848,,OxfordAstraZeneca,397127,TotalRecovered,Female Above 65,42328,5286
+ROU,Europe,Romania,6/28/21,1080667,21-Jun,10,55,33311,58,4702086,76.05,0.828,,OxfordAstraZeneca,6354991,NewlyRecovered,Male Above 65,8084,697
+RUS,Europe,Russia,6/28/21,5408744,21-Jun,4,19488,131671,601,21790363,72.58,0.824,,OxfordAstraZeneca,122580,SeriousCritical,Male Above 30 and Below 65,5077,432
+RWA,Africa,Rwanda,6/28/21,37384,21-Jun,5,849.857,427,7,,69.02,0.543,,OxfordAstraZeneca,41577309,Mild,Male Below 30,413701,56709
+KNA,North America,Saint Kitts and Nevis,6/28/21,439,21-Jun,4,12.714,3,0,,76.23,0.779,,OxfordAstraZeneca,26,TotalRecovered,Female Above 65,2563,123
+LCA,North America,Saint Lucia,6/28/21,5284,21-Jun,0,9.429,84,0,,76.2,0.759,,OxfordAstraZeneca,1873498,NewlyRecovered,Female Below 30,40580,5683
+VCT,North America,Saint Vincent and the Grenadines,6/28/21,2219,21-Jun,8,3.286,12,0,,72.53,0.738,,OxfordAstraZeneca,23333,SeriousCritical,Female Above 30 and Below 65,3752,65
+WSM,Oceania,Samoa,6/28/21,3,21-Jun,1,0,,,,73.32,0.715,,OxfordAstraZeneca,28350,Mild,Male Above 30 and Below 65,48343,6719
+SMR,Europe,San Marino,6/28/21,5091,21-Jun,75,0.143,90,0,,84.97,,,OxfordAstraZeneca,6241647,TotalRecovered,Male Below 30,7262,554
+STP,Africa,Sao Tome and Principe,6/28/21,2365,21-Jun,9,0.429,37,0,16453,70.39,0.625,,OxfordAstraZeneca,10462051,NewlyRecovered,Female Above 65,15199,1474
+SAU,Asia,Saudi Arabia,6/28/21,484539,21-Jun,0,1305.143,7789,14,,75.13,0.854,,OxfordAstraZeneca,41237,SeriousCritical,Female Below 30,1185,47
+SEN,Africa,Senegal,6/28/21,42929,21-Jun,2,70.286,1164,0,515344,67.94,0.512,,OxfordAstraZeneca,49089,Mild,Female Above 30 and Below 65,41363,6045
+SRB,Europe,Serbia,6/28/21,716385,21-Jun,4,77.714,7039,8,,76,0.806,,JohnsonJohnson,78410,TotalRecovered,Male Above 65,8208,816
+SYC,Africa,Seychelles,6/28/21,15579,21-Jun,,208,68,5,,73.4,0.796,,PfizerBioNTech,487334,NewlyRecovered,Male Above 30 and Below 65,46888,5960
+SLE,Africa,Sierra Leone,6/28/21,5443,21-Jun,2,80.571,97,3,,54.7,0.452,,Moderna,323062,SeriousCritical,Male Below 30,982,25
+SGP,Asia,Singapore,6/28/21,62553,21-Jun,0,17.571,36,0,,83.62,0.938,,Moderna,38575,NewlyRecovered,Male Above 65,1353,37
+SVK,Europe,Slovakia,6/28/21,391566,21-Jun,6,34.286,12509,4,2007665,77.54,0.86,,PfizerBioNTech,1557676,SeriousCritical,Male Above 30 and Below 65,2729,136
+SVN,Europe,Slovenia,6/28/21,257252,21-Jun,1,35.857,4419,0,815838,81.32,0.917,,JohnsonJohnson,10939901,Mild,Male Below 30,1835,74
+SLB,Oceania,Solomon Islands,6/28/21,20,21-Jun,1,0,,,,73,0.567,,Sinovac,640232,TotalRecovered,Female Above 65,4754,124
+SOM,Africa,Somalia,6/28/21,14933,21-Jun,6,9.429,775,0,137981,57.4,,,OxfordAstraZeneca,44961,NewlyRecovered,Female Below 30,22571,2499
+ZAF,Africa,South Africa,6/28/21,1941119,21-Jun,0,15520,60038,138,2787996,64.13,0.709,,OxfordAstraZeneca,333289,SeriousCritical,Female Above 30 and Below 65,9343,829
+KOR,Asia,South Korea,6/28/21,156167,21-Jun,8,609.429,2017,2,15304120,83.03,0.916,,Moderna,53610,TotalRecovered,Male Above 65,15199,1474
+SSD,Africa,South Sudan,6/28/21,10824,21-Jun,0,5.429,116,1,42166,57.85,0.433,,JohnsonJohnson,94539,NewlyRecovered,Male Above 30 and Below 65,41556,6237
+ESP,Europe,Spain,6/28/21,3792642,21-Jun,5,3998.714,80789,10,,83.56,0.904,,OxfordAstraZeneca,151216,SeriousCritical,Male Below 30,39204,5309
+LKA,Asia,Sri Lanka,6/28/21,255508,21-Jun,20,1955.429,2985,41,2605558,76.98,0.782,,OxfordAstraZeneca,7473179,Mild,Female Above 65,38574,5050
+SDN,Africa,Sudan,6/28/21,36620,21-Jun,,39,2754,0,550291,65.31,0.51,,JohnsonJohnson,26,TotalRecovered,Female Below 30,3752,65
+SUR,South America,Suriname,6/28/21,21360,21-Jun,3,174.143,512,5,157982,71.68,0.738,,JohnsonJohnson,55848,NewlyRecovered,Female Above 30 and Below 65,20534,2192
+SWE,Europe,Sweden,6/28/21,1088896,21-Jun,1,608.571,14619,0,,82.8,0.945,,JohnsonJohnson,5,SeriousCritical,Male Above 65,14445,1388
+CHE,Europe,Switzerland,6/28/21,702746,21-Jun,2,107.429,10885,3,,83.78,0.955,,Moderna,4,Mild,Male Above 30 and Below 65,1835,74
+SYR,Asia,Syria,6/28/21,25442,21-Jun,0,40.571,1870,3,,72.7,0.567,,OxfordAstraZeneca,7556219,TotalRecovered,Male Below 30,23116,2374
+TWN,Asia,Taiwan,6/28/21,14694,21-Jun,0,87.714,635,3,1926572,80.46,,,PfizerBioNTech,32648,NewlyRecovered,Female Above 65,38574,5050
+TJK,Asia,Tajikistan,6/28/21,13460,21-Jun,2,21.714,90,0,,71.1,0.668,,OxfordAstraZeneca,269591,SeriousCritical,Male Above 65,18492,1907
+TZA,Africa,Tanzania,6/28/21,509,21-Jun,2,0,21,0,,65.46,0.529,,Moderna,74016,Mild,Male Above 30 and Below 65,204,3
+THA,Asia,Thailand,6/28/21,249853,21-Jun,5,4078.143,1934,22,6721038,77.15,0.777,,OxfordAstraZeneca,194383,TotalRecovered,Male Below 30,2702,127
+TLS,Asia,Timor,6/28/21,9055,21-Jun,7,46.714,21,0,,69.5,0.606,,PfizerBioNTech,1466214,NewlyRecovered,Female Above 65,35264,4206
+TGO,Africa,Togo,6/28/21,13846,21-Jun,5,16.429,128,0,,61.04,0.515,,JohnsonJohnson,391734,NewlyRecovered,Female Below 30,4403,97
+TTO,North America,Trinidad and Tobago,6/28/21,32343,21-Jun,0,225.143,822,5,211363,73.51,0.796,,PfizerBioNTech,322027,SeriousCritical,Female Above 30 and Below 65,7262,554
+TUN,Africa,Tunisia,6/28/21,408931,21-Jun,10,3357.571,14737,83,,76.7,0.74,,Moderna,68858013,TotalRecovered,Male Above 30 and Below 65,315,3
+TUR,Asia,Turkey,6/28/21,5414310,21-Jun,10,5531,49634,58,33934402,77.69,0.82,,Sinovac,830628,NewlyRecovered,Male Below 30,5077,432
+UGA,Africa,Uganda,6/28/21,79089,21-Jun,4,915.714,956,53,,63.37,0.544,,Sinovac,562744,SeriousCritical,Female Above 65,2374,126
+UKR,Europe,Ukraine,6/28/21,2298478,21-Jun,5,965.143,54517,19,1912469,72.06,0.779,,PfizerBioNTech,143745,Mild,Female Below 30,44395,6546
+ARE,Asia,United Arab Emirates,6/28/21,628976,21-Jun,4,2140.429,1802,6,,77.97,0.89,,OxfordAstraZeneca,383508,TotalRecovered,Male Above 65,44526,6471
+GBR,Europe,United Kingdom,6/28/21,4771367,21-Jun,0,16404.429,128367,3,,81.32,0.932,,Moderna,94678,NewlyRecovered,Male Above 30 and Below 65,44802,6290
+USA,North America,United States,6/28/21,33640502,21-Jun,8,12318.143,604115,150,179615165,78.86,0.926,,OxfordAstraZeneca,4458360,SeriousCritical,Male Below 30,44526,6471
+URY,South America,Uruguay,6/28/21,366915,21-Jun,1,1504.714,5524,30,,77.91,0.817,,PfizerBioNTech,4281764,Mild,Female Above 65,5638,163
+UZB,Asia,Uzbekistan,6/28/21,109692,21-Jun,75,462.857,731,2,,71.72,0.72,,OxfordAstraZeneca,10079638,TotalRecovered,Female Below 30,26496,3114
+VUT,Oceania,Vanuatu,6/28/21,4,21-Jun,9,0,1,0,,70.47,0.609,,JohnsonJohnson,1871546,NewlyRecovered,Female Above 30 and Below 65,7174,438
+VAT,Europe,Vatican,6/28/21,27,21-Jun,0,0,,,,75.12,,,,,SeriousCritical,Male Above 65,10556,30
+VEN,South America,Venezuela,6/28/21,269635,21-Jun,2,1085.286,3068,0,,72.06,0.711,,,,Mild,Male Above 30 and Below 65,3603,210
+VNM,Asia,Vietnam,6/28/21,16136,21-Jun,4,372.286,78,2,3324110,75.4,0.704,,,,TotalRecovered,Male Below 30,3939,277
+YEM,Asia,Yemen,6/28/21,6909,21-Jun,,2.857,1361,1,,66.12,0.47,,,,NewlyRecovered,Female Above 65,16987,1651
+ZMB,Africa,Zambia,6/28/21,149661,21-Jun,2,2718.571,2091,69,,63.89,0.584,,,,NewlyRecovered,Female Below 30,198,2
+ZWE,Africa,Zimbabwe,6/28/21,47284,21-Jun,0,727,1749,13,,61.49,0.571,,,,SeriousCritical,Female Above 30 and Below 65,7174,438
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,6,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,NewlyRecovered,Male Above 65,14445,1388
+ALB,Europe,Bangladesh,6/28/21,6,21-Jun,1,3.286,2456,0,547300,78.57,0.795,,Sinovac,95843,SeriousCritical,Male Above 30 and Below 65,1835,74
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,1,363.714,3699,6,,76.88,0.748,,Moderna,518004,Mild,Male Below 30,44392,6443
+AND,Europe,Andorra,6/28/21,13882,21-Jun,6,2.571,127,0,,83.73,0.868,,OxfordAstraZeneca,298706,TotalRecovered,Female Above 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,0,123.571,891,2,943301,61.15,0.581,,Moderna,3028162,NewlyRecovered,Male Above 65,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,8,0,42,0,,77.02,0.778,,PfizerBioNTech,23,SeriousCritical,Male Above 30 and Below 65,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,0,20891.571,93142,574,15993494,76.67,0.845,,OxfordAstraZeneca,2707983,Mild,Male Below 30,2203,81
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,5,85.429,4510,2,,75.09,0.776,,JohnsonJohnson,4,TotalRecovered,Female Above 65,44502,6455
+ABW,North America,Aruba,6/28/21,,21-Jun,20,,,,67457,76.29,,,JohnsonJohnson,533,NewlyRecovered,Female Below 30,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,30,27.714,910,0,6152645,83.44,0.944,,PfizerBioNTech,2975738,SeriousCritical,Female Above 30 and Below 65,10556,30
+AUT,Europe,Austria,6/28/21,650324,21-Jun,3,93.429,10701,1,4692442,81.54,0.922,,OxfordAstraZeneca,9020928,Mild,Male Above 30 and Below 65,14445,1388
+AZE,Asia,Azerbaijan,6/28/21,335874,21-Jun,1,50.429,4970,2,2139001,73,0.756,,Moderna,10026,TotalRecovered,Male Below 30,1353,37
+BHS,North America,Bahamas,6/28/21,12467,21-Jun,2,14.714,245,0,,73.92,0.814,,OxfordAstraZeneca,293234,NewlyRecovered,Female Above 65,27334,3160
+BHR,Asia,Bahrain,6/28/21,265477,21-Jun,0,311.714,1348,3,1054837,77.29,0.852,,OxfordAstraZeneca,315676,SeriousCritical,Female Below 30,5731,217
+BGD,Asia,Bangladesh,6/28/21,7,21-Jun,0,5780.857,14276,0,5823245,72.59,0.632,,Moderna,8886,Mild,Female Above 30 and Below 65,42328,5286
+BRB,North America,Barbados,6/28/21,4077,21-Jun,2,4.571,47,0,,79.19,0.814,,Moderna,342263,TotalRecovered,Male Above 65,2337,112
+BLR,Europe,Belarus,6/28/21,415780,21-Jun,2,661,3122,9,,74.79,0.823,,Moderna,168953,NewlyRecovered,Male Above 30 and Below 65,44392,6443
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,5,548.286,25168,8,7013433,81.63,0.931,,OxfordAstraZeneca,566082,SeriousCritical,Male Below 30,41363,6045
+BLZ,North America,Belize,6/28/21,13189,21-Jun,7,21.429,329,0,,74.62,0.716,,Moderna,82622178,Mild,Female Above 65,2868,39
+BEN,Africa,Benin,6/28/21,8170,21-Jun,5,4.286,104,0,36188,61.77,0.545,,OxfordAstraZeneca,36223,TotalRecovered,Female Below 30,13015,1197
+BTN,Asia,Bhutan,6/28/21,2062,21-Jun,0,17.571,1,0,,71.78,0.654,,PfizerBioNTech,70268,NewlyRecovered,Female Above 30 and Below 65,204,3
+BOL,South America,Bolivia,6/28/21,435568,21-Jun,10,1822.429,16631,50,1788228,71.51,0.718,,Moderna,3188,SeriousCritical,Female Above 65,14386,1580
+BIH,Europe,Bosnia and Herzegovina,6/28/21,204991,21-Jun,10,18.714,9658,3,,77.4,0.78,,Moderna,277708,Mild,Female Below 30,676,2
+BWA,Africa,Botswana,6/28/21,69680,21-Jun,4,553.143,1125,30,,69.59,0.735,,PfizerBioNTech,4003939,TotalRecovered,Female Above 30 and Below 65,3391,217
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,5,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,NewlyRecovered,Male Above 65,198,2
+BRN,Asia,Brunei,6/28/21,259,21-Jun,4,0.571,3,0,,75.86,0.838,,Moderna,30454,SeriousCritical,Male Above 30 and Below 65,563,4
+BGR,Europe,Bulgaria,6/28/21,421646,21-Jun,0,70.571,18040,13,944704,75.05,0.816,,PfizerBioNTech,32991282,Mild,Male Below 30,8208,816
+BFA,Africa,Burkina Faso,6/28/21,13479,21-Jun,8,1.429,168,0,25833,61.58,0.452,,Moderna,1262,TotalRecovered,Female Above 65,511,3
+BDI,Africa,Burundi,6/28/21,5423,21-Jun,1,25.857,8,0,,61.58,0.433,,JohnsonJohnson,8696,NewlyRecovered,Female Below 30,1380,31
+KHM,Asia,Cambodia,6/28/21,48532,21-Jun,75,726.571,556,16,4019751,69.82,0.594,,PfizerBioNTech,3458360,NewlyRecovered,Female Above 30 and Below 65,1380,31
+CMR,Africa,Cameroon,6/28/21,80487,21-Jun,9,22.714,1320,0,88333,59.29,0.563,,PfizerBioNTech,38623102,SeriousCritical,Male Above 65,40580,5683
+CAN,North America,Canada,6/28/21,1421695,21-Jun,0,637,26215,28,25610293,82.43,0.929,,OxfordAstraZeneca,113339,NewlyRecovered,Male Above 30 and Below 65,40580,5683
+CPV,Africa,Cape Verde,6/28/21,32399,21-Jun,2,51.429,286,0,76390,72.98,0.665,,Moderna,19302,TotalRecovered,Male Below 30,1641,14
+CYM,North America,Cayman Islands,6/28/21,,21-Jun,4,,,,48262,83.92,,,OxfordAstraZeneca,69579,NewlyRecovered,Female Above 65,5379,171
+CAF,Africa,Central African Republic,6/28/21,7141,21-Jun,,1.714,98,0,,53.28,0.397,,PfizerBioNTech,1644401,SeriousCritical,Female Below 30,25561,2968
+TCD,Africa,Chad,6/28/21,4951,21-Jun,2,0.571,174,0,,54.24,0.398,,Moderna,24951,Mild,Female Above 30 and Below 65,433,9
+CHL,South America,Chile,6/28/21,1551137,21-Jun,0,4130.571,32454,156,,80.18,0.851,,Moderna,656926,TotalRecovered,Male Above 65,48343,6719
+CHN,Asia,China,6/28/21,91825,21-Jun,6,20.429,4636,0,,76.91,0.761,,JohnsonJohnson,1622000,NewlyRecovered,Male Above 30 and Below 65,48321,7079
+COL,South America,Colombia,6/28/21,4187194,21-Jun,1,31255.571,105326,648,,77.29,0.767,,PfizerBioNTech,2763676,SeriousCritical,Male Below 30,6649,400
+COM,Africa,Comoros,6/28/21,3912,21-Jun,1,0,146,0,,64.32,0.554,,JohnsonJohnson,11517956,Mild,Female Above 65,2374,126
+COG,Africa,Congo,6/28/21,12485,21-Jun,6,26.714,165,0,,64.57,0.574,,OxfordAstraZeneca,43144,TotalRecovered,Male Above 65,38574,5050
+CRI,North America,Costa Rica,6/28/21,364304,21-Jun,0,1458.429,4648,46,,80.28,0.81,,PfizerBioNTech,322211,NewlyRecovered,Male Above 30 and Below 65,21784,2364
+CIV,Africa,Cote d'Ivoire,6/28/21,48203,21-Jun,8,22.286,313,1,745327,57.78,0.538,,OxfordAstraZeneca,306725,SeriousCritical,Male Below 30,347,8
+HRV,Europe,Croatia,6/28/21,359666,21-Jun,0,68.857,8202,2,1482581,78.49,0.851,,JohnsonJohnson,9127,Mild,Female Above 65,27516,3296
+CUB,North America,Cuba,6/28/21,184943,21-Jun,5,2225.429,1253,12,,78.8,0.783,,OxfordAstraZeneca,176989,TotalRecovered,Female Below 30,1380,31
+CUW,North America,Curacao,6/28/21,,21-Jun,20,,,,88632,78.88,,,OxfordAstraZeneca,184859,NewlyRecovered,Female Above 30 and Below 65,5078,123
+CYP,Europe,Cyprus,6/28/21,75099,21-Jun,,198.429,374,0,,80.98,0.887,,JohnsonJohnson,204468,NewlyRecovered,Male Above 30 and Below 65,37330,4373
+CZE,Europe,Czechia,6/28/21,1666947,21-Jun,3,123.571,30298,0,4994613,79.38,0.9,,Moderna,171716,SeriousCritical,Male Below 30,3391,217
+COD,Africa,Democratic Republic of Congo,6/28/21,40439,21-Jun,1,359,916,0,,60.68,0.48,,JohnsonJohnson,1778648,Mild,Female Above 65,44166,6610
+DNK,Europe,Denmark,6/28/21,293916,21-Jun,2,185.429,2534,1,3281015,80.9,0.94,,PfizerBioNTech,24608,TotalRecovered,Female Below 30,48343,6719
+DJI,Africa,Djibouti,6/28/21,11601,21-Jun,0,1.429,155,0,,67.11,0.524,,PfizerBioNTech,218095,NewlyRecovered,Female Above 30 and Below 65,3541,50
+DMA,North America,Dominica,6/28/21,193,21-Jun,0,0.286,,,,75,0.742,,JohnsonJohnson,17,SeriousCritical,Male Above 65,9343,829
+DOM,North America,Dominican Republic,6/28/21,323650,21-Jun,2,857.857,3801,4,,74.08,0.756,,PfizerBioNTech,2954838,Mild,Male Above 30 and Below 65,945,21
+ECU,South America,Ecuador,6/28/21,455743,21-Jun,2,1301.429,21523,0,,77.01,0.759,,OxfordAstraZeneca,179606,TotalRecovered,Male Below 30,40580,5683
+EGY,Africa,Egypt,6/28/21,280770,21-Jun,5,424.714,16125,33,,71.99,0.707,,OxfordAstraZeneca,15195,NewlyRecovered,Female Above 65,13444,1485
+SLV,North America,El Salvador,6/28/21,78766,21-Jun,7,183.143,2371,4,,73.32,0.673,,PfizerBioNTech,1567267,SeriousCritical,Female Below 30,10556,30
+GNQ,Africa,Equatorial Guinea,6/28/21,8723,21-Jun,5,2.143,121,0,,58.74,0.592,,Moderna,1807866,Mild,Female Above 30 and Below 65,3343,160
+ERI,Africa,Eritrea,6/28/21,5884,21-Jun,0,66.143,22,1,,66.32,0.459,,OxfordAstraZeneca,646291,TotalRecovered,Female Above 65,39204,5309
+EST,Europe,Estonia,6/28/21,130983,21-Jun,10,23.571,1269,0,555280,78.74,0.892,,Moderna,25646,NewlyRecovered,Female Below 30,30967,3502
+SWZ,Africa,Eswatini,6/28/21,19084,21-Jun,10,36.143,678,0,,60.19,0.611,,Moderna,1870855,SeriousCritical,Female Above 30 and Below 65,676,2
+ETH,Africa,Ethiopia,6/28/21,275974,21-Jun,4,93.714,4315,1,,66.6,0.485,,Moderna,121125577,Mild,Male Above 65,10358,943
+FRO,Europe,Faeroe Islands,6/28/21,,21-Jun,5,,,,28060,80.67,,,PfizerBioNTech,186127467,TotalRecovered,Male Above 30 and Below 65,2563,123
+FJI,Oceania,Fiji,6/28/21,3832,21-Jun,4,248.857,17,2,,67.44,0.743,,PfizerBioNTech,6062839,TotalRecovered,Male Below 30,210,3
+FIN,Europe,Finland,6/28/21,95168,21-Jun,0,112.714,969,0,3227042,81.91,0.938,,CanSino,10450,NewlyRecovered,Female Above 65,250,1
+FRA,Europe,France,6/28/21,5832490,21-Jun,8,1843.714,111174,44,,82.66,0.901,,PfizerBioNTech,597717,SeriousCritical,Female Below 30,210,3
+GAB,Africa,Gabon,6/28/21,24984,21-Jun,1,17.143,159,0,,66.47,0.703,,PfizerBioNTech,2653189,Mild,Female Above 30 and Below 65,352,6
+GMB,Africa,Gambia,6/28/21,6069,21-Jun,75,3.429,181,0,,62.05,0.496,,PfizerBioNTech,7763195,TotalRecovered,Male Above 65,13015,1397
+GEO,Asia,Georgia,6/28/21,363874,21-Jun,9,676.143,5275,9,254737,73.77,0.812,,Moderna,70,NewlyRecovered,Male Above 30 and Below 65,2868,39
+DEU,Europe,Germany,6/28/21,3734830,21-Jun,0,601.571,90826,58,44886784,81.33,0.947,,PfizerBioNTech,30602125,SeriousCritical,Male Below 30,3541,50
+GHA,Africa,Ghana,6/28/21,95476,21-Jun,2,59.571,795,0,,64.07,0.611,,Moderna,1,Mild,Female Above 65,19423,1953
+GRC,Europe,Greece,6/28/21,421266,21-Jun,4,388.286,12663,8,4762181,82.24,0.888,,PfizerBioNTech,219676,TotalRecovered,Female Below 30,2374,126
+GRL,North America,Greenland,6/28/21,,21-Jun,,,,,25298,71.7,,,OxfordAstraZeneca,306124,NewlyRecovered,Female Above 30 and Below 65,181,1
+GRD,North America,Grenada,6/28/21,161,21-Jun,2,0,1,0,,72.4,0.779,,JohnsonJohnson,297824,SeriousCritical,Male Above 65,7262,554
+GTM,North America,Guatemala,6/28/21,291977,21-Jun,0,1589,9089,39,,74.3,0.663,,PfizerBioNTech,12798,Mild,Male Above 30 and Below 65,2868,39
+GIN,Africa,Guinea,6/28/21,23744,21-Jun,6,29.857,168,0,,61.6,0.477,,Moderna,215678,TotalRecovered,Male Below 30,3603,210
+GNB,Africa,Guinea-Bissau,6/28/21,3846,21-Jun,1,3,69,0,21855,58.32,0.48,,PfizerBioNTech,912824,NewlyRecovered,Female Above 65,37780,4802
+GUY,South America,Guyana,6/28/21,19891,21-Jun,1,106.714,466,4,,69.91,0.682,,JohnsonJohnson,0,NewlyRecovered,Male Above 65,3453,47
+HTI,North America,Haiti,6/28/21,18212,21-Jun,6,164.429,413,13,,64,0.51,,OxfordAstraZeneca,217059,SeriousCritical,Male Above 30 and Below 65,11721,1007
+HND,North America,Honduras,6/28/21,260331,21-Jun,0,876.714,6922,6,,75.27,0.634,,Moderna,721192,Mild,Male Below 30,181,1
+HKG,Asia,Hong Kong,6/28/21,11920,21-Jun,8,4.429,210,0,2179683,84.86,0.949,,Moderna,248526,TotalRecovered,Female Above 65,352,6
+HUN,Europe,Hungary,6/28/21,808042,21-Jun,0,58.857,29989,9,5477405,76.88,0.854,,JohnsonJohnson,3307113,NewlyRecovered,Female Below 30,34630,4076
+ISL,Europe,Iceland,6/28/21,6555,21-Jun,5,0,29,0,,82.99,0.949,,Sinovac,1067158,SeriousCritical,Female Above 30 and Below 65,5731,217
+IND,Asia,India,6/28/21,30316897,21-Jun,20,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 30 and Below 65,5078,123
+IDN,Asia,Indonesia,6/28/21,2135998,21-Jun,,18793.286,57561,423,27419898,71.72,0.718,,OxfordAstraZeneca,187096,TotalRecovered,Male Below 30,39550,4959
+IRN,Asia,Iran,6/28/21,3180092,21-Jun,3,10638.857,83985,140,,76.68,0.783,,OxfordAstraZeneca,563768,NewlyRecovered,Male Above 65,13015,1197
+IRQ,Asia,Iraq,6/28/21,1332046,21-Jun,1,5620.857,17121,30,,70.6,0.674,,Moderna,325091,SeriousCritical,Male Above 30 and Below 65,1835,74
+IRL,Europe,Ireland,6/28/21,271589,21-Jun,2,324,4989,0,,82.3,0.955,,JohnsonJohnson,361802,Mild,Male Below 30,44166,6610
+IMN,Europe,Isle of Man,6/28/21,,21-Jun,0,,,,63236,81.4,,,PfizerBioNTech,48221685,TotalRecovered,Female Above 65,36127,4512
+ISR,Asia,Israel,6/28/21,841196,21-Jun,0,172.286,6429,0,5566179,82.97,0.919,,OxfordAstraZeneca,4804950,NewlyRecovered,Female Below 30,7262,554
+ITA,Europe,Italy,6/28/21,4258456,21-Jun,2,713.714,127500,28,33582287,83.51,0.892,,PfizerBioNTech,4461960,SeriousCritical,Female Above 30 and Below 65,6205,307
+JAM,North America,Jamaica,6/28/21,50054,21-Jun,2,48.857,1061,0,,74.47,0.734,,OxfordAstraZeneca,24084,Mild,Male Above 65,39550,4959
+JPN,Asia,Japan,6/28/21,797084,21-Jun,5,1502.571,14659,38,28049718,84.63,0.919,,OxfordAstraZeneca,5,TotalRecovered,Male Above 30 and Below 65,44974,5677
+JOR,Asia,Jordan,6/28/21,750389,21-Jun,7,484.143,9737,10,2371379,74.53,0.729,,PfizerBioNTech,42596130,NewlyRecovered,Male Below 30,30967,3502
+KAZ,Asia,Kazakhstan,6/28/21,478063,21-Jun,5,1570.571,3527,3,3165155,73.6,0.825,,PfizerBioNTech,41010,SeriousCritical,Female Above 65,901,7
+KEN,Africa,Kenya,6/28/21,182884,21-Jun,0,513,3612,17,1003204,66.7,0.601,,PfizerBioNTech,10437,Mild,Female Below 30,20534,2192
+KIR,Oceania,Kiribati,6/28/21,2,21-Jun,10,0,,,,68.37,0.63,,Moderna,2375,TotalRecovered,Female Above 30 and Below 65,1641,14
+OWID_KOS,Europe,Kosovo,6/28/21,107331,21-Jun,10,12,2262,2,,,,,JohnsonJohnson,78410,NewlyRecovered,Male Above 65,14445,1388
+KWT,Asia,Kuwait,6/28/21,353133,21-Jun,4,1738,1943,10,,75.49,0.806,,OxfordAstraZeneca,129307,SeriousCritical,Male Above 30 and Below 65,1978,75
+KGZ,Asia,Kyrgyzstan,6/28/21,121946,21-Jun,5,904.429,1982,5,,71.45,0.697,,PfizerBioNTech,3939640,Mild,Male Below 30,34630,4076
+LAO,Asia,Laos,6/28/21,2110,21-Jun,4,8,3,0,886238,67.92,0.613,,PfizerBioNTech,30285,TotalRecovered,Female Above 65,306,5
+LVA,Europe,Latvia,6/28/21,137240,21-Jun,0,55.714,2503,0,646816,75.29,0.866,,PfizerBioNTech,800991,NewlyRecovered,Male Above 65,24541,2731
+LBN,Asia,Lebanon,6/28/21,544520,21-Jun,8,138.429,7845,2,870901,78.93,0.744,,PfizerBioNTech,131657484,TotalRecovered,Male Above 30 and Below 65,3775,238
+LSO,Africa,Lesotho,6/28/21,11239,21-Jun,1,18.857,329,0,,54.33,0.527,,OxfordAstraZeneca,39231,NewlyRecovered,Male Below 30,2337,15
+LBR,Africa,Liberia,6/28/21,3794,21-Jun,75,97.857,123,3,79670,64.1,0.48,,PfizerBioNTech,7895198,SeriousCritical,Female Above 65,13015,1197
+LBY,Africa,Libya,6/28/21,192786,21-Jun,9,249.714,3191,4,,72.91,0.724,,OxfordAstraZeneca,342096,Mild,Female Below 30,840,23
+LIE,Europe,Liechtenstein,6/28/21,3034,21-Jun,0,0.857,59,0,,82.49,0.919,,OxfordAstraZeneca,58452,TotalRecovered,Female Above 30 and Below 65,37780,4802
+LTU,Europe,Lithuania,6/28/21,278689,21-Jun,2,40.286,4381,1,1231196,75.93,0.882,,Moderna,764791,NewlyRecovered,Male Above 30 and Below 65,5810,250
+LUX,Europe,Luxembourg,6/28/21,70642,21-Jun,4,15.286,818,0,328962,82.25,0.916,,PfizerBioNTech,4183099,SeriousCritical,Male Below 30,306,5
+MAC,Asia,Macao,6/28/21,,21-Jun,,,,,229957,84.24,,,PfizerBioNTech,11924683,Mild,Female Above 65,18492,1907
+MDG,Africa,Madagascar,6/28/21,42194,21-Jun,2,8.143,909,3,197001,67.04,0.528,,JohnsonJohnson,0,TotalRecovered,Female Below 30,199,3
+MWI,Africa,Malawi,6/28/21,35709,21-Jun,0,113.571,1187,5,385242,64.26,0.483,,Moderna,2443605,NewlyRecovered,Female Above 30 and Below 65,5379,171
+MYS,Asia,Malaysia,6/28/21,739266,21-Jun,6,5463.857,5001,57,5463128,76.16,0.81,,JohnsonJohnson,0,SeriousCritical,Male Above 65,5731,217
+MDV,Asia,Maldives,6/28/21,73482,21-Jun,1,190.429,209,0,,78.92,0.74,,OxfordAstraZeneca,62497,Mild,Male Above 30 and Below 65,36574,4465
+MLI,Africa,Mali,6/28/21,14419,21-Jun,1,4.857,525,0,,59.31,0.434,,OxfordAstraZeneca,40,TotalRecovered,Male Below 30,840,23
+MLT,Europe,Malta,6/28/21,30612,21-Jun,6,3.143,420,0,357171,82.53,0.895,,JohnsonJohnson,1248174,NewlyRecovered,Female Above 65,198,2
+MHL,Oceania,Marshall Islands,6/28/21,4,21-Jun,0,0,,,,73.7,0.704,,PfizerBioNTech,50026083,SeriousCritical,Female Below 30,39504,5088
+MRT,Africa,Mauritania,6/28/21,20676,21-Jun,8,44.429,487,1,,64.92,0.546,,Moderna,133665,Mild,Female Above 30 and Below 65,2374,126
+MUS,Africa,Mauritius,6/28/21,1833,21-Jun,0,18.857,18,0,,74.99,0.804,,Moderna,23120,TotalRecovered,Female Above 65,36127,4512
+MEX,North America,Mexico,6/28/21,2507453,21-Jun,5,4128.857,232608,44,,75.05,0.779,,Moderna,18933,NewlyRecovered,Female Below 30,228,1
+FSM,Oceania,Micronesia (country),6/28/21,1,21-Jun,20,0,,,,67.88,0.62,,Moderna,37220,SeriousCritical,Female Above 30 and Below 65,44526,6471
+MDA,Europe,Moldova,6/28/21,256614,21-Jun,,61,6187,3,435687,71.9,0.75,,PfizerBioNTech,2022454,Mild,Female Above 65,5945,280
+MCO,Europe,Monaco,6/28/21,2575,21-Jun,3,3.714,33,0,,86.75,,,OxfordAstraZeneca,216125,TotalRecovered,Female Below 30,763,7
+MNG,Asia,Mongolia,6/28/21,111505,21-Jun,1,1922.143,533,0,1981613,69.87,0.737,,PfizerBioNTech,281650,NewlyRecovered,Female Above 30 and Below 65,4409,340
+MNE,Europe,Montenegro,6/28/21,100204,21-Jun,2,16,1609,0,150031,76.88,0.829,,PfizerBioNTech,63693721,SeriousCritical,Male Above 65,44166,6610
+MAR,Africa,Morocco,6/28/21,529895,21-Jun,0,451.143,9283,6,9908882,76.68,0.686,,OxfordAstraZeneca,43018,Mild,Male Above 30 and Below 65,5810,250
+MOZ,Africa,Mozambique,6/28/21,75422,21-Jun,0,406.429,869,1,,60.85,0.456,,PfizerBioNTech,1042927,TotalRecovered,Male Above 65,23792,2746
+MMR,Asia,Myanmar,6/28/21,154385,21-Jun,2,824,3309,12,,67.13,0.583,,OxfordAstraZeneca,370753,NewlyRecovered,Male Above 30 and Below 65,228,1
+NAM,Africa,Namibia,6/28/21,86649,21-Jun,2,1554.714,1445,45,,63.71,0.646,,PfizerBioNTech,1151057,SeriousCritical,Male Below 30,7276,567
+NPL,Asia,Nepal,6/28/21,635188,21-Jun,5,1792.571,9051,42,2587873,70.78,0.602,,PfizerBioNTech,156381,Mild,Female Above 65,2702,127
+NLD,Europe,Netherlands,6/28/21,1711545,21-Jun,7,623.429,18024,0,,82.28,0.944,,OxfordAstraZeneca,3791775,TotalRecovered,Female Below 30,563,4
+NZL,Oceania,New Zealand,6/28/21,2742,21-Jun,5,3,26,0,,82.29,0.931,,Moderna,257739,NewlyRecovered,Female Above 30 and Below 65,3453,47
+NIC,North America,Nicaragua,6/28/21,7920,21-Jun,0,32,189,0,,74.48,0.66,,JohnsonJohnson,1944532,SeriousCritical,Male Above 65,13015,1197
+NER,Africa,Niger,6/28/21,5480,21-Jun,10,1.571,193,0,,62.42,0.394,,JohnsonJohnson,0,Mild,Male Above 30 and Below 65,373,1
+NGA,Africa,Nigeria,6/28/21,167532,21-Jun,10,34.286,2119,0,,54.69,0.539,,PfizerBioNTech,218095,TotalRecovered,Male Below 30,21784,2364
+MKD,Europe,North Macedonia,6/28/21,155676,21-Jun,4,7,5484,0,,75.8,0.774,,PfizerBioNTech,9578174,NewlyRecovered,Female Above 65,4220,75
+NOR,Europe,Norway,6/28/21,130744,21-Jun,5,171.286,792,0,2495201,82.4,0.957,,Moderna,7,SeriousCritical,Female Below 30,4409,340
+OMN,Asia,Oman,6/28/21,264302,21-Jun,4,1961.429,3013,46,854274,77.86,0.813,,JohnsonJohnson,38210,Mild,Female Above 30 and Below 65,433,9
+PAK,Asia,Pakistan,6/28/21,956392,21-Jun,0,936.286,22254,23,,67.27,0.557,,OxfordAstraZeneca,178518,TotalRecovered,Male Above 65,42164,5821
+PSE,Asia,Palestine,6/28/21,313851,21-Jun,8,148.571,3561,2,490082,74.05,0.708,,OxfordAstraZeneca,103691,NewlyRecovered,Male Above 30 and Below 65,5810,250
+PAN,North America,Panama,6/28/21,401332,21-Jun,1,1013,6529,5,994064,78.51,0.815,,PfizerBioNTech,484291,SeriousCritical,Male Below 30,40326,5079
+PNG,Oceania,Papua New Guinea,6/28/21,17098,21-Jun,75,12.143,173,0,,64.5,0.555,,OxfordAstraZeneca,835580,Mild,Female Above 65,1380,31
+PRY,South America,Paraguay,6/28/21,419764,21-Jun,9,1720.429,12641,124,,74.25,0.728,,PfizerBioNTech,1912347,TotalRecovered,Male Above 65,39204,5309
+PER,South America,Peru,6/28/21,2048115,21-Jun,0,2500.571,191899,315,,76.74,0.777,,PfizerBioNTech,32232422,NewlyRecovered,Male Above 30 and Below 65,228,1
+PHL,Asia,Philippines,6/28/21,1403588,21-Jun,2,5621.286,24456,84,,71.23,0.718,,PfizerBioNTech,87142,NewlyRecovered,Male Below 30,8501,14
+POL,Europe,Poland,6/28/21,2879689,21-Jun,4,121.286,74979,0,16716871,78.73,0.88,,PfizerBioNTech,243669,SeriousCritical,Female Above 65,19636,2089
+PRT,Europe,Portugal,6/28/21,875449,21-Jun,,1377.571,17086,2,5386835,82.05,0.864,,PfizerBioNTech,3359401,Mild,Female Below 30,5078,123
+QAT,Asia,Qatar,6/28/21,221810,21-Jun,2,125.714,588,0,1689837,80.23,0.848,,PfizerBioNTech,397127,TotalRecovered,Female Above 30 and Below 65,42328,5286
+ROU,Europe,Romania,6/28/21,1080667,21-Jun,0,55,33311,58,4702086,76.05,0.828,,PfizerBioNTech,6354991,NewlyRecovered,Male Above 30 and Below 65,8084,697
+RUS,Europe,Russia,6/28/21,5408744,21-Jun,6,19488,131671,601,21790363,72.58,0.824,,Moderna,122580,SeriousCritical,Male Below 30,5077,432
+RWA,Africa,Rwanda,6/28/21,37384,21-Jun,1,849.857,427,7,,69.02,0.543,,PfizerBioNTech,41577309,Mild,Female Above 65,413701,56709
+KNA,North America,Saint Kitts and Nevis,6/28/21,439,21-Jun,1,12.714,3,0,,76.23,0.779,,JohnsonJohnson,26,TotalRecovered,Female Below 30,2563,123
+LCA,North America,Saint Lucia,6/28/21,5284,21-Jun,6,9.429,84,0,,76.2,0.759,,SinopharmBeijing,1873498,NewlyRecovered,Female Above 30 and Below 65,40580,5683
+VCT,North America,Saint Vincent and the Grenadines,6/28/21,2219,21-Jun,0,3.286,12,0,,72.53,0.738,,OxfordAstraZeneca,23333,NewlyRecovered,Male Above 65,3752,65
+WSM,Oceania,Samoa,6/28/21,3,21-Jun,8,0,,,,73.32,0.715,,Moderna,28350,SeriousCritical,Male Above 30 and Below 65,48343,6719
+SMR,Europe,San Marino,6/28/21,5091,21-Jun,0,0.143,90,0,,84.97,,,PfizerBioNTech,6241647,NewlyRecovered,Male Below 30,7262,554
+STP,Africa,Sao Tome and Principe,6/28/21,2365,21-Jun,5,0.429,37,0,16453,70.39,0.625,,OxfordAstraZeneca,10462051,SeriousCritical,Male Above 65,15199,1474
+SAU,Asia,Saudi Arabia,6/28/21,484539,21-Jun,20,1305.143,7789,14,,75.13,0.854,,OxfordAstraZeneca,41237,Mild,Male Above 30 and Below 65,1185,47
+SEN,Africa,Senegal,6/28/21,42929,21-Jun,,70.286,1164,0,515344,67.94,0.512,,OxfordAstraZeneca,49089,NewlyRecovered,Male Below 30,41363,6045
+SRB,Europe,Serbia,6/28/21,716385,21-Jun,3,77.714,7039,8,,76,0.806,,OxfordAstraZeneca,78410,SeriousCritical,Female Above 65,8208,816
+SYC,Africa,Seychelles,6/28/21,15579,21-Jun,1,208,68,5,,73.4,0.796,,OxfordAstraZeneca,487334,NewlyRecovered,Female Below 30,46888,5960
+SLE,Africa,Sierra Leone,6/28/21,5443,21-Jun,2,80.571,97,3,,54.7,0.452,,OxfordAstraZeneca,323062,SeriousCritical,Female Above 30 and Below 65,982,25
+SGP,Asia,Singapore,6/28/21,62553,21-Jun,0,17.571,36,0,,83.62,0.938,,OxfordAstraZeneca,38575,NewlyRecovered,Male Above 65,1353,37
+SVK,Europe,Slovakia,6/28/21,391566,21-Jun,0,34.286,12509,4,2007665,77.54,0.86,,OxfordAstraZeneca,1557676,SeriousCritical,Male Above 30 and Below 65,2729,136
+SVN,Europe,Slovenia,6/28/21,257252,21-Jun,2,35.857,4419,0,815838,81.32,0.917,,JohnsonJohnson,10939901,Mild,Male Below 30,1835,74
+SLB,Oceania,Solomon Islands,6/28/21,20,21-Jun,2,0,,,,73,0.567,,Sinovac,640232,TotalRecovered,Female Above 65,4754,124
+SOM,Africa,Somalia,6/28/21,14933,21-Jun,5,9.429,775,0,137981,57.4,,,OxfordAstraZeneca,44961,NewlyRecovered,Female Below 30,22571,2499
+ZAF,Africa,South Africa,6/28/21,1941119,21-Jun,7,15520,60038,138,2787996,64.13,0.709,,OxfordAstraZeneca,333289,SeriousCritical,Female Above 30 and Below 65,9343,829
+KOR,Asia,South Korea,6/28/21,156167,21-Jun,5,609.429,2017,2,15304120,83.03,0.916,,Moderna,53610,Mild,Male Above 65,15199,1474
+SSD,Africa,South Sudan,6/28/21,10824,21-Jun,0,5.429,116,1,42166,57.85,0.433,,JohnsonJohnson,94539,TotalRecovered,Male Above 30 and Below 65,41556,6237
+ESP,Europe,Spain,6/28/21,3792642,21-Jun,10,3998.714,80789,10,,83.56,0.904,,OxfordAstraZeneca,151216,NewlyRecovered,Male Below 30,39204,5309
+LKA,Asia,Sri Lanka,6/28/21,255508,21-Jun,10,1955.429,2985,41,2605558,76.98,0.782,,OxfordAstraZeneca,7473179,SeriousCritical,Female Above 65,38574,5050
+SDN,Africa,Sudan,6/28/21,36620,21-Jun,4,39,2754,0,550291,65.31,0.51,,JohnsonJohnson,26,Mild,Male Above 65,3752,65
+SUR,South America,Suriname,6/28/21,21360,21-Jun,5,174.143,512,5,157982,71.68,0.738,,JohnsonJohnson,55848,TotalRecovered,Male Above 30 and Below 65,20534,2192
+SWE,Europe,Sweden,6/28/21,1088896,21-Jun,4,608.571,14619,0,,82.8,0.945,,JohnsonJohnson,5,NewlyRecovered,Male Below 30,14445,1388
+CHE,Europe,Switzerland,6/28/21,702746,21-Jun,0,107.429,10885,3,,83.78,0.955,,Moderna,4,SeriousCritical,Female Above 65,1835,74
+SYR,Asia,Syria,6/28/21,25442,21-Jun,8,40.571,1870,3,,72.7,0.567,,OxfordAstraZeneca,7556219,Mild,Female Below 30,23116,2374
+TWN,Asia,Taiwan,6/28/21,14694,21-Jun,1,87.714,635,3,1926572,80.46,,,PfizerBioNTech,32648,TotalRecovered,Female Above 30 and Below 65,38574,5050
+TJK,Asia,Tajikistan,6/28/21,13460,21-Jun,75,21.714,90,0,,71.1,0.668,,OxfordAstraZeneca,269591,NewlyRecovered,Male Above 30 and Below 65,18492,1907
+TZA,Africa,Tanzania,6/28/21,509,21-Jun,9,0,21,0,,65.46,0.529,,Moderna,74016,SeriousCritical,Male Below 30,204,3
+THA,Asia,Thailand,6/28/21,249853,21-Jun,0,4078.143,1934,22,6721038,77.15,0.777,,OxfordAstraZeneca,194383,Mild,Female Above 65,2702,127
+TLS,Asia,Timor,6/28/21,9055,21-Jun,2,46.714,21,0,,69.5,0.606,,PfizerBioNTech,1466214,TotalRecovered,Female Below 30,35264,4206
+TGO,Africa,Togo,6/28/21,13846,21-Jun,4,16.429,128,0,,61.04,0.515,,JohnsonJohnson,391734,NewlyRecovered,Female Above 30 and Below 65,4403,97
+TTO,North America,Trinidad and Tobago,6/28/21,32343,21-Jun,,225.143,822,5,211363,73.51,0.796,,PfizerBioNTech,322027,SeriousCritical,Male Above 65,7262,554
+TUN,Africa,Tunisia,6/28/21,408931,21-Jun,2,3357.571,14737,83,,76.7,0.74,,Moderna,68858013,Mild,Male Above 30 and Below 65,315,3
+TUR,Asia,Turkey,6/28/21,5414310,21-Jun,0,5531,49634,58,33934402,77.69,0.82,,Sinovac,830628,TotalRecovered,Male Above 65,5077,432
+UGA,Africa,Uganda,6/28/21,79089,21-Jun,6,915.714,956,53,,63.37,0.544,,Sinovac,562744,NewlyRecovered,Male Above 30 and Below 65,2374,126
+UKR,Europe,Ukraine,6/28/21,2298478,21-Jun,1,965.143,54517,19,1912469,72.06,0.779,,PfizerBioNTech,143745,SeriousCritical,Male Below 30,44395,6546
+ARE,Asia,United Arab Emirates,6/28/21,628976,21-Jun,1,2140.429,1802,6,,77.97,0.89,,OxfordAstraZeneca,383508,Mild,Female Above 65,44526,6471
+GBR,Europe,United Kingdom,6/28/21,4771367,21-Jun,6,16404.429,128367,3,,81.32,0.932,,Moderna,94678,TotalRecovered,Female Below 30,44802,6290
+USA,North America,United States,6/28/21,33640502,21-Jun,0,12318.143,604115,150,179615165,78.86,0.926,,OxfordAstraZeneca,4458360,NewlyRecovered,Female Above 30 and Below 65,44526,6471
+URY,South America,Uruguay,6/28/21,366915,21-Jun,8,1504.714,5524,30,,77.91,0.817,,PfizerBioNTech,4281764,NewlyRecovered,Male Above 65,5638,163
+UZB,Asia,Uzbekistan,6/28/21,109692,21-Jun,0,462.857,731,2,,71.72,0.72,,OxfordAstraZeneca,10079638,SeriousCritical,Male Above 30 and Below 65,26496,3114
+VUT,Oceania,Vanuatu,6/28/21,4,21-Jun,5,0,1,0,,70.47,0.609,,JohnsonJohnson,1871546,NewlyRecovered,Male Below 30,7174,438
+VAT,Europe,Vatican,6/28/21,27,21-Jun,20,0,,,,75.12,,,,,SeriousCritical,Female Above 65,10556,30
+VEN,South America,Venezuela,6/28/21,269635,21-Jun,,1085.286,3068,0,,72.06,0.711,,,,Mild,Female Below 30,3603,210
+VNM,Asia,Vietnam,6/28/21,16136,21-Jun,3,372.286,78,2,3324110,75.4,0.704,,,,NewlyRecovered,Female Above 30 and Below 65,3939,277
+YEM,Asia,Yemen,6/28/21,6909,21-Jun,1,2.857,1361,1,,66.12,0.47,,,,SeriousCritical,Male Above 65,16987,1651
+ZMB,Africa,Zambia,6/28/21,149661,21-Jun,2,2718.571,2091,69,,63.89,0.584,,,,NewlyRecovered,Male Above 30 and Below 65,198,2
+ZWE,Africa,Zimbabwe,6/28/21,47284,21-Jun,0,727,1749,13,,61.49,0.571,,,,SeriousCritical,Male Below 30,7174,438
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,907,265545768,69.66,0.645,,Moderna,12163032,NewlyRecovered,Female Above 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,6000,800,265545768,69.66,0.645,,Moderna,163032,SeriousCritical,Male Above 65,4000,4000
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,45000,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 30 and Below 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,300,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,TotalRecovered,Male Below 30,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,70000,907,265545768,69.66,0.645,,OxfordAstraZeneca,566082,NewlyRecovered,Female Above 65,41363,6045
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,600,265545768,69.66,0.645,,OxfordAstraZeneca,82622178,SeriousCritical,Female Below 30,2868,500
+IND,Asia,India,6/28/21,30316897,21-Jun,100,48433.714,30000,200,265545768,69.66,0.645,,OxfordAstraZeneca,10450,Mild,Male Above 65,250,1000
+IND,Asia,India,6/28/21,30316897,21-Jun,100,48433.714,1000000,907,265545768,69.66,0.645,,OxfordAstraZeneca,1873498,TotalRecovered,Male Above 30 and Below 65,40580,5683
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,10,1692.714,4730,211,,64.83,0.511,,OxfordAstraZeneca,10804437,NewlyRecovered,Male Below 30,14445,1388
+ALB,Europe,Bangladesh,6/28/21,8,21-Jun,4,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Above 65,1835,74
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,5,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,Mild,Female Below 30,44392,6443
+AND,Europe,Andorra,6/28/21,13882,21-Jun,4,2.571,127,0,,83.73,0.868,,OxfordAstraZeneca,298706,TotalRecovered,Female Above 30 and Below 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,0,123.571,891,2,943301,61.15,0.581,,OxfordAstraZeneca,3028162,NewlyRecovered,Male Above 65,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,8,0,42,0,,77.02,0.778,,OxfordAstraZeneca,23,SeriousCritical,Male Above 30 and Below 65,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,1,20891.571,93142,574,15993494,76.67,0.845,,OxfordAstraZeneca,2707983,Mild,Male Below 30,2203,81
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,75,85.429,4510,2,,75.09,0.776,,OxfordAstraZeneca,4,TotalRecovered,Female Above 65,44502,6455
+ABW,North America,Aruba,6/28/21,,21-Jun,9,,,,67457,76.29,,,OxfordAstraZeneca,533,NewlyRecovered,Female Below 30,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,0,27.714,910,0,6152645,83.44,0.944,,OxfordAstraZeneca,2975738,SeriousCritical,Female Above 30 and Below 65,10556,30
+AUT,Europe,Austria,6/28/21,650324,21-Jun,2,93.429,10701,1,4692442,81.54,0.922,,OxfordAstraZeneca,9020928,Mild,Male Above 65,14445,1388
+AZE,Asia,Azerbaijan,6/28/21,335874,21-Jun,4,50.429,4970,2,2139001,73,0.756,,OxfordAstraZeneca,10026,TotalRecovered,Male Above 30 and Below 65,1353,37
+BHS,North America,Bahamas,6/28/21,12467,21-Jun,,14.714,245,0,,73.92,0.814,,OxfordAstraZeneca,293234,NewlyRecovered,Male Below 30,27334,3160
+BHR,Asia,Bahrain,6/28/21,265477,21-Jun,2,311.714,1348,3,1054837,77.29,0.852,,OxfordAstraZeneca,315676,SeriousCritical,Female Above 65,5731,217
+BGD,Asia,Bangladesh,6/28/21,8,21-Jun,0,5780.857,14276,0,5823245,72.59,0.632,,OxfordAstraZeneca,8886,Mild,Male Above 65,42328,5286
+BRB,North America,Barbados,6/28/21,4077,21-Jun,6,4.571,47,0,,79.19,0.814,,OxfordAstraZeneca,342263,TotalRecovered,Male Above 30 and Below 65,2337,112
+BLR,Europe,Belarus,6/28/21,415780,21-Jun,1,661,3122,9,,74.79,0.823,,OxfordAstraZeneca,168953,NewlyRecovered,Male Below 30,44392,6443
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,1,548.286,25168,8,7013433,81.63,0.931,,OxfordAstraZeneca,566082,SeriousCritical,Female Above 65,41363,6045
+BLZ,North America,Belize,6/28/21,13189,21-Jun,6,21.429,329,0,,74.62,0.716,,OxfordAstraZeneca,82622178,Mild,Female Below 30,2868,39
+BEN,Africa,Benin,6/28/21,8170,21-Jun,0,4.286,104,0,36188,61.77,0.545,,OxfordAstraZeneca,36223,TotalRecovered,Female Above 30 and Below 65,13015,1197
+BTN,Asia,Bhutan,6/28/21,2062,21-Jun,8,17.571,1,0,,71.78,0.654,,OxfordAstraZeneca,70268,NewlyRecovered,Male Above 30 and Below 65,204,3
+BOL,South America,Bolivia,6/28/21,435568,21-Jun,0,1822.429,16631,50,1788228,71.51,0.718,,Moderna,3188,NewlyRecovered,Male Below 30,14386,1580
+BIH,Europe,Bosnia and Herzegovina,6/28/21,204991,21-Jun,5,18.714,9658,3,,77.4,0.78,,Moderna,277708,SeriousCritical,Female Above 65,676,2
+BWA,Africa,Botswana,6/28/21,69680,21-Jun,20,553.143,1125,30,,69.59,0.735,,PfizerBioNTech,4003939,NewlyRecovered,Female Below 30,3391,217
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,SeriousCritical,Female Above 30 and Below 65,198,2
+BRN,Asia,Brunei,6/28/21,259,21-Jun,3,0.571,3,0,,75.86,0.838,,Moderna,30454,Mild,Male Above 65,563,4
+BGR,Europe,Bulgaria,6/28/21,421646,21-Jun,1,70.571,18040,13,944704,75.05,0.816,,PfizerBioNTech,32991282,NewlyRecovered,Male Above 30 and Below 65,8208,816
+BFA,Africa,Burkina Faso,6/28/21,13479,21-Jun,2,1.429,168,0,25833,61.58,0.452,,Moderna,1262,SeriousCritical,Male Below 30,511,3
+BDI,Africa,Burundi,6/28/21,5423,21-Jun,0,25.857,8,0,,61.58,0.433,,JohnsonJohnson,8696,NewlyRecovered,Female Above 65,1380,31
+KHM,Asia,Cambodia,6/28/21,48532,21-Jun,0,726.571,556,16,4019751,69.82,0.594,,PfizerBioNTech,3458360,SeriousCritical,Female Below 30,1380,31
+CMR,Africa,Cameroon,6/28/21,80487,21-Jun,2,22.714,1320,0,88333,59.29,0.563,,PfizerBioNTech,38623102,NewlyRecovered,Male Above 65,40580,5683
+CAN,North America,Canada,6/28/21,1421695,21-Jun,2,637,26215,28,25610293,82.43,0.929,,OxfordAstraZeneca,113339,NewlyRecovered,Male Above 30 and Below 65,40580,5683
+CPV,Africa,Cape Verde,6/28/21,32399,21-Jun,5,51.429,286,0,76390,72.98,0.665,,OxfordAstraZeneca,19302,SeriousCritical,Male Below 30,1641,14
+CYM,North America,Cayman Islands,6/28/21,,21-Jun,7,,,,48262,83.92,,,OxfordAstraZeneca,69579,Mild,Female Above 65,5379,171
+CAF,Africa,Central African Republic,6/28/21,7141,21-Jun,5,1.714,98,0,,53.28,0.397,,OxfordAstraZeneca,1644401,TotalRecovered,Female Below 30,25561,2968
+TCD,Africa,Chad,6/28/21,4951,21-Jun,0,0.571,174,0,,54.24,0.398,,OxfordAstraZeneca,24951,NewlyRecovered,Female Above 30 and Below 65,433,9
+CHL,South America,Chile,6/28/21,1551137,21-Jun,10,4130.571,32454,156,,80.18,0.851,,OxfordAstraZeneca,656926,SeriousCritical,Male Above 65,48343,6719
+CHN,Asia,China,6/28/21,91825,21-Jun,10,20.429,4636,0,,76.91,0.761,,OxfordAstraZeneca,1622000,Mild,Male Above 30 and Below 65,48321,7079
+COL,South America,Colombia,6/28/21,4187194,21-Jun,4,31255.571,105326,648,,77.29,0.767,,OxfordAstraZeneca,2763676,TotalRecovered,Male Below 30,6649,400
+COM,Africa,Comoros,6/28/21,3912,21-Jun,5,0,146,0,,64.32,0.554,,OxfordAstraZeneca,11517956,NewlyRecovered,Female Above 65,2374,126
+COG,Africa,Congo,6/28/21,12485,21-Jun,4,26.714,165,0,,64.57,0.574,,OxfordAstraZeneca,43144,SeriousCritical,Female Below 30,38574,5050
+CRI,North America,Costa Rica,6/28/21,364304,21-Jun,0,1458.429,4648,46,,80.28,0.81,,OxfordAstraZeneca,322211,Mild,Female Above 30 and Below 65,21784,2364
+CIV,Africa,Cote d'Ivoire,6/28/21,48203,21-Jun,8,22.286,313,1,745327,57.78,0.538,,OxfordAstraZeneca,306725,TotalRecovered,Male Above 65,347,8
+HRV,Europe,Croatia,6/28/21,359666,21-Jun,1,68.857,8202,2,1482581,78.49,0.851,,OxfordAstraZeneca,9127,NewlyRecovered,Male Above 30 and Below 65,27516,3296
+CUB,North America,Cuba,6/28/21,184943,21-Jun,75,2225.429,1253,12,,78.8,0.783,,OxfordAstraZeneca,176989,SeriousCritical,Male Below 30,1380,31
+CUW,North America,Curacao,6/28/21,,21-Jun,9,,,,88632,78.88,,,OxfordAstraZeneca,184859,Mild,Female Above 65,5078,123
+CYP,Europe,Cyprus,6/28/21,75099,21-Jun,0,198.429,374,0,,80.98,0.887,,OxfordAstraZeneca,204468,TotalRecovered,Male Above 65,37330,4373
+CZE,Europe,Czechia,6/28/21,1666947,21-Jun,2,123.571,30298,0,4994613,79.38,0.9,,OxfordAstraZeneca,171716,NewlyRecovered,Male Above 30 and Below 65,3391,217
+COD,Africa,Democratic Republic of Congo,6/28/21,40439,21-Jun,4,359,916,0,,60.68,0.48,,OxfordAstraZeneca,1778648,NewlyRecovered,Male Below 30,44166,6610
+DNK,Europe,Denmark,6/28/21,293916,21-Jun,,185.429,2534,1,3281015,80.9,0.94,,OxfordAstraZeneca,24608,SeriousCritical,Female Above 65,48343,6719
+DJI,Africa,Djibouti,6/28/21,11601,21-Jun,2,1.429,155,0,,67.11,0.524,,PfizerBioNTech,218095,NewlyRecovered,Female Below 30,3541,50
+DMA,North America,Dominica,6/28/21,193,21-Jun,0,0.286,,,,75,0.742,,JohnsonJohnson,17,SeriousCritical,Female Above 30 and Below 65,9343,829
+DOM,North America,Dominican Republic,6/28/21,323650,21-Jun,6,857.857,3801,4,,74.08,0.756,,PfizerBioNTech,2954838,Mild,Male Above 30 and Below 65,945,21
+ECU,South America,Ecuador,6/28/21,455743,21-Jun,1,1301.429,21523,0,,77.01,0.759,,OxfordAstraZeneca,179606,NewlyRecovered,Male Below 30,40580,5683
+EGY,Africa,Egypt,6/28/21,280770,21-Jun,1,424.714,16125,33,,71.99,0.707,,OxfordAstraZeneca,15195,SeriousCritical,Female Above 65,13444,1485
+SLV,North America,El Salvador,6/28/21,78766,21-Jun,6,183.143,2371,4,,73.32,0.673,,PfizerBioNTech,1567267,NewlyRecovered,Female Below 30,10556,30
+GNQ,Africa,Equatorial Guinea,6/28/21,8723,21-Jun,0,2.143,121,0,,58.74,0.592,,Moderna,1807866,SeriousCritical,Female Above 30 and Below 65,3343,160
+ERI,Africa,Eritrea,6/28/21,5884,21-Jun,8,66.143,22,1,,66.32,0.459,,OxfordAstraZeneca,646291,NewlyRecovered,Male Above 65,39204,5309
+EST,Europe,Estonia,6/28/21,130983,21-Jun,0,23.571,1269,0,555280,78.74,0.892,,Moderna,25646,SeriousCritical,Male Above 30 and Below 65,30967,3502
+SWZ,Africa,Eswatini,6/28/21,19084,21-Jun,5,36.143,678,0,,60.19,0.611,,Moderna,1870855,Mild,Male Below 30,676,2
+ETH,Africa,Ethiopia,6/28/21,275974,21-Jun,20,93.714,4315,1,,66.6,0.485,,Moderna,121125577,TotalRecovered,Female Above 65,10358,943
+FRO,Europe,Faeroe Islands,6/28/21,,21-Jun,,,,,28060,80.67,,,PfizerBioNTech,186127467,NewlyRecovered,Female Below 30,2563,123
+FJI,Oceania,Fiji,6/28/21,3832,21-Jun,3,248.857,17,2,,67.44,0.743,,PfizerBioNTech,6062839,SeriousCritical,Female Above 30 and Below 65,210,3
+FIN,Europe,Finland,6/28/21,95168,21-Jun,1,112.714,969,0,3227042,81.91,0.938,,CanSino,10450,Mild,Female Above 65,250,1
+FRA,Europe,France,6/28/21,5832490,21-Jun,2,1843.714,111174,44,,82.66,0.901,,PfizerBioNTech,597717,TotalRecovered,Female Below 30,210,3
+GAB,Africa,Gabon,6/28/21,24984,21-Jun,0,17.143,159,0,,66.47,0.703,,PfizerBioNTech,2653189,NewlyRecovered,Female Above 30 and Below 65,352,6
+GMB,Africa,Gambia,6/28/21,6069,21-Jun,0,3.429,181,0,,62.05,0.496,,PfizerBioNTech,7763195,SeriousCritical,Male Above 65,13015,1397
+GEO,Asia,Georgia,6/28/21,363874,21-Jun,2,676.143,5275,9,254737,73.77,0.812,,Moderna,70,Mild,Male Above 30 and Below 65,2868,39
+DEU,Europe,Germany,6/28/21,3734830,21-Jun,2,601.571,90826,58,44886784,81.33,0.947,,PfizerBioNTech,30602125,TotalRecovered,Male Below 30,3541,50
+GHA,Africa,Ghana,6/28/21,95476,21-Jun,5,59.571,795,0,,64.07,0.611,,Moderna,1,NewlyRecovered,Female Above 65,19423,1953
+GRC,Europe,Greece,6/28/21,421266,21-Jun,7,388.286,12663,8,4762181,82.24,0.888,,PfizerBioNTech,219676,SeriousCritical,Female Below 30,2374,126
+GRL,North America,Greenland,6/28/21,,21-Jun,5,,,,25298,71.7,,,OxfordAstraZeneca,306124,Mild,Female Above 30 and Below 65,181,1
+GRD,North America,Grenada,6/28/21,161,21-Jun,0,0,1,0,,72.4,0.779,,JohnsonJohnson,297824,TotalRecovered,Male Above 65,7262,554
+GTM,North America,Guatemala,6/28/21,291977,21-Jun,10,1589,9089,39,,74.3,0.663,,PfizerBioNTech,12798,NewlyRecovered,Male Above 30 and Below 65,2868,39
+GIN,Africa,Guinea,6/28/21,23744,21-Jun,10,29.857,168,0,,61.6,0.477,,Moderna,215678,SeriousCritical,Male Below 30,3603,210
+GNB,Africa,Guinea-Bissau,6/28/21,3846,21-Jun,4,3,69,0,21855,58.32,0.48,,PfizerBioNTech,912824,Mild,Female Above 65,37780,4802
+GUY,South America,Guyana,6/28/21,19891,21-Jun,5,106.714,466,4,,69.91,0.682,,JohnsonJohnson,0,TotalRecovered,Female Below 30,3453,47
+HTI,North America,Haiti,6/28/21,18212,21-Jun,4,164.429,413,13,,64,0.51,,OxfordAstraZeneca,217059,NewlyRecovered,Female Above 30 and Below 65,11721,1007
+HND,North America,Honduras,6/28/21,260331,21-Jun,0,876.714,6922,6,,75.27,0.634,,Moderna,721192,SeriousCritical,Male Above 65,181,1
+HKG,Asia,Hong Kong,6/28/21,11920,21-Jun,8,4.429,210,0,2179683,84.86,0.949,,Moderna,248526,Mild,Male Above 30 and Below 65,352,6
+HUN,Europe,Hungary,6/28/21,808042,21-Jun,1,58.857,29989,9,5477405,76.88,0.854,,JohnsonJohnson,3307113,TotalRecovered,Male Below 30,34630,4076
+ISL,Europe,Iceland,6/28/21,6555,21-Jun,75,0,29,0,,82.99,0.949,,Sinovac,1067158,NewlyRecovered,Female Above 65,5731,217
+IND,Asia,India,6/28/21,30316897,21-Jun,9,48433.714,397637,907,265545768,69.66,0.645,,JohnsonJohnson,12163032,SeriousCritical,Male Above 65,5078,123
+IDN,Asia,Indonesia,6/28/21,2135998,21-Jun,0,18793.286,57561,423,27419898,71.72,0.718,,OxfordAstraZeneca,187096,Mild,Male Above 30 and Below 65,39550,4959
+IRN,Asia,Iran,6/28/21,3180092,21-Jun,2,10638.857,83985,140,,76.68,0.783,,OxfordAstraZeneca,563768,TotalRecovered,Male Below 30,13015,1197
+IRQ,Asia,Iraq,6/28/21,1332046,21-Jun,4,5620.857,17121,30,,70.6,0.674,,Moderna,325091,NewlyRecovered,Female Above 65,1835,74
+IRL,Europe,Ireland,6/28/21,271589,21-Jun,,324,4989,0,,82.3,0.955,,JohnsonJohnson,361802,NewlyRecovered,Female Below 30,44166,6610
+IMN,Europe,Isle of Man,6/28/21,,21-Jun,2,,,,63236,81.4,,,PfizerBioNTech,48221685,SeriousCritical,Female Above 30 and Below 65,36127,4512
+ISR,Asia,Israel,6/28/21,841196,21-Jun,0,172.286,6429,0,5566179,82.97,0.919,,OxfordAstraZeneca,4804950,NewlyRecovered,Male Above 30 and Below 65,7262,554
+ITA,Europe,Italy,6/28/21,4258456,21-Jun,6,713.714,127500,28,33582287,83.51,0.892,,PfizerBioNTech,4461960,NewlyRecovered,Male Below 30,6205,307
+JAM,North America,Jamaica,6/28/21,50054,21-Jun,1,48.857,1061,0,,74.47,0.734,,OxfordAstraZeneca,24084,SeriousCritical,Female Above 65,39550,4959
+JPN,Asia,Japan,6/28/21,797084,21-Jun,1,1502.571,14659,38,28049718,84.63,0.919,,OxfordAstraZeneca,5,Mild,Female Below 30,44974,5677
+JOR,Asia,Jordan,6/28/21,750389,21-Jun,6,484.143,9737,10,2371379,74.53,0.729,,PfizerBioNTech,42596130,TotalRecovered,Female Above 30 and Below 65,30967,3502
+KAZ,Asia,Kazakhstan,6/28/21,478063,21-Jun,0,1570.571,3527,3,3165155,73.6,0.825,,PfizerBioNTech,41010,NewlyRecovered,Male Above 65,901,7
+KEN,Africa,Kenya,6/28/21,182884,21-Jun,8,513,3612,17,1003204,66.7,0.601,,PfizerBioNTech,10437,SeriousCritical,Male Above 30 and Below 65,20534,2192
+KIR,Oceania,Kiribati,6/28/21,2,21-Jun,0,0,,,,68.37,0.63,,Moderna,2375,Mild,Male Below 30,1641,14
+OWID_KOS,Europe,Kosovo,6/28/21,107331,21-Jun,5,12,2262,2,,,,,JohnsonJohnson,78410,TotalRecovered,Female Above 65,14445,1388
+KWT,Asia,Kuwait,6/28/21,353133,21-Jun,20,1738,1943,10,,75.49,0.806,,OxfordAstraZeneca,129307,NewlyRecovered,Female Below 30,1978,75
+KGZ,Asia,Kyrgyzstan,6/28/21,121946,21-Jun,,904.429,1982,5,,71.45,0.697,,PfizerBioNTech,3939640,SeriousCritical,Female Above 30 and Below 65,34630,4076
+LAO,Asia,Laos,6/28/21,2110,21-Jun,3,8,3,0,886238,67.92,0.613,,PfizerBioNTech,30285,Mild,Female Above 65,306,5
+LVA,Europe,Latvia,6/28/21,137240,21-Jun,1,55.714,2503,0,646816,75.29,0.866,,PfizerBioNTech,800991,TotalRecovered,Female Below 30,24541,2731
+LBN,Asia,Lebanon,6/28/21,544520,21-Jun,2,138.429,7845,2,870901,78.93,0.744,,PfizerBioNTech,131657484,NewlyRecovered,Female Above 30 and Below 65,3775,238
+LSO,Africa,Lesotho,6/28/21,11239,21-Jun,0,18.857,329,0,,54.33,0.527,,OxfordAstraZeneca,39231,SeriousCritical,Male Above 65,2337,15
+LBR,Africa,Liberia,6/28/21,3794,21-Jun,0,97.857,123,3,79670,64.1,0.48,,PfizerBioNTech,7895198,Mild,Male Above 30 and Below 65,13015,1197
+LBY,Africa,Libya,6/28/21,192786,21-Jun,2,249.714,3191,4,,72.91,0.724,,OxfordAstraZeneca,342096,TotalRecovered,Male Below 30,840,23
+LIE,Europe,Liechtenstein,6/28/21,3034,21-Jun,2,0.857,59,0,,82.49,0.919,,OxfordAstraZeneca,58452,NewlyRecovered,Female Above 65,37780,4802
+LTU,Europe,Lithuania,6/28/21,278689,21-Jun,5,40.286,4381,1,1231196,75.93,0.882,,Moderna,764791,NewlyRecovered,Female Below 30,5810,250
+LUX,Europe,Luxembourg,6/28/21,70642,21-Jun,7,15.286,818,0,328962,82.25,0.916,,PfizerBioNTech,4183099,SeriousCritical,Female Above 30 and Below 65,306,5
+MAC,Asia,Macao,6/28/21,,21-Jun,5,,,,229957,84.24,,,PfizerBioNTech,11924683,NewlyRecovered,Male Above 65,18492,1907
+MDG,Africa,Madagascar,6/28/21,42194,21-Jun,0,8.143,909,3,197001,67.04,0.528,,JohnsonJohnson,0,SeriousCritical,Male Above 30 and Below 65,199,3
+MWI,Africa,Malawi,6/28/21,35709,21-Jun,10,113.571,1187,5,385242,64.26,0.483,,Moderna,2443605,Mild,Male Below 30,5379,171
+MYS,Asia,Malaysia,6/28/21,739266,21-Jun,10,5463.857,5001,57,5463128,76.16,0.81,,JohnsonJohnson,0,NewlyRecovered,Female Above 65,5731,217
+MDV,Asia,Maldives,6/28/21,73482,21-Jun,4,190.429,209,0,,78.92,0.74,,OxfordAstraZeneca,62497,SeriousCritical,Female Below 30,36574,4465
+MLI,Africa,Mali,6/28/21,14419,21-Jun,5,4.857,525,0,,59.31,0.434,,OxfordAstraZeneca,40,NewlyRecovered,Female Above 30 and Below 65,840,23
+MLT,Europe,Malta,6/28/21,30612,21-Jun,4,3.143,420,0,357171,82.53,0.895,,JohnsonJohnson,1248174,SeriousCritical,Male Above 65,198,2
+MHL,Oceania,Marshall Islands,6/28/21,4,21-Jun,0,0,,,,73.7,0.704,,PfizerBioNTech,50026083,NewlyRecovered,Male Above 30 and Below 65,39504,5088
+MRT,Africa,Mauritania,6/28/21,20676,21-Jun,8,44.429,487,1,,64.92,0.546,,Moderna,133665,SeriousCritical,Male Below 30,2374,126
+MUS,Africa,Mauritius,6/28/21,1833,21-Jun,1,18.857,18,0,,74.99,0.804,,Moderna,23120,Mild,Female Above 65,36127,4512
+MEX,North America,Mexico,6/28/21,2507453,21-Jun,75,4128.857,232608,44,,75.05,0.779,,Moderna,18933,TotalRecovered,Male Above 65,228,1
+FSM,Oceania,Micronesia (country),6/28/21,1,21-Jun,9,0,,,,67.88,0.62,,Moderna,37220,NewlyRecovered,Male Above 30 and Below 65,44526,6471
+MDA,Europe,Moldova,6/28/21,256614,21-Jun,0,61,6187,3,435687,71.9,0.75,,PfizerBioNTech,2022454,SeriousCritical,Male Below 30,5945,280
+MCO,Europe,Monaco,6/28/21,2575,21-Jun,2,3.714,33,0,,86.75,,,OxfordAstraZeneca,216125,Mild,Female Above 65,763,7
+MNG,Asia,Mongolia,6/28/21,111505,21-Jun,4,1922.143,533,0,1981613,69.87,0.737,,PfizerBioNTech,281650,TotalRecovered,Female Below 30,4409,340
+MNE,Europe,Montenegro,6/28/21,100204,21-Jun,,16,1609,0,150031,76.88,0.829,,PfizerBioNTech,63693721,NewlyRecovered,Female Above 30 and Below 65,44166,6610
+MAR,Africa,Morocco,6/28/21,529895,21-Jun,2,451.143,9283,6,9908882,76.68,0.686,,OxfordAstraZeneca,43018,SeriousCritical,Male Above 30 and Below 65,5810,250
+MOZ,Africa,Mozambique,6/28/21,75422,21-Jun,0,406.429,869,1,,60.85,0.456,,PfizerBioNTech,1042927,Mild,Male Below 30,23792,2746
+MMR,Asia,Myanmar,6/28/21,154385,21-Jun,6,824,3309,12,,67.13,0.583,,OxfordAstraZeneca,370753,TotalRecovered,Female Above 65,228,1
+NAM,Africa,Namibia,6/28/21,86649,21-Jun,1,1554.714,1445,45,,63.71,0.646,,PfizerBioNTech,1151057,NewlyRecovered,Male Above 65,7276,567
+NPL,Asia,Nepal,6/28/21,635188,21-Jun,1,1792.571,9051,42,2587873,70.78,0.602,,PfizerBioNTech,156381,SeriousCritical,Male Above 30 and Below 65,2702,127
+NLD,Europe,Netherlands,6/28/21,1711545,21-Jun,6,623.429,18024,0,,82.28,0.944,,OxfordAstraZeneca,3791775,Mild,Male Below 30,563,4
+NZL,Oceania,New Zealand,6/28/21,2742,21-Jun,0,3,26,0,,82.29,0.931,,Moderna,257739,TotalRecovered,Female Above 65,3453,47
+NIC,North America,Nicaragua,6/28/21,7920,21-Jun,8,32,189,0,,74.48,0.66,,JohnsonJohnson,1944532,NewlyRecovered,Female Below 30,13015,1197
+NER,Africa,Niger,6/28/21,5480,21-Jun,0,1.571,193,0,,62.42,0.394,,JohnsonJohnson,0,SeriousCritical,Female Above 30 and Below 65,373,1
+NGA,Africa,Nigeria,6/28/21,167532,21-Jun,5,34.286,2119,0,,54.69,0.539,,PfizerBioNTech,218095,Mild,Male Above 65,21784,2364
+MKD,Europe,North Macedonia,6/28/21,155676,21-Jun,20,7,5484,0,,75.8,0.774,,PfizerBioNTech,9578174,TotalRecovered,Male Above 30 and Below 65,4220,75
+NOR,Europe,Norway,6/28/21,130744,21-Jun,,171.286,792,0,2495201,82.4,0.957,,Moderna,7,NewlyRecovered,Male Below 30,4409,340
+OMN,Asia,Oman,6/28/21,264302,21-Jun,3,1961.429,3013,46,854274,77.86,0.813,,JohnsonJohnson,38210,SeriousCritical,Female Above 65,433,9
+PAK,Asia,Pakistan,6/28/21,956392,21-Jun,1,936.286,22254,23,,67.27,0.557,,OxfordAstraZeneca,178518,Mild,Female Below 30,42164,5821
+PSE,Asia,Palestine,6/28/21,313851,21-Jun,2,148.571,3561,2,490082,74.05,0.708,,OxfordAstraZeneca,103691,TotalRecovered,Female Above 30 and Below 65,5810,250
+PAN,North America,Panama,6/28/21,401332,21-Jun,0,1013,6529,5,994064,78.51,0.815,,PfizerBioNTech,484291,NewlyRecovered,Male Above 65,40326,5079
+PNG,Oceania,Papua New Guinea,6/28/21,17098,21-Jun,0,12.143,173,0,,64.5,0.555,,OxfordAstraZeneca,835580,SeriousCritical,Male Above 30 and Below 65,1380,31
+PRY,South America,Paraguay,6/28/21,419764,21-Jun,2,1720.429,12641,124,,74.25,0.728,,PfizerBioNTech,1912347,Mild,Male Below 30,39204,5309
+PER,South America,Peru,6/28/21,2048115,21-Jun,2,2500.571,191899,315,,76.74,0.777,,PfizerBioNTech,32232422,TotalRecovered,Female Above 65,228,1
+PHL,Asia,Philippines,6/28/21,1403588,21-Jun,5,5621.286,24456,84,,71.23,0.718,,PfizerBioNTech,87142,NewlyRecovered,Male Above 65,8501,14
+POL,Europe,Poland,6/28/21,2879689,21-Jun,7,121.286,74979,0,16716871,78.73,0.88,,PfizerBioNTech,243669,NewlyRecovered,Male Above 30 and Below 65,19636,2089
+PRT,Europe,Portugal,6/28/21,875449,21-Jun,5,1377.571,17086,2,5386835,82.05,0.864,,PfizerBioNTech,3359401,SeriousCritical,Male Below 30,5078,123
+QAT,Asia,Qatar,6/28/21,221810,21-Jun,0,125.714,588,0,1689837,80.23,0.848,,PfizerBioNTech,397127,NewlyRecovered,Female Above 65,42328,5286
+ROU,Europe,Romania,6/28/21,1080667,21-Jun,10,55,33311,58,4702086,76.05,0.828,,PfizerBioNTech,6354991,SeriousCritical,Female Below 30,8084,697
+RUS,Europe,Russia,6/28/21,5408744,21-Jun,10,19488,131671,601,21790363,72.58,0.824,,Moderna,122580,NewlyRecovered,Female Above 30 and Below 65,5077,432
+RWA,Africa,Rwanda,6/28/21,37384,21-Jun,4,849.857,427,7,,69.02,0.543,,PfizerBioNTech,41577309,SeriousCritical,Male Above 30 and Below 65,413701,56709
+KNA,North America,Saint Kitts and Nevis,6/28/21,439,21-Jun,5,12.714,3,0,,76.23,0.779,,JohnsonJohnson,26,Mild,Male Below 30,2563,123
+LCA,North America,Saint Lucia,6/28/21,5284,21-Jun,4,9.429,84,0,,76.2,0.759,,SinopharmBeijing,1873498,TotalRecovered,Female Above 65,40580,5683
+VCT,North America,Saint Vincent and the Grenadines,6/28/21,2219,21-Jun,0,3.286,12,0,,72.53,0.738,,OxfordAstraZeneca,23333,NewlyRecovered,Female Below 30,3752,65
+WSM,Oceania,Samoa,6/28/21,3,21-Jun,8,0,,,,73.32,0.715,,Moderna,28350,SeriousCritical,Female Above 30 and Below 65,48343,6719
+SMR,Europe,San Marino,6/28/21,5091,21-Jun,1,0.143,90,0,,84.97,,,PfizerBioNTech,6241647,Mild,Male Above 65,7262,554
+STP,Africa,Sao Tome and Principe,6/28/21,2365,21-Jun,75,0.429,37,0,16453,70.39,0.625,,OxfordAstraZeneca,10462051,TotalRecovered,Male Above 65,15199,1474
+SAU,Asia,Saudi Arabia,6/28/21,484539,21-Jun,9,1305.143,7789,14,,75.13,0.854,,PfizerBioNTech,41237,NewlyRecovered,Male Above 30 and Below 65,1185,47
+SEN,Africa,Senegal,6/28/21,42929,21-Jun,0,70.286,1164,0,515344,67.94,0.512,,PfizerBioNTech,49089,SeriousCritical,Male Below 30,41363,6045
+SRB,Europe,Serbia,6/28/21,716385,21-Jun,2,77.714,7039,8,,76,0.806,,JohnsonJohnson,78410,Mild,Female Above 65,8208,816
+SYC,Africa,Seychelles,6/28/21,15579,21-Jun,4,208,68,5,,73.4,0.796,,PfizerBioNTech,487334,TotalRecovered,Female Below 30,46888,5960
+SLE,Africa,Sierra Leone,6/28/21,5443,21-Jun,,80.571,97,3,,54.7,0.452,,Moderna,323062,NewlyRecovered,Female Above 30 and Below 65,982,25
+SGP,Asia,Singapore,6/28/21,62553,21-Jun,2,17.571,36,0,,83.62,0.938,,Moderna,38575,SeriousCritical,Male Above 65,1353,37
+SVK,Europe,Slovakia,6/28/21,391566,21-Jun,0,34.286,12509,4,2007665,77.54,0.86,,PfizerBioNTech,1557676,Mild,Male Above 30 and Below 65,2729,136
+SVN,Europe,Slovenia,6/28/21,257252,21-Jun,6,35.857,4419,0,815838,81.32,0.917,,JohnsonJohnson,10939901,TotalRecovered,Male Below 30,1835,74
+SLB,Oceania,Solomon Islands,6/28/21,20,21-Jun,1,0,,,,73,0.567,,Sinovac,640232,NewlyRecovered,Female Above 65,4754,124
+SOM,Africa,Somalia,6/28/21,14933,21-Jun,1,9.429,775,0,137981,57.4,,,OxfordAstraZeneca,44961,NewlyRecovered,Female Below 30,22571,2499
+ZAF,Africa,South Africa,6/28/21,1941119,21-Jun,6,15520,60038,138,2787996,64.13,0.709,,OxfordAstraZeneca,333289,SeriousCritical,Female Above 30 and Below 65,9343,829
+KOR,Asia,South Korea,6/28/21,156167,21-Jun,0,609.429,2017,2,15304120,83.03,0.916,,Moderna,53610,NewlyRecovered,Male Above 65,15199,1474
+SSD,Africa,South Sudan,6/28/21,10824,21-Jun,8,5.429,116,1,42166,57.85,0.433,,JohnsonJohnson,94539,SeriousCritical,Male Above 30 and Below 65,41556,6237
+ESP,Europe,Spain,6/28/21,3792642,21-Jun,0,3998.714,80789,10,,83.56,0.904,,OxfordAstraZeneca,151216,Mild,Male Below 30,39204,5309
+LKA,Asia,Sri Lanka,6/28/21,255508,21-Jun,5,1955.429,2985,41,2605558,76.98,0.782,,OxfordAstraZeneca,7473179,NewlyRecovered,Male Above 65,38574,5050
+SDN,Africa,Sudan,6/28/21,36620,21-Jun,20,39,2754,0,550291,65.31,0.51,,JohnsonJohnson,26,SeriousCritical,Male Above 30 and Below 65,3752,65
+SUR,South America,Suriname,6/28/21,21360,21-Jun,,174.143,512,5,157982,71.68,0.738,,JohnsonJohnson,55848,NewlyRecovered,Male Below 30,20534,2192
+SWE,Europe,Sweden,6/28/21,1088896,21-Jun,3,608.571,14619,0,,82.8,0.945,,JohnsonJohnson,5,SeriousCritical,Female Above 65,14445,1388
+CHE,Europe,Switzerland,6/28/21,702746,21-Jun,1,107.429,10885,3,,83.78,0.955,,Moderna,4,NewlyRecovered,Female Below 30,1835,74
+SYR,Asia,Syria,6/28/21,25442,21-Jun,2,40.571,1870,3,,72.7,0.567,,OxfordAstraZeneca,7556219,SeriousCritical,Female Above 30 and Below 65,23116,2374
+TWN,Asia,Taiwan,6/28/21,14694,21-Jun,0,87.714,635,3,1926572,80.46,,,PfizerBioNTech,32648,Mild,Male Above 65,38574,5050
+TJK,Asia,Tajikistan,6/28/21,13460,21-Jun,0,21.714,90,0,,71.1,0.668,,OxfordAstraZeneca,269591,TotalRecovered,Male Above 30 and Below 65,18492,1907
+TZA,Africa,Tanzania,6/28/21,509,21-Jun,2,0,21,0,,65.46,0.529,,Moderna,74016,NewlyRecovered,Male Below 30,204,3
+THA,Asia,Thailand,6/28/21,249853,21-Jun,2,4078.143,1934,22,6721038,77.15,0.777,,OxfordAstraZeneca,194383,SeriousCritical,Female Above 65,2702,127
+TLS,Asia,Timor,6/28/21,9055,21-Jun,5,46.714,21,0,,69.5,0.606,,PfizerBioNTech,1466214,Mild,Female Below 30,35264,4206
+TGO,Africa,Togo,6/28/21,13846,21-Jun,7,16.429,128,0,,61.04,0.515,,JohnsonJohnson,391734,TotalRecovered,Female Above 30 and Below 65,4403,97
+TTO,North America,Trinidad and Tobago,6/28/21,32343,21-Jun,5,225.143,822,5,211363,73.51,0.796,,PfizerBioNTech,322027,NewlyRecovered,Male Above 65,7262,554
+TUN,Africa,Tunisia,6/28/21,408931,21-Jun,0,3357.571,14737,83,,76.7,0.74,,Moderna,68858013,SeriousCritical,Male Above 30 and Below 65,315,3
+TUR,Asia,Turkey,6/28/21,5414310,21-Jun,10,5531,49634,58,33934402,77.69,0.82,,Sinovac,830628,Mild,Male Below 30,5077,432
+UGA,Africa,Uganda,6/28/21,79089,21-Jun,10,915.714,956,53,,63.37,0.544,,Sinovac,562744,TotalRecovered,Female Above 65,2374,126
+UKR,Europe,Ukraine,6/28/21,2298478,21-Jun,4,965.143,54517,19,1912469,72.06,0.779,,PfizerBioNTech,143745,NewlyRecovered,Male Above 65,44395,6546
+ARE,Asia,United Arab Emirates,6/28/21,628976,21-Jun,5,2140.429,1802,6,,77.97,0.89,,OxfordAstraZeneca,383508,SeriousCritical,Male Above 30 and Below 65,44526,6471
+GBR,Europe,United Kingdom,6/28/21,4771367,21-Jun,4,16404.429,128367,3,,81.32,0.932,,Moderna,94678,Mild,Male Below 30,44802,6290
+USA,North America,United States,6/28/21,33640502,21-Jun,0,12318.143,604115,150,179615165,78.86,0.926,,OxfordAstraZeneca,4458360,TotalRecovered,Female Above 65,44526,6471
+URY,South America,Uruguay,6/28/21,366915,21-Jun,8,1504.714,5524,30,,77.91,0.817,,PfizerBioNTech,4281764,NewlyRecovered,Female Below 30,5638,163
+UZB,Asia,Uzbekistan,6/28/21,109692,21-Jun,1,462.857,731,2,,71.72,0.72,,OxfordAstraZeneca,10079638,SeriousCritical,Female Above 30 and Below 65,26496,3114
+VUT,Oceania,Vanuatu,6/28/21,4,21-Jun,75,0,1,0,,70.47,0.609,,JohnsonJohnson,1871546,Mild,Male Above 30 and Below 65,7174,438
+VAT,Europe,Vatican,6/28/21,27,21-Jun,9,0,,,,75.12,,,,,TotalRecovered,Male Below 30,10556,30
+VEN,South America,Venezuela,6/28/21,269635,21-Jun,0,1085.286,3068,0,,72.06,0.711,,,,NewlyRecovered,Female Above 65,3603,210
+VNM,Asia,Vietnam,6/28/21,16136,21-Jun,2,372.286,78,2,3324110,75.4,0.704,,,,SeriousCritical,Female Below 30,3939,277
+YEM,Asia,Yemen,6/28/21,6909,21-Jun,4,2.857,1361,1,,66.12,0.47,,,,Mild,Female Above 30 and Below 65,16987,1651
+ZMB,Africa,Zambia,6/28/21,149661,21-Jun,,2718.571,2091,69,,63.89,0.584,,,,TotalRecovered,Male Above 65,198,2
+ZWE,Africa,Zimbabwe,6/28/21,47284,21-Jun,2,727,1749,13,,61.49,0.571,,,,NewlyRecovered,Male Above 30 and Below 65,7174,438
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,0,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,SeriousCritical,Male Below 30,14445,1388
+ALB,Europe,Bangladesh,6/28/21,8,21-Jun,6,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,Mild,Female Above 65,1835,74
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,1,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,TotalRecovered,Female Below 30,44392,6443
+AND,Europe,Andorra,6/28/21,13882,21-Jun,1,2.571,127,0,,83.73,0.868,,PfizerBioNTech,298706,NewlyRecovered,Female Above 30 and Below 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,6,123.571,891,2,943301,61.15,0.581,,Sinovac,3028162,NewlyRecovered,Female Above 65,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,0,0,42,0,,77.02,0.778,,JohnsonJohnson,23,SeriousCritical,Female Below 30,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,8,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,NewlyRecovered,Female Above 30 and Below 65,2203,81
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,0,85.429,4510,2,,75.09,0.776,,OxfordAstraZeneca,4,SeriousCritical,Male Above 65,44502,6455
+ABW,North America,Aruba,6/28/21,,21-Jun,5,,,,67457,76.29,,,JohnsonJohnson,533,Mild,Male Above 30 and Below 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,20,27.714,910,0,6152645,83.44,0.944,,JohnsonJohnson,2975738,NewlyRecovered,Male Below 30,10556,30
+AUT,Europe,Austria,6/28/21,650324,21-Jun,,93.429,10701,1,4692442,81.54,0.922,,OxfordAstraZeneca,9020928,SeriousCritical,Female Above 65,14445,1388
+AZE,Asia,Azerbaijan,6/28/21,335874,21-Jun,3,50.429,4970,2,2139001,73,0.756,,Moderna,10026,NewlyRecovered,Female Below 30,1353,37
+BHS,North America,Bahamas,6/28/21,12467,21-Jun,1,14.714,245,0,,73.92,0.814,,OxfordAstraZeneca,293234,SeriousCritical,Female Above 30 and Below 65,27334,3160
+BHR,Asia,Bahrain,6/28/21,265477,21-Jun,2,311.714,1348,3,1054837,77.29,0.852,,OxfordAstraZeneca,315676,NewlyRecovered,Male Above 65,5731,217
+BGD,Asia,Bangladesh,6/28/21,8,21-Jun,0,5780.857,14276,2,5823245,72.59,0.632,,Sinovac,8886,SeriousCritical,Male Above 30 and Below 65,42328,5286
+BRB,North America,Barbados,6/28/21,4077,21-Jun,0,4.571,47,0,,79.19,0.814,,OxfordAstraZeneca,342263,Mild,Male Below 30,2337,112
+BLR,Europe,Belarus,6/28/21,415780,21-Jun,2,661,3122,9,,74.79,0.823,,Moderna,168953,TotalRecovered,Female Above 65,44392,6443
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,2,548.286,25168,8,7013433,81.63,0.931,,SinopharmBeijing,566082,NewlyRecovered,Female Below 30,5555,6045
+BLZ,North America,Belize,6/28/21,13189,21-Jun,5,21.429,329,0,,74.62,0.716,,Moderna,82622178,SeriousCritical,Female Above 30 and Below 65,2868,39
+BEN,Africa,Benin,6/28/21,8170,21-Jun,7,4.286,104,0,36188,61.77,0.545,,OxfordAstraZeneca,36223,Mild,Male Above 65,13015,1197
+BTN,Asia,Bhutan,6/28/21,2062,21-Jun,5,17.571,1,0,,71.78,0.654,,PfizerBioNTech,70268,TotalRecovered,Male Above 30 and Below 65,204,3
+BOL,South America,Bolivia,6/28/21,435568,21-Jun,0,1822.429,16631,50,1788228,71.51,0.718,,Moderna,3188,NewlyRecovered,Male Below 30,14386,1580
+BIH,Europe,Bosnia and Herzegovina,6/28/21,204991,21-Jun,10,18.714,9658,3,,77.4,0.78,,Moderna,277708,SeriousCritical,Female Above 65,676,2
+BWA,Africa,Botswana,6/28/21,69680,21-Jun,10,553.143,1125,30,,69.59,0.735,,PfizerBioNTech,4003939,Mild,Male Above 65,3391,217
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,4,68795.857,514092,618,71291563,75.88,0.765,,OxfordAstraZeneca,10389329,TotalRecovered,Male Above 30 and Below 65,198,2
+BRN,Asia,Brunei,6/28/21,259,21-Jun,5,0.571,3,0,,75.86,0.838,,Moderna,30454,NewlyRecovered,Male Below 30,563,4
+BGR,Europe,Bulgaria,6/28/21,421646,21-Jun,4,70.571,18040,13,944704,75.05,0.816,,PfizerBioNTech,32991282,SeriousCritical,Female Above 65,8208,816
+BFA,Africa,Burkina Faso,6/28/21,13479,21-Jun,0,1.429,168,0,25833,61.58,0.452,,Moderna,1262,Mild,Female Below 30,511,3
+BDI,Africa,Burundi,6/28/21,5423,21-Jun,8,25.857,8,0,,61.58,0.433,,JohnsonJohnson,8696,TotalRecovered,Female Above 30 and Below 65,1380,31
+KHM,Asia,Cambodia,6/28/21,48532,21-Jun,1,726.571,556,16,4019751,69.82,0.594,,PfizerBioNTech,3458360,NewlyRecovered,Male Above 30 and Below 65,1380,31
+CMR,Africa,Cameroon,6/28/21,80487,21-Jun,75,22.714,1320,0,88333,59.29,0.563,,PfizerBioNTech,38623102,SeriousCritical,Male Below 30,40580,5683
+CAN,North America,Canada,6/28/21,1421695,21-Jun,9,637,26215,28,25610293,82.43,0.929,,OxfordAstraZeneca,113339,Mild,Male Above 65,40580,5683
+CPV,Africa,Cape Verde,6/28/21,32399,21-Jun,0,51.429,286,0,76390,72.98,0.665,,Moderna,19302,TotalRecovered,Male Above 30 and Below 65,1641,14
+CYM,North America,Cayman Islands,6/28/21,,21-Jun,2,,,,48262,83.92,,,OxfordAstraZeneca,69579,NewlyRecovered,Male Below 30,5379,171
+CAF,Africa,Central African Republic,6/28/21,7141,21-Jun,4,1.714,98,0,,53.28,0.397,,PfizerBioNTech,1644401,SeriousCritical,Female Above 65,25561,2968
+TCD,Africa,Chad,6/28/21,4951,21-Jun,,0.571,174,0,,54.24,0.398,,Moderna,24951,Mild,Female Below 30,433,9
+CHL,South America,Chile,6/28/21,1551137,21-Jun,2,4130.571,32454,156,,80.18,0.851,,Moderna,656926,TotalRecovered,Female Above 30 and Below 65,48343,6719
+CHN,Asia,China,6/28/21,91825,21-Jun,0,20.429,4636,0,,76.91,0.761,,JohnsonJohnson,1622000,NewlyRecovered,Male Above 65,48321,7079
+COL,South America,Colombia,6/28/21,4187194,21-Jun,6,31255.571,105326,648,,77.29,0.767,,PfizerBioNTech,2763676,NewlyRecovered,Male Above 30 and Below 65,6649,400
+COM,Africa,Comoros,6/28/21,3912,21-Jun,1,0,146,0,,64.32,0.554,,JohnsonJohnson,11517956,SeriousCritical,Male Below 30,2374,126
+COG,Africa,Congo,6/28/21,12485,21-Jun,1,26.714,165,0,,64.57,0.574,,OxfordAstraZeneca,43144,NewlyRecovered,Female Above 65,38574,5050
+CRI,North America,Costa Rica,6/28/21,364304,21-Jun,6,1458.429,4648,46,,80.28,0.81,,PfizerBioNTech,322211,SeriousCritical,Female Below 30,21784,2364
+CIV,Africa,Cote d'Ivoire,6/28/21,48203,21-Jun,0,22.286,313,1,745327,57.78,0.538,,OxfordAstraZeneca,306725,Mild,Female Above 30 and Below 65,347,8
+HRV,Europe,Croatia,6/28/21,359666,21-Jun,8,68.857,8202,2,1482581,78.49,0.851,,JohnsonJohnson,9127,NewlyRecovered,Male Above 65,27516,3296
+CUB,North America,Cuba,6/28/21,184943,21-Jun,0,2225.429,1253,12,,78.8,0.783,,OxfordAstraZeneca,176989,SeriousCritical,Male Above 30 and Below 65,1380,31
+CUW,North America,Curacao,6/28/21,,21-Jun,5,,,,88632,78.88,,,OxfordAstraZeneca,184859,NewlyRecovered,Male Below 30,5078,123
+CYP,Europe,Cyprus,6/28/21,75099,21-Jun,20,198.429,374,0,,80.98,0.887,,JohnsonJohnson,204468,SeriousCritical,Female Above 65,37330,4373
+CZE,Europe,Czechia,6/28/21,1666947,21-Jun,,123.571,30298,0,4994613,79.38,0.9,,Moderna,171716,NewlyRecovered,Male Above 65,3391,217
+COD,Africa,Democratic Republic of Congo,6/28/21,40439,21-Jun,3,359,916,0,,60.68,0.48,,JohnsonJohnson,1778648,SeriousCritical,Male Above 30 and Below 65,44166,6610
+DNK,Europe,Denmark,6/28/21,293916,21-Jun,1,185.429,2534,1,3281015,80.9,0.94,,PfizerBioNTech,24608,Mild,Male Below 30,48343,6719
+DJI,Africa,Djibouti,6/28/21,11601,21-Jun,2,1.429,155,0,,67.11,0.524,,PfizerBioNTech,218095,TotalRecovered,Female Above 65,3541,50
+DMA,North America,Dominica,6/28/21,193,21-Jun,0,0.286,,,,75,0.742,,JohnsonJohnson,17,NewlyRecovered,Female Below 30,9343,829
+DOM,North America,Dominican Republic,6/28/21,323650,21-Jun,0,857.857,3801,4,,74.08,0.756,,PfizerBioNTech,2954838,SeriousCritical,Female Above 30 and Below 65,945,21
+ECU,South America,Ecuador,6/28/21,455743,21-Jun,2,1301.429,21523,0,,77.01,0.759,,OxfordAstraZeneca,179606,Mild,Male Above 30 and Below 65,40580,5683
+EGY,Africa,Egypt,6/28/21,280770,21-Jun,2,424.714,16125,33,,71.99,0.707,,OxfordAstraZeneca,15195,TotalRecovered,Male Below 30,13444,1485
+SLV,North America,El Salvador,6/28/21,78766,21-Jun,5,183.143,2371,4,,73.32,0.673,,PfizerBioNTech,1567267,NewlyRecovered,Female Above 65,10556,30
+GNQ,Africa,Equatorial Guinea,6/28/21,8723,21-Jun,7,2.143,121,0,,58.74,0.592,,Moderna,1807866,SeriousCritical,Female Below 30,3343,160
+ERI,Africa,Eritrea,6/28/21,5884,21-Jun,5,66.143,22,1,,66.32,0.459,,OxfordAstraZeneca,646291,Mild,Female Above 30 and Below 65,39204,5309
+EST,Europe,Estonia,6/28/21,130983,21-Jun,0,23.571,1269,0,555280,78.74,0.892,,Moderna,25646,TotalRecovered,Male Above 65,30967,3502
+SWZ,Africa,Eswatini,6/28/21,19084,21-Jun,10,36.143,678,0,,60.19,0.611,,Moderna,1870855,NewlyRecovered,Male Above 30 and Below 65,676,2
+ETH,Africa,Ethiopia,6/28/21,275974,21-Jun,10,93.714,4315,1,,66.6,0.485,,Moderna,121125577,SeriousCritical,Male Below 30,10358,943
+FRO,Europe,Faeroe Islands,6/28/21,,21-Jun,4,,,,28060,80.67,,,PfizerBioNTech,186127467,Mild,Female Above 65,2563,123
+FJI,Oceania,Fiji,6/28/21,3832,21-Jun,5,248.857,17,2,,67.44,0.743,,PfizerBioNTech,6062839,TotalRecovered,Female Below 30,210,3
+FIN,Europe,Finland,6/28/21,95168,21-Jun,4,112.714,969,0,3227042,81.91,0.938,,CanSino,10450,NewlyRecovered,Female Above 30 and Below 65,250,1
+FRA,Europe,France,6/28/21,5832490,21-Jun,0,1843.714,111174,44,,82.66,0.901,,PfizerBioNTech,597717,SeriousCritical,Female Above 65,210,3
+GAB,Africa,Gabon,6/28/21,24984,21-Jun,8,17.143,159,0,,66.47,0.703,,PfizerBioNTech,2653189,Mild,Female Below 30,352,6
+GMB,Africa,Gambia,6/28/21,6069,21-Jun,1,3.429,181,0,,62.05,0.496,,PfizerBioNTech,7763195,TotalRecovered,Female Above 30 and Below 65,13015,1397
+GEO,Asia,Georgia,6/28/21,363874,21-Jun,75,676.143,5275,9,254737,73.77,0.812,,Moderna,70,NewlyRecovered,Female Above 65,2868,39
+DEU,Europe,Germany,6/28/21,3734830,21-Jun,9,601.571,90826,58,44886784,81.33,0.947,,PfizerBioNTech,30602125,SeriousCritical,Female Below 30,3541,50
+GHA,Africa,Ghana,6/28/21,95476,21-Jun,0,59.571,795,0,,64.07,0.611,,Moderna,1,NewlyRecovered,Female Above 30 and Below 65,19423,1953
+GRC,Europe,Greece,6/28/21,421266,21-Jun,2,388.286,12663,8,4762181,82.24,0.888,,PfizerBioNTech,219676,SeriousCritical,Male Above 65,2374,126
+GRL,North America,Greenland,6/28/21,,21-Jun,4,,,,25298,71.7,,,OxfordAstraZeneca,306124,Mild,Male Above 30 and Below 65,181,1
+GRD,North America,Grenada,6/28/21,161,21-Jun,,0,1,0,,72.4,0.779,,JohnsonJohnson,297824,TotalRecovered,Male Above 65,7262,554
+GTM,North America,Guatemala,6/28/21,291977,21-Jun,2,1589,9089,39,,74.3,0.663,,PfizerBioNTech,12798,NewlyRecovered,Male Above 30 and Below 65,2868,39
+GIN,Africa,Guinea,6/28/21,23744,21-Jun,0,29.857,168,0,,61.6,0.477,,Moderna,215678,SeriousCritical,Male Below 30,3603,210
+GNB,Africa,Guinea-Bissau,6/28/21,3846,21-Jun,6,3,69,0,21855,58.32,0.48,,PfizerBioNTech,912824,Mild,Female Above 65,37780,4802
+GUY,South America,Guyana,6/28/21,19891,21-Jun,1,106.714,466,4,,69.91,0.682,,JohnsonJohnson,0,TotalRecovered,Female Below 30,3453,47
+HTI,North America,Haiti,6/28/21,18212,21-Jun,1,164.429,413,13,,64,0.51,,OxfordAstraZeneca,217059,NewlyRecovered,Female Above 30 and Below 65,11721,1007
+HND,North America,Honduras,6/28/21,260331,21-Jun,6,876.714,6922,6,,75.27,0.634,,Moderna,721192,SeriousCritical,Male Above 65,181,1
+HKG,Asia,Hong Kong,6/28/21,11920,21-Jun,0,4.429,210,0,2179683,84.86,0.949,,Moderna,248526,Mild,Male Above 30 and Below 65,352,6
+HUN,Europe,Hungary,6/28/21,808042,21-Jun,8,58.857,29989,9,5477405,76.88,0.854,,JohnsonJohnson,3307113,TotalRecovered,Male Below 30,34630,4076
+ISL,Europe,Iceland,6/28/21,6555,21-Jun,0,0,29,0,,82.99,0.949,,Sinovac,1067158,NewlyRecovered,Female Above 65,5731,217
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,907,265545768,69.66,0.645,,JohnsonJohnson,12163032,SeriousCritical,Female Below 30,5078,123
+IDN,Asia,Indonesia,6/28/21,2135998,21-Jun,20,18793.286,57561,423,27419898,71.72,0.718,,OxfordAstraZeneca,187096,Mild,Female Above 30 and Below 65,39550,4959
+IRN,Asia,Iran,6/28/21,3180092,21-Jun,,10638.857,83985,140,,76.68,0.783,,OxfordAstraZeneca,563768,TotalRecovered,Male Above 65,13015,1197
+IRQ,Asia,Iraq,6/28/21,1332046,21-Jun,3,5620.857,17121,30,,70.6,0.674,,Moderna,325091,NewlyRecovered,Male Above 30 and Below 65,1835,74
+IRL,Europe,Ireland,6/28/21,271589,21-Jun,1,324,4989,0,,82.3,0.955,,JohnsonJohnson,361802,NewlyRecovered,Male Below 30,44166,6610
+IMN,Europe,Isle of Man,6/28/21,,21-Jun,2,,,,63236,81.4,,,PfizerBioNTech,48221685,SeriousCritical,Female Above 65,36127,4512
+ISR,Asia,Israel,6/28/21,841196,21-Jun,0,172.286,6429,0,5566179,82.97,0.919,,OxfordAstraZeneca,4804950,NewlyRecovered,Male Above 65,7262,554
+ITA,Europe,Italy,6/28/21,4258456,21-Jun,0,713.714,127500,28,33582287,83.51,0.892,,PfizerBioNTech,4461960,SeriousCritical,Male Above 30 and Below 65,6205,307
+JAM,North America,Jamaica,6/28/21,50054,21-Jun,2,48.857,1061,0,,74.47,0.734,,OxfordAstraZeneca,24084,Mild,Male Below 30,39550,4959
+JPN,Asia,Japan,6/28/21,797084,21-Jun,2,1502.571,14659,38,28049718,84.63,0.919,,OxfordAstraZeneca,5,NewlyRecovered,Female Above 65,44974,5677
+JOR,Asia,Jordan,6/28/21,750389,21-Jun,5,484.143,9737,10,2371379,74.53,0.729,,PfizerBioNTech,42596130,SeriousCritical,Male Above 65,30967,3502
+KAZ,Asia,Kazakhstan,6/28/21,478063,21-Jun,7,1570.571,3527,3,3165155,73.6,0.825,,PfizerBioNTech,41010,NewlyRecovered,Male Above 30 and Below 65,901,7
+KEN,Africa,Kenya,6/28/21,182884,21-Jun,5,513,3612,17,1003204,66.7,0.601,,PfizerBioNTech,10437,SeriousCritical,Male Below 30,20534,2192
+KIR,Oceania,Kiribati,6/28/21,2,21-Jun,0,0,,,,68.37,0.63,,Moderna,2375,NewlyRecovered,Female Above 65,1641,14
+OWID_KOS,Europe,Kosovo,6/28/21,107331,21-Jun,10,12,2262,2,,,,,JohnsonJohnson,78410,SeriousCritical,Female Below 30,14445,1388
+KWT,Asia,Kuwait,6/28/21,353133,21-Jun,10,1738,1943,10,,75.49,0.806,,OxfordAstraZeneca,129307,Mild,Female Above 30 and Below 65,1978,75
+KGZ,Asia,Kyrgyzstan,6/28/21,121946,21-Jun,4,904.429,1982,5,,71.45,0.697,,PfizerBioNTech,3939640,TotalRecovered,Male Above 65,34630,4076
+LAO,Asia,Laos,6/28/21,2110,21-Jun,5,8,3,0,886238,67.92,0.613,,PfizerBioNTech,30285,NewlyRecovered,Male Above 30 and Below 65,306,5
+LVA,Europe,Latvia,6/28/21,137240,21-Jun,4,55.714,2503,0,646816,75.29,0.866,,PfizerBioNTech,800991,SeriousCritical,Male Below 30,24541,2731
+LBN,Asia,Lebanon,6/28/21,544520,21-Jun,0,138.429,7845,2,870901,78.93,0.744,,PfizerBioNTech,131657484,Mild,Female Above 65,3775,238
+LSO,Africa,Lesotho,6/28/21,11239,21-Jun,8,18.857,329,0,,54.33,0.527,,OxfordAstraZeneca,39231,TotalRecovered,Female Below 30,2337,15
+LBR,Africa,Liberia,6/28/21,3794,21-Jun,1,97.857,123,3,79670,64.1,0.48,,PfizerBioNTech,7895198,NewlyRecovered,Female Above 30 and Below 65,13015,1197
+LBY,Africa,Libya,6/28/21,192786,21-Jun,75,249.714,3191,4,,72.91,0.724,,OxfordAstraZeneca,342096,SeriousCritical,Male Above 65,840,23
+LIE,Europe,Liechtenstein,6/28/21,3034,21-Jun,9,0.857,59,0,,82.49,0.919,,OxfordAstraZeneca,58452,Mild,Male Above 30 and Below 65,37780,4802
+LTU,Europe,Lithuania,6/28/21,278689,21-Jun,0,40.286,4381,1,1231196,75.93,0.882,,Moderna,764791,TotalRecovered,Male Below 30,5810,250
+LUX,Europe,Luxembourg,6/28/21,70642,21-Jun,2,15.286,818,0,328962,82.25,0.916,,PfizerBioNTech,4183099,NewlyRecovered,Female Above 65,306,5
+MAC,Asia,Macao,6/28/21,,21-Jun,4,,,,229957,84.24,,,PfizerBioNTech,11924683,SeriousCritical,Male Above 65,18492,1907
+MDG,Africa,Madagascar,6/28/21,42194,21-Jun,,8.143,909,3,197001,67.04,0.528,,JohnsonJohnson,0,Mild,Male Above 30 and Below 65,199,3
+MWI,Africa,Malawi,6/28/21,35709,21-Jun,2,113.571,1187,5,385242,64.26,0.483,,Moderna,2443605,TotalRecovered,Male Below 30,5379,171
+MYS,Asia,Malaysia,6/28/21,739266,21-Jun,0,5463.857,5001,57,5463128,76.16,0.81,,JohnsonJohnson,0,NewlyRecovered,Female Above 65,5731,217
+MDV,Asia,Maldives,6/28/21,73482,21-Jun,6,190.429,209,0,,78.92,0.74,,OxfordAstraZeneca,62497,SeriousCritical,Female Below 30,36574,4465
+MLI,Africa,Mali,6/28/21,14419,21-Jun,1,4.857,525,0,,59.31,0.434,,OxfordAstraZeneca,40,Mild,Female Above 30 and Below 65,840,23
+MLT,Europe,Malta,6/28/21,30612,21-Jun,1,3.143,420,0,357171,82.53,0.895,,JohnsonJohnson,1248174,TotalRecovered,Male Above 30 and Below 65,198,2
+MHL,Oceania,Marshall Islands,6/28/21,4,21-Jun,6,0,,,,73.7,0.704,,PfizerBioNTech,50026083,NewlyRecovered,Male Below 30,39504,5088
+MRT,Africa,Mauritania,6/28/21,20676,21-Jun,0,44.429,487,1,,64.92,0.546,,Moderna,133665,SeriousCritical,Female Above 65,2374,126
+MUS,Africa,Mauritius,6/28/21,1833,21-Jun,8,18.857,18,0,,74.99,0.804,,Moderna,23120,Mild,Female Below 30,36127,4512
+MEX,North America,Mexico,6/28/21,2507453,21-Jun,0,4128.857,232608,44,,75.05,0.779,,Moderna,18933,NewlyRecovered,Female Above 30 and Below 65,228,1
+FSM,Oceania,Micronesia (country),6/28/21,1,21-Jun,5,0,,,,67.88,0.62,,Moderna,37220,SeriousCritical,Male Above 65,44526,6471
+MDA,Europe,Moldova,6/28/21,256614,21-Jun,20,61,6187,3,435687,71.9,0.75,,PfizerBioNTech,2022454,Mild,Male Above 30 and Below 65,5945,280
+MCO,Europe,Monaco,6/28/21,2575,21-Jun,,3.714,33,0,,86.75,,,OxfordAstraZeneca,216125,TotalRecovered,Male Below 30,763,7
+MNG,Asia,Mongolia,6/28/21,111505,21-Jun,3,1922.143,533,0,1981613,69.87,0.737,,PfizerBioNTech,281650,NewlyRecovered,Female Above 65,4409,340
+MNE,Europe,Montenegro,6/28/21,100204,21-Jun,1,16,1609,0,150031,76.88,0.829,,PfizerBioNTech,63693721,SeriousCritical,Female Below 30,44166,6610
+MAR,Africa,Morocco,6/28/21,529895,21-Jun,2,451.143,9283,6,9908882,76.68,0.686,,OxfordAstraZeneca,43018,Mild,Female Above 30 and Below 65,5810,250
+MOZ,Africa,Mozambique,6/28/21,75422,21-Jun,0,406.429,869,1,,60.85,0.456,,PfizerBioNTech,1042927,TotalRecovered,Female Above 65,23792,2746
+MMR,Asia,Myanmar,6/28/21,154385,21-Jun,0,824,3309,12,,67.13,0.583,,OxfordAstraZeneca,370753,NewlyRecovered,Female Below 30,228,1
+NAM,Africa,Namibia,6/28/21,86649,21-Jun,2,1554.714,1445,45,,63.71,0.646,,PfizerBioNTech,1151057,SeriousCritical,Female Above 30 and Below 65,7276,567
+NPL,Asia,Nepal,6/28/21,635188,21-Jun,2,1792.571,9051,42,2587873,70.78,0.602,,PfizerBioNTech,156381,Mild,Male Above 65,2702,127
+NLD,Europe,Netherlands,6/28/21,1711545,21-Jun,5,623.429,18024,0,,82.28,0.944,,OxfordAstraZeneca,3791775,TotalRecovered,Male Above 30 and Below 65,563,4
+NZL,Oceania,New Zealand,6/28/21,2742,21-Jun,7,3,26,0,,82.29,0.931,,Moderna,257739,NewlyRecovered,Male Below 30,3453,47
+NIC,North America,Nicaragua,6/28/21,7920,21-Jun,5,32,189,0,,74.48,0.66,,JohnsonJohnson,1944532,SeriousCritical,Female Above 65,13015,1197
+NER,Africa,Niger,6/28/21,5480,21-Jun,0,1.571,193,0,,62.42,0.394,,JohnsonJohnson,0,Mild,Female Below 30,373,1
+NGA,Africa,Nigeria,6/28/21,167532,21-Jun,10,34.286,2119,0,,54.69,0.539,,PfizerBioNTech,218095,TotalRecovered,Female Above 30 and Below 65,21784,2364
+MKD,Europe,North Macedonia,6/28/21,155676,21-Jun,10,7,5484,0,,75.8,0.774,,PfizerBioNTech,9578174,NewlyRecovered,Male Above 65,4220,75
+NOR,Europe,Norway,6/28/21,130744,21-Jun,4,171.286,792,0,2495201,82.4,0.957,,Moderna,7,NewlyRecovered,Male Above 30 and Below 65,4409,340
+OMN,Asia,Oman,6/28/21,264302,21-Jun,5,1961.429,3013,46,854274,77.86,0.813,,JohnsonJohnson,38210,SeriousCritical,Male Below 30,433,9
+PAK,Asia,Pakistan,6/28/21,956392,21-Jun,4,936.286,22254,23,,67.27,0.557,,OxfordAstraZeneca,178518,NewlyRecovered,Female Above 65,42164,5821
+PSE,Asia,Palestine,6/28/21,313851,21-Jun,0,148.571,3561,2,490082,74.05,0.708,,OxfordAstraZeneca,103691,SeriousCritical,Female Below 30,5810,250
+PAN,North America,Panama,6/28/21,401332,21-Jun,8,1013,6529,5,994064,78.51,0.815,,PfizerBioNTech,484291,Mild,Female Above 30 and Below 65,40326,5079
+PNG,Oceania,Papua New Guinea,6/28/21,17098,21-Jun,1,12.143,173,0,,64.5,0.555,,OxfordAstraZeneca,835580,NewlyRecovered,Male Above 65,1380,31
+PRY,South America,Paraguay,6/28/21,419764,21-Jun,75,1720.429,12641,124,,74.25,0.728,,PfizerBioNTech,1912347,SeriousCritical,Male Above 30 and Below 65,39204,5309
+PER,South America,Peru,6/28/21,2048115,21-Jun,9,2500.571,191899,315,,76.74,0.777,,PfizerBioNTech,32232422,NewlyRecovered,Male Below 30,228,1
+PHL,Asia,Philippines,6/28/21,1403588,21-Jun,0,5621.286,24456,84,,71.23,0.718,,PfizerBioNTech,87142,SeriousCritical,Female Above 65,8501,14
+POL,Europe,Poland,6/28/21,2879689,21-Jun,2,121.286,74979,0,16716871,78.73,0.88,,PfizerBioNTech,243669,NewlyRecovered,Male Above 65,19636,2089
+PRT,Europe,Portugal,6/28/21,875449,21-Jun,4,1377.571,17086,2,5386835,82.05,0.864,,PfizerBioNTech,3359401,SeriousCritical,Male Above 30 and Below 65,5078,123
+QAT,Asia,Qatar,6/28/21,221810,21-Jun,,125.714,588,0,1689837,80.23,0.848,,PfizerBioNTech,397127,Mild,Male Below 30,42328,5286
+ROU,Europe,Romania,6/28/21,1080667,21-Jun,2,55,33311,58,4702086,76.05,0.828,,PfizerBioNTech,6354991,NewlyRecovered,Female Above 65,8084,697
+RUS,Europe,Russia,6/28/21,5408744,21-Jun,0,19488,131671,601,21790363,72.58,0.824,,Moderna,122580,SeriousCritical,Female Below 30,5077,432
+RWA,Africa,Rwanda,6/28/21,37384,21-Jun,6,849.857,427,7,,69.02,0.543,,PfizerBioNTech,41577309,Mild,Female Above 30 and Below 65,413701,56709
+KNA,North America,Saint Kitts and Nevis,6/28/21,439,21-Jun,1,12.714,3,0,,76.23,0.779,,JohnsonJohnson,26,TotalRecovered,Male Above 30 and Below 65,2563,123
+LCA,North America,Saint Lucia,6/28/21,5284,21-Jun,1,9.429,84,0,,76.2,0.759,,SinopharmBeijing,1873498,NewlyRecovered,Male Below 30,40580,5683
+VCT,North America,Saint Vincent and the Grenadines,6/28/21,2219,21-Jun,6,3.286,12,0,,72.53,0.738,,OxfordAstraZeneca,23333,SeriousCritical,Male Above 65,3752,65
+WSM,Oceania,Samoa,6/28/21,3,21-Jun,0,0,,,,73.32,0.715,,Moderna,28350,Mild,Male Above 30 and Below 65,48343,6719
+SMR,Europe,San Marino,6/28/21,5091,21-Jun,8,0.143,90,0,,84.97,,,PfizerBioNTech,6241647,TotalRecovered,Male Below 30,7262,554
+STP,Africa,Sao Tome and Principe,6/28/21,2365,21-Jun,0,0.429,37,0,16453,70.39,0.625,,OxfordAstraZeneca,10462051,NewlyRecovered,Female Above 65,15199,1474
+SAU,Asia,Saudi Arabia,6/28/21,484539,21-Jun,5,1305.143,7789,14,,75.13,0.854,,PfizerBioNTech,41237,SeriousCritical,Female Below 30,1185,47
+SEN,Africa,Senegal,6/28/21,42929,21-Jun,20,70.286,1164,0,515344,67.94,0.512,,PfizerBioNTech,49089,Mild,Female Above 30 and Below 65,41363,6045
+SRB,Europe,Serbia,6/28/21,716385,21-Jun,,77.714,7039,8,,76,0.806,,JohnsonJohnson,78410,TotalRecovered,Male Above 65,8208,816
+SYC,Africa,Seychelles,6/28/21,15579,21-Jun,3,208,68,5,,73.4,0.796,,PfizerBioNTech,487334,NewlyRecovered,Male Above 30 and Below 65,46888,5960
+SLE,Africa,Sierra Leone,6/28/21,5443,21-Jun,1,80.571,97,3,,54.7,0.452,,Moderna,323062,SeriousCritical,Male Below 30,982,25
+SGP,Asia,Singapore,6/28/21,62553,21-Jun,2,17.571,36,0,,83.62,0.938,,Moderna,38575,Mild,Female Above 65,1353,37
+SVK,Europe,Slovakia,6/28/21,391566,21-Jun,0,34.286,12509,4,2007665,77.54,0.86,,PfizerBioNTech,1557676,TotalRecovered,Female Below 30,2729,136
+SVN,Europe,Slovenia,6/28/21,257252,21-Jun,0,35.857,4419,0,815838,81.32,0.917,,JohnsonJohnson,10939901,NewlyRecovered,Female Above 30 and Below 65,1835,74
+SLB,Oceania,Solomon Islands,6/28/21,20,21-Jun,2,0,,,,73,0.567,,Sinovac,640232,NewlyRecovered,Male Above 65,4754,124
+SOM,Africa,Somalia,6/28/21,14933,21-Jun,2,9.429,775,0,137981,57.4,,,OxfordAstraZeneca,44961,SeriousCritical,Male Above 30 and Below 65,22571,2499
+ZAF,Africa,South Africa,6/28/21,1941119,21-Jun,5,15520,60038,138,2787996,64.13,0.709,,OxfordAstraZeneca,333289,NewlyRecovered,Male Below 30,9343,829
+KOR,Asia,South Korea,6/28/21,156167,21-Jun,7,609.429,2017,2,15304120,83.03,0.916,,Moderna,53610,SeriousCritical,Female Above 65,15199,1474
+SSD,Africa,South Sudan,6/28/21,10824,21-Jun,5,5.429,116,1,42166,57.85,0.433,,JohnsonJohnson,94539,Mild,Male Above 65,41556,6237
+ESP,Europe,Spain,6/28/21,3792642,21-Jun,0,3998.714,80789,10,,83.56,0.904,,OxfordAstraZeneca,151216,NewlyRecovered,Male Above 30 and Below 65,39204,5309
+LKA,Asia,Sri Lanka,6/28/21,255508,21-Jun,10,1955.429,2985,41,2605558,76.98,0.782,,OxfordAstraZeneca,7473179,SeriousCritical,Male Below 30,38574,5050
+SDN,Africa,Sudan,6/28/21,36620,21-Jun,10,39,2754,0,550291,65.31,0.51,,JohnsonJohnson,26,NewlyRecovered,Female Above 65,3752,65
+SUR,South America,Suriname,6/28/21,21360,21-Jun,4,174.143,512,5,157982,71.68,0.738,,JohnsonJohnson,55848,SeriousCritical,Female Below 30,20534,2192
+SWE,Europe,Sweden,6/28/21,1088896,21-Jun,5,608.571,14619,0,,82.8,0.945,,JohnsonJohnson,5,NewlyRecovered,Female Above 30 and Below 65,14445,1388
+CHE,Europe,Switzerland,6/28/21,702746,21-Jun,4,107.429,10885,3,,83.78,0.955,,Moderna,4,SeriousCritical,Male Above 30 and Below 65,1835,74
+SYR,Asia,Syria,6/28/21,25442,21-Jun,0,40.571,1870,3,,72.7,0.567,,OxfordAstraZeneca,7556219,Mild,Male Below 30,23116,2374
+TWN,Asia,Taiwan,6/28/21,14694,21-Jun,8,87.714,635,3,1926572,80.46,,,PfizerBioNTech,32648,TotalRecovered,Female Above 65,38574,5050
+TJK,Asia,Tajikistan,6/28/21,13460,21-Jun,1,21.714,90,0,,71.1,0.668,,OxfordAstraZeneca,269591,NewlyRecovered,Female Below 30,18492,1907
+TZA,Africa,Tanzania,6/28/21,509,21-Jun,75,0,21,0,,65.46,0.529,,Moderna,74016,SeriousCritical,Female Above 30 and Below 65,204,3
+THA,Asia,Thailand,6/28/21,249853,21-Jun,9,4078.143,1934,22,6721038,77.15,0.777,,OxfordAstraZeneca,194383,Mild,Male Above 65,2702,127
+TLS,Asia,Timor,6/28/21,9055,21-Jun,0,46.714,21,0,,69.5,0.606,,PfizerBioNTech,1466214,TotalRecovered,Male Above 30 and Below 65,35264,4206
+TGO,Africa,Togo,6/28/21,13846,21-Jun,2,16.429,128,0,,61.04,0.515,,JohnsonJohnson,391734,NewlyRecovered,Male Below 30,4403,97
+TTO,North America,Trinidad and Tobago,6/28/21,32343,21-Jun,4,225.143,822,5,211363,73.51,0.796,,PfizerBioNTech,322027,SeriousCritical,Female Above 65,7262,554
+TUN,Africa,Tunisia,6/28/21,408931,21-Jun,,3357.571,14737,83,,76.7,0.74,,Moderna,68858013,Mild,Female Below 30,315,3
+TUR,Asia,Turkey,6/28/21,5414310,21-Jun,2,5531,49634,58,33934402,77.69,0.82,,Sinovac,830628,TotalRecovered,Female Above 30 and Below 65,5077,432
+UGA,Africa,Uganda,6/28/21,79089,21-Jun,0,915.714,956,53,,63.37,0.544,,Sinovac,562744,NewlyRecovered,Female Above 65,2374,126
+UKR,Europe,Ukraine,6/28/21,2298478,21-Jun,6,965.143,54517,19,1912469,72.06,0.779,,PfizerBioNTech,143745,SeriousCritical,Female Below 30,44395,6546
+ARE,Asia,United Arab Emirates,6/28/21,628976,21-Jun,1,2140.429,1802,6,,77.97,0.89,,OxfordAstraZeneca,383508,Mild,Female Above 30 and Below 65,44526,6471
+GBR,Europe,United Kingdom,6/28/21,4771367,21-Jun,1,16404.429,128367,3,,81.32,0.932,,Moderna,94678,TotalRecovered,Female Above 65,44802,6290
+USA,North America,United States,6/28/21,33640502,21-Jun,6,12318.143,604115,150,179615165,78.86,0.926,,OxfordAstraZeneca,4458360,NewlyRecovered,Female Below 30,44526,6471
+URY,South America,Uruguay,6/28/21,366915,21-Jun,0,1504.714,5524,30,,77.91,0.817,,PfizerBioNTech,4281764,SeriousCritical,Female Above 30 and Below 65,5638,163
+UZB,Asia,Uzbekistan,6/28/21,109692,21-Jun,8,462.857,731,2,,71.72,0.72,,OxfordAstraZeneca,10079638,Mild,Male Above 65,26496,3114
+VUT,Oceania,Vanuatu,6/28/21,4,21-Jun,0,0,1,0,,70.47,0.609,,JohnsonJohnson,1871546,TotalRecovered,Male Above 30 and Below 65,7174,438
+VAT,Europe,Vatican,6/28/21,27,21-Jun,5,0,,,,75.12,,,,,NewlyRecovered,Male Above 65,10556,30
+VEN,South America,Venezuela,6/28/21,269635,21-Jun,20,1085.286,3068,0,,72.06,0.711,,,,SeriousCritical,Male Above 30 and Below 65,3603,210
+VNM,Asia,Vietnam,6/28/21,16136,21-Jun,,372.286,78,2,3324110,75.4,0.704,,,,Mild,Male Below 30,3939,277
+YEM,Asia,Yemen,6/28/21,6909,21-Jun,3,2.857,1361,1,,66.12,0.47,,,,TotalRecovered,Female Above 65,16987,1651
+ZMB,Africa,Zambia,6/28/21,149661,21-Jun,1,2718.571,2091,69,,63.89,0.584,,,,NewlyRecovered,Female Below 30,198,2
+ZWE,Africa,Zimbabwe,6/28/21,47284,21-Jun,2,727,1749,13,,61.49,0.571,,,,SeriousCritical,Female Above 30 and Below 65,7174,438
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,6000,800,265545768,69.66,0.645,,JohnsonJohnson,163032,TotalRecovered,Male Above 30 and Below 65,4000,4000
+IND,Asia,India,6/28/21,30316897,21-Jun,20,48433.714,45000,907,265545768,69.66,0.645,,Sinovac,12163032,NewlyRecovered,Male Below 30,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,300,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,NewlyRecovered,Female Above 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,70000,907,265545768,69.66,0.645,,PfizerBioNTech,566082,SeriousCritical,Female Below 30,41363,6045
+IND,Asia,India,6/28/21,30316897,21-Jun,7,48433.714,397637,600,265545768,69.66,0.645,,Moderna,82622178,NewlyRecovered,Female Above 30 and Below 65,2868,500
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,30000,200,265545768,69.66,0.645,,CanSino,10450,SeriousCritical,Male Above 65,250,1000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,1000000,907,265545768,69.66,0.645,,CanSino,1873498,Mild,Male Above 30 and Below 65,40580,5683
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,10,1692.714,4730,211,,64.83,0.511,,Moderna,10804437,NewlyRecovered,Male Below 30,14445,1388
+ALB,Europe,Albania,6/28/21,132513,21-Jun,10,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Above 65,1835,74
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,4,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,NewlyRecovered,Male Above 65,44392,6443
+AND,Europe,Andorra,6/28/21,13882,21-Jun,5,2.571,127,0,,83.73,0.868,,PfizerBioNTech,298706,SeriousCritical,Male Above 30 and Below 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,4,123.571,891,2,943301,61.15,0.581,,Sinovac,3028162,NewlyRecovered,Male Below 30,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,0,0,42,0,,77.02,0.778,,JohnsonJohnson,23,SeriousCritical,Female Above 65,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,8,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,Mild,Female Below 30,2203,81
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,1,85.429,4510,2,,75.09,0.776,,PfizerBioNTech,4,TotalRecovered,Female Above 30 and Below 65,44502,6455
+ABW,North America,Aruba,6/28/21,,21-Jun,75,,,,67457,76.29,,,PfizerBioNTech,533,NewlyRecovered,Male Above 30 and Below 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,9,27.714,910,0,6152645,83.44,0.944,,JohnsonJohnson,2975738,SeriousCritical,Male Below 30,10556,30
+AUT,Europe,Austria,6/28/21,650324,21-Jun,0,93.429,10701,1,4692442,81.54,0.922,,OxfordAstraZeneca,9020928,Mild,Male Above 65,14445,1388
+AZE,Asia,Azerbaijan,6/28/21,335874,21-Jun,2,50.429,4970,2,2139001,73,0.756,,Moderna,10026,TotalRecovered,Male Above 30 and Below 65,1353,37
+BHS,North America,Bahamas,6/28/21,12467,21-Jun,4,14.714,245,0,,73.92,0.814,,OxfordAstraZeneca,293234,NewlyRecovered,Male Below 30,27334,3160
+BHR,Asia,Bahrain,6/28/21,265477,21-Jun,,311.714,1348,3,1054837,77.29,0.852,,OxfordAstraZeneca,315676,SeriousCritical,Female Above 65,5731,217
+BGD,Asia,Bangladesh,6/28/21,8,21-Jun,2,5780.857,14276,2,5823245,72.59,0.632,,JohnsonJohnson,8886,Mild,Female Below 30,42328,5286
+BRB,North America,Barbados,6/28/21,4077,21-Jun,0,4.571,47,0,,79.19,0.814,,OxfordAstraZeneca,342263,TotalRecovered,Female Above 30 and Below 65,2337,112
+BLR,Europe,Belarus,6/28/21,415780,21-Jun,6,661,3122,9,,74.79,0.823,,Moderna,168953,NewlyRecovered,Male Above 65,44392,6443
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,1,548.286,25168,8,7013433,81.63,0.931,,SinopharmBeijing,566082,SeriousCritical,Male Above 30 and Below 65,41363,6045
+BLZ,North America,Belize,6/28/21,13189,21-Jun,1,21.429,329,0,,74.62,0.716,,Moderna,82622178,Mild,Male Below 30,2868,39
+BEN,Africa,Benin,6/28/21,8170,21-Jun,6,4.286,104,0,36188,61.77,0.545,,OxfordAstraZeneca,36223,TotalRecovered,Female Above 65,13015,1197
+BTN,Asia,Bhutan,6/28/21,2062,21-Jun,0,17.571,1,0,,71.78,0.654,,PfizerBioNTech,70268,NewlyRecovered,Female Below 30,204,3
+BOL,South America,Bolivia,6/28/21,435568,21-Jun,8,1822.429,16631,50,1788228,71.51,0.718,,Moderna,3188,SeriousCritical,Female Above 30 and Below 65,14386,1580
+BIH,Europe,Bosnia and Herzegovina,6/28/21,204991,21-Jun,0,18.714,9658,3,,77.4,0.78,,Moderna,277708,Mild,Male Above 65,676,2
+BWA,Africa,Botswana,6/28/21,69680,21-Jun,5,553.143,1125,30,,69.59,0.735,,PfizerBioNTech,4003939,TotalRecovered,Male Above 30 and Below 65,3391,217
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,20,68795.857,514092,618,71291563,75.88,0.765,,OxfordAstraZeneca,10389329,NewlyRecovered,Male Below 30,198,2
+BRN,Asia,Brunei,6/28/21,259,21-Jun,,0.571,3,0,,75.86,0.838,,Moderna,30454,SeriousCritical,Female Above 65,563,4
+BGR,Europe,Bulgaria,6/28/21,421646,21-Jun,3,70.571,18040,13,944704,75.05,0.816,,PfizerBioNTech,32991282,Mild,Male Above 65,8208,816
+BFA,Africa,Burkina Faso,6/28/21,13479,21-Jun,1,1.429,168,0,25833,61.58,0.452,,Moderna,1262,TotalRecovered,Male Above 30 and Below 65,511,3
+BDI,Africa,Burundi,6/28/21,5423,21-Jun,2,25.857,8,0,,61.58,0.433,,JohnsonJohnson,8696,NewlyRecovered,Male Below 30,1380,31
+KHM,Asia,Cambodia,6/28/21,48532,21-Jun,0,726.571,556,16,4019751,69.82,0.594,,PfizerBioNTech,3458360,SeriousCritical,Female Above 65,1380,31
+CMR,Africa,Cameroon,6/28/21,80487,21-Jun,0,22.714,1320,0,88333,59.29,0.563,,PfizerBioNTech,38623102,NewlyRecovered,Female Below 30,40580,5683
+CAN,North America,Canada,6/28/21,1421695,21-Jun,2,637,26215,28,25610293,82.43,0.929,,OxfordAstraZeneca,113339,SeriousCritical,Female Above 30 and Below 65,40580,5683
+CPV,Africa,Cape Verde,6/28/21,32399,21-Jun,2,51.429,286,0,76390,72.98,0.665,,Moderna,19302,Mild,Male Above 30 and Below 65,1641,14
+CYM,North America,Cayman Islands,6/28/21,,21-Jun,5,,,,48262,83.92,,,OxfordAstraZeneca,69579,TotalRecovered,Male Below 30,5379,171
+CAF,Africa,Central African Republic,6/28/21,7141,21-Jun,7,1.714,98,0,,53.28,0.397,,PfizerBioNTech,1644401,NewlyRecovered,Female Above 65,25561,2968
+TCD,Africa,Chad,6/28/21,4951,21-Jun,5,0.571,174,0,,54.24,0.398,,Moderna,24951,SeriousCritical,Female Below 30,433,9
+CHL,South America,Chile,6/28/21,1551137,21-Jun,0,4130.571,32454,156,,80.18,0.851,,Moderna,656926,Mild,Female Above 30 and Below 65,48343,6719
+CHN,Asia,China,6/28/21,91825,21-Jun,10,20.429,4636,0,,76.91,0.761,,JohnsonJohnson,1622000,TotalRecovered,Male Above 65,48321,7079
+COL,South America,Colombia,6/28/21,4187194,21-Jun,10,31255.571,105326,648,,77.29,0.767,,PfizerBioNTech,2763676,NewlyRecovered,Male Above 30 and Below 65,6649,400
+COM,Africa,Comoros,6/28/21,3912,21-Jun,4,0,146,0,,64.32,0.554,,JohnsonJohnson,11517956,SeriousCritical,Male Below 30,2374,126
+COG,Africa,Congo,6/28/21,12485,21-Jun,5,26.714,165,0,,64.57,0.574,,OxfordAstraZeneca,43144,Mild,Female Above 65,38574,5050
+CRI,North America,Costa Rica,6/28/21,364304,21-Jun,4,1458.429,4648,46,,80.28,0.81,,PfizerBioNTech,322211,TotalRecovered,Female Below 30,21784,2364
+CIV,Africa,Cote d'Ivoire,6/28/21,48203,21-Jun,0,22.286,313,1,745327,57.78,0.538,,OxfordAstraZeneca,306725,NewlyRecovered,Female Above 30 and Below 65,347,8
+HRV,Europe,Croatia,6/28/21,359666,21-Jun,8,68.857,8202,2,1482581,78.49,0.851,,JohnsonJohnson,9127,SeriousCritical,Female Above 65,27516,3296
+CUB,North America,Cuba,6/28/21,184943,21-Jun,1,2225.429,1253,12,,78.8,0.783,,OxfordAstraZeneca,176989,Mild,Female Below 30,1380,31
+CUW,North America,Curacao,6/28/21,,21-Jun,75,,,,88632,78.88,,,OxfordAstraZeneca,184859,TotalRecovered,Female Above 30 and Below 65,5078,123
+CYP,Europe,Cyprus,6/28/21,75099,21-Jun,9,198.429,374,0,,80.98,0.887,,JohnsonJohnson,204468,NewlyRecovered,Male Above 65,37330,4373
+CZE,Europe,Czechia,6/28/21,1666947,21-Jun,0,123.571,30298,0,4994613,79.38,0.9,,Moderna,171716,NewlyRecovered,Male Above 30 and Below 65,3391,217
+COD,Africa,Democratic Republic of Congo,6/28/21,40439,21-Jun,2,359,916,0,,60.68,0.48,,JohnsonJohnson,1778648,SeriousCritical,Male Below 30,44166,6610
+DNK,Europe,Denmark,6/28/21,293916,21-Jun,4,185.429,2534,1,3281015,80.9,0.94,,PfizerBioNTech,24608,NewlyRecovered,Female Above 65,48343,6719
+DJI,Africa,Djibouti,6/28/21,11601,21-Jun,,1.429,155,0,,67.11,0.524,,PfizerBioNTech,218095,SeriousCritical,Female Below 30,3541,50
+DMA,North America,Dominica,6/28/21,193,21-Jun,2,0.286,,,,75,0.742,,JohnsonJohnson,17,Mild,Female Above 30 and Below 65,9343,829
+DOM,North America,Dominican Republic,6/28/21,323650,21-Jun,0,857.857,3801,4,,74.08,0.756,,PfizerBioNTech,2954838,NewlyRecovered,Male Above 65,945,21
+ECU,South America,Ecuador,6/28/21,455743,21-Jun,6,1301.429,21523,0,,77.01,0.759,,OxfordAstraZeneca,179606,SeriousCritical,Male Above 30 and Below 65,40580,5683
+EGY,Africa,Egypt,6/28/21,280770,21-Jun,1,424.714,16125,33,,71.99,0.707,,OxfordAstraZeneca,15195,NewlyRecovered,Male Below 30,13444,1485
+SLV,North America,El Salvador,6/28/21,78766,21-Jun,1,183.143,2371,4,,73.32,0.673,,PfizerBioNTech,1567267,SeriousCritical,Female Above 65,10556,30
+GNQ,Africa,Equatorial Guinea,6/28/21,8723,21-Jun,6,2.143,121,0,,58.74,0.592,,Moderna,1807866,NewlyRecovered,Female Below 30,3343,160
+ERI,Africa,Eritrea,6/28/21,5884,21-Jun,0,66.143,22,1,,66.32,0.459,,OxfordAstraZeneca,646291,SeriousCritical,Female Above 30 and Below 65,39204,5309
+EST,Europe,Estonia,6/28/21,130983,21-Jun,8,23.571,1269,0,555280,78.74,0.892,,Moderna,25646,Mild,Male Above 65,30967,3502
+SWZ,Africa,Eswatini,6/28/21,19084,21-Jun,0,36.143,678,0,,60.19,0.611,,Moderna,1870855,TotalRecovered,Male Above 30 and Below 65,676,2
+ETH,Africa,Ethiopia,6/28/21,275974,21-Jun,5,93.714,4315,1,,66.6,0.485,,Moderna,121125577,NewlyRecovered,Male Below 30,10358,943
+FRO,Europe,Faeroe Islands,6/28/21,,21-Jun,20,,,,28060,80.67,,,PfizerBioNTech,186127467,SeriousCritical,Female Above 65,2563,123
+FJI,Oceania,Fiji,6/28/21,3832,21-Jun,,248.857,17,2,,67.44,0.743,,PfizerBioNTech,6062839,Mild,Male Above 65,210,3
+FIN,Europe,Finland,6/28/21,95168,21-Jun,3,112.714,969,0,3227042,81.91,0.938,,CanSino,10450,TotalRecovered,Male Above 30 and Below 65,250,1
+FRA,Europe,France,6/28/21,5832490,21-Jun,1,1843.714,111174,44,,82.66,0.901,,PfizerBioNTech,597717,NewlyRecovered,Male Below 30,210,3
+GAB,Africa,Gabon,6/28/21,24984,21-Jun,2,17.143,159,0,,66.47,0.703,,PfizerBioNTech,2653189,SeriousCritical,Female Above 65,352,6
+GMB,Africa,Gambia,6/28/21,6069,21-Jun,0,3.429,181,0,,62.05,0.496,,PfizerBioNTech,7763195,Mild,Female Below 30,13015,1397
+GEO,Asia,Georgia,6/28/21,363874,21-Jun,0,676.143,5275,9,254737,73.77,0.812,,Moderna,70,TotalRecovered,Female Above 30 and Below 65,2868,39
+DEU,Europe,Germany,6/28/21,3734830,21-Jun,2,601.571,90826,58,44886784,81.33,0.947,,PfizerBioNTech,30602125,NewlyRecovered,Male Above 30 and Below 65,3541,50
+GHA,Africa,Ghana,6/28/21,95476,21-Jun,2,59.571,795,0,,64.07,0.611,,Moderna,1,SeriousCritical,Male Below 30,19423,1953
+GRC,Europe,Greece,6/28/21,421266,21-Jun,5,388.286,12663,8,4762181,82.24,0.888,,PfizerBioNTech,219676,Mild,Male Above 65,2374,126
+GRL,North America,Greenland,6/28/21,,21-Jun,7,,,,25298,71.7,,,OxfordAstraZeneca,306124,TotalRecovered,Male Above 30 and Below 65,181,1
+GRD,North America,Grenada,6/28/21,161,21-Jun,5,0,1,0,,72.4,0.779,,JohnsonJohnson,297824,NewlyRecovered,Male Below 30,7262,554
+GTM,North America,Guatemala,6/28/21,291977,21-Jun,0,1589,9089,39,,74.3,0.663,,PfizerBioNTech,12798,SeriousCritical,Female Above 65,2868,39
+GIN,Africa,Guinea,6/28/21,23744,21-Jun,10,29.857,168,0,,61.6,0.477,,Moderna,215678,Mild,Female Below 30,3603,210
+GNB,Africa,Guinea-Bissau,6/28/21,3846,21-Jun,10,3,69,0,21855,58.32,0.48,,PfizerBioNTech,912824,TotalRecovered,Female Above 30 and Below 65,37780,4802
+GUY,South America,Guyana,6/28/21,19891,21-Jun,4,106.714,466,4,,69.91,0.682,,JohnsonJohnson,0,NewlyRecovered,Male Above 65,3453,47
+HTI,North America,Haiti,6/28/21,18212,21-Jun,5,164.429,413,13,,64,0.51,,OxfordAstraZeneca,217059,SeriousCritical,Male Above 30 and Below 65,11721,1007
+HND,North America,Honduras,6/28/21,260331,21-Jun,4,876.714,6922,6,,75.27,0.634,,Moderna,721192,Mild,Male Below 30,181,1
+HKG,Asia,Hong Kong,6/28/21,11920,21-Jun,0,4.429,210,0,2179683,84.86,0.949,,Moderna,248526,TotalRecovered,Female Above 65,352,6
+HUN,Europe,Hungary,6/28/21,808042,21-Jun,8,58.857,29989,9,5477405,76.88,0.854,,JohnsonJohnson,3307113,NewlyRecovered,Female Below 30,34630,4076
+ISL,Europe,Iceland,6/28/21,6555,21-Jun,1,0,29,0,,82.99,0.949,,Sinovac,1067158,SeriousCritical,Female Above 30 and Below 65,5731,217
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 65,5078,123
+IDN,Asia,Indonesia,6/28/21,2135998,21-Jun,9,18793.286,57561,423,27419898,71.72,0.718,,OxfordAstraZeneca,187096,TotalRecovered,Male Above 30 and Below 65,39550,4959
+IRN,Asia,Iran,6/28/21,3180092,21-Jun,0,10638.857,83985,140,,76.68,0.783,,OxfordAstraZeneca,563768,NewlyRecovered,Male Below 30,13015,1197
+IRQ,Asia,Iraq,6/28/21,1332046,21-Jun,2,5620.857,17121,30,,70.6,0.674,,Moderna,325091,SeriousCritical,Female Above 65,1835,74
+IRL,Europe,Ireland,6/28/21,271589,21-Jun,4,324,4989,0,,82.3,0.955,,JohnsonJohnson,361802,Mild,Male Above 65,44166,6610
+IMN,Europe,Isle of Man,6/28/21,,21-Jun,,,,,63236,81.4,,,PfizerBioNTech,48221685,TotalRecovered,Male Above 30 and Below 65,36127,4512
+ISR,Asia,Israel,6/28/21,841196,21-Jun,2,172.286,6429,0,5566179,82.97,0.919,,OxfordAstraZeneca,4804950,NewlyRecovered,Male Below 30,7262,554
+ITA,Europe,Italy,6/28/21,4258456,21-Jun,0,713.714,127500,28,33582287,83.51,0.892,,PfizerBioNTech,4461960,SeriousCritical,Female Above 65,6205,307
+JAM,North America,Jamaica,6/28/21,50054,21-Jun,6,48.857,1061,0,,74.47,0.734,,OxfordAstraZeneca,24084,Mild,Female Below 30,39550,4959
+JPN,Asia,Japan,6/28/21,797084,21-Jun,1,1502.571,14659,38,28049718,84.63,0.919,,OxfordAstraZeneca,5,TotalRecovered,Female Above 30 and Below 65,44974,5677
+JOR,Asia,Jordan,6/28/21,750389,21-Jun,1,484.143,9737,10,2371379,74.53,0.729,,PfizerBioNTech,42596130,NewlyRecovered,Male Above 30 and Below 65,30967,3502
+KAZ,Asia,Kazakhstan,6/28/21,478063,21-Jun,6,1570.571,3527,3,3165155,73.6,0.825,,PfizerBioNTech,41010,NewlyRecovered,Male Below 30,901,7
+KEN,Africa,Kenya,6/28/21,182884,21-Jun,0,513,3612,17,1003204,66.7,0.601,,PfizerBioNTech,10437,SeriousCritical,Female Above 65,20534,2192
+KIR,Oceania,Kiribati,6/28/21,2,21-Jun,8,0,,,,68.37,0.63,,Moderna,2375,NewlyRecovered,Female Below 30,1641,14
+OWID_KOS,Europe,Kosovo,6/28/21,107331,21-Jun,0,12,2262,2,,,,,JohnsonJohnson,78410,SeriousCritical,Female Above 30 and Below 65,14445,1388
+KWT,Asia,Kuwait,6/28/21,353133,21-Jun,5,1738,1943,10,,75.49,0.806,,OxfordAstraZeneca,129307,Mild,Male Above 65,1978,75
+KGZ,Asia,Kyrgyzstan,6/28/21,121946,21-Jun,20,904.429,1982,5,,71.45,0.697,,PfizerBioNTech,3939640,NewlyRecovered,Male Above 30 and Below 65,34630,4076
+LAO,Asia,Laos,6/28/21,2110,21-Jun,,8,3,0,886238,67.92,0.613,,PfizerBioNTech,30285,SeriousCritical,Male Below 30,306,5
+LVA,Europe,Latvia,6/28/21,137240,21-Jun,3,55.714,2503,0,646816,75.29,0.866,,PfizerBioNTech,800991,NewlyRecovered,Female Above 65,24541,2731
+LBN,Asia,Lebanon,6/28/21,544520,21-Jun,1,138.429,7845,2,870901,78.93,0.744,,PfizerBioNTech,131657484,SeriousCritical,Female Below 30,3775,238
+LSO,Africa,Lesotho,6/28/21,11239,21-Jun,2,18.857,329,0,,54.33,0.527,,OxfordAstraZeneca,39231,NewlyRecovered,Female Above 30 and Below 65,2337,15
+LBR,Africa,Liberia,6/28/21,3794,21-Jun,0,97.857,123,3,79670,64.1,0.48,,PfizerBioNTech,7895198,SeriousCritical,Female Above 65,13015,1197
+LBY,Africa,Libya,6/28/21,192786,21-Jun,0,249.714,3191,4,,72.91,0.724,,OxfordAstraZeneca,342096,Mild,Female Below 30,840,23
+LIE,Europe,Liechtenstein,6/28/21,3034,21-Jun,2,0.857,59,0,,82.49,0.919,,OxfordAstraZeneca,58452,TotalRecovered,Female Above 30 and Below 65,37780,4802
+LTU,Europe,Lithuania,6/28/21,278689,21-Jun,2,40.286,4381,1,1231196,75.93,0.882,,Moderna,764791,NewlyRecovered,Female Above 65,5810,250
+LUX,Europe,Luxembourg,6/28/21,70642,21-Jun,5,15.286,818,0,328962,82.25,0.916,,PfizerBioNTech,4183099,SeriousCritical,Female Below 30,306,5
+MAC,Asia,Macao,6/28/21,,21-Jun,7,,,,229957,84.24,,,PfizerBioNTech,11924683,Mild,Female Above 30 and Below 65,18492,1907
+MDG,Africa,Madagascar,6/28/21,42194,21-Jun,5,8.143,909,3,197001,67.04,0.528,,JohnsonJohnson,0,TotalRecovered,Male Above 65,199,3
+MWI,Africa,Malawi,6/28/21,35709,21-Jun,0,113.571,1187,5,385242,64.26,0.483,,Moderna,2443605,NewlyRecovered,Male Above 30 and Below 65,5379,171
+MYS,Asia,Malaysia,6/28/21,739266,21-Jun,10,5463.857,5001,57,5463128,76.16,0.81,,JohnsonJohnson,0,SeriousCritical,Male Above 65,5731,217
+MDV,Asia,Maldives,6/28/21,73482,21-Jun,10,190.429,209,0,,78.92,0.74,,OxfordAstraZeneca,62497,Mild,Male Above 30 and Below 65,36574,4465
+MLI,Africa,Mali,6/28/21,14419,21-Jun,4,4.857,525,0,,59.31,0.434,,OxfordAstraZeneca,40,TotalRecovered,Male Below 30,840,23
+MLT,Europe,Malta,6/28/21,30612,21-Jun,5,3.143,420,0,357171,82.53,0.895,,JohnsonJohnson,1248174,NewlyRecovered,Female Above 65,198,2
+MHL,Oceania,Marshall Islands,6/28/21,4,21-Jun,4,0,,,,73.7,0.704,,PfizerBioNTech,50026083,SeriousCritical,Female Below 30,39504,5088
+MRT,Africa,Mauritania,6/28/21,20676,21-Jun,0,44.429,487,1,,64.92,0.546,,Moderna,133665,Mild,Female Above 30 and Below 65,2374,126
+MUS,Africa,Mauritius,6/28/21,1833,21-Jun,8,18.857,18,0,,74.99,0.804,,Moderna,23120,TotalRecovered,Male Above 65,36127,4512
+MEX,North America,Mexico,6/28/21,2507453,21-Jun,1,4128.857,232608,44,,75.05,0.779,,Moderna,18933,NewlyRecovered,Male Above 30 and Below 65,228,1
+FSM,Oceania,Micronesia (country),6/28/21,1,21-Jun,75,0,,,,67.88,0.62,,Moderna,37220,NewlyRecovered,Male Below 30,44526,6471
+MDA,Europe,Moldova,6/28/21,256614,21-Jun,9,61,6187,3,435687,71.9,0.75,,PfizerBioNTech,2022454,SeriousCritical,Female Above 65,5945,280
+MCO,Europe,Monaco,6/28/21,2575,21-Jun,0,3.714,33,0,,86.75,,,OxfordAstraZeneca,216125,NewlyRecovered,Female Below 30,763,7
+MNG,Asia,Mongolia,6/28/21,111505,21-Jun,2,1922.143,533,0,1981613,69.87,0.737,,PfizerBioNTech,281650,SeriousCritical,Female Above 30 and Below 65,4409,340
+MNE,Europe,Montenegro,6/28/21,100204,21-Jun,4,16,1609,0,150031,76.88,0.829,,PfizerBioNTech,63693721,Mild,Male Above 65,44166,6610
+MAR,Africa,Morocco,6/28/21,529895,21-Jun,,451.143,9283,6,9908882,76.68,0.686,,OxfordAstraZeneca,43018,NewlyRecovered,Male Above 30 and Below 65,5810,250
+MOZ,Africa,Mozambique,6/28/21,75422,21-Jun,2,406.429,869,1,,60.85,0.456,,PfizerBioNTech,1042927,SeriousCritical,Male Below 30,23792,2746
+MMR,Asia,Myanmar,6/28/21,154385,21-Jun,0,824,3309,12,,67.13,0.583,,OxfordAstraZeneca,370753,NewlyRecovered,Female Above 65,228,1
+NAM,Africa,Namibia,6/28/21,86649,21-Jun,6,1554.714,1445,45,,63.71,0.646,,PfizerBioNTech,1151057,SeriousCritical,Male Above 65,7276,567
+NPL,Asia,Nepal,6/28/21,635188,21-Jun,1,1792.571,9051,42,2587873,70.78,0.602,,PfizerBioNTech,156381,NewlyRecovered,Male Above 30 and Below 65,2702,127
+NLD,Europe,Netherlands,6/28/21,1711545,21-Jun,1,623.429,18024,0,,82.28,0.944,,OxfordAstraZeneca,3791775,SeriousCritical,Male Below 30,563,4
+NZL,Oceania,New Zealand,6/28/21,2742,21-Jun,6,3,26,0,,82.29,0.931,,Moderna,257739,Mild,Female Above 65,3453,47
+NIC,North America,Nicaragua,6/28/21,7920,21-Jun,0,32,189,0,,74.48,0.66,,JohnsonJohnson,1944532,TotalRecovered,Female Below 30,13015,1197
+NER,Africa,Niger,6/28/21,5480,21-Jun,8,1.571,193,0,,62.42,0.394,,JohnsonJohnson,0,NewlyRecovered,Female Above 30 and Below 65,373,1
+NGA,Africa,Nigeria,6/28/21,167532,21-Jun,0,34.286,2119,0,,54.69,0.539,,PfizerBioNTech,218095,SeriousCritical,Male Above 65,21784,2364
+MKD,Europe,North Macedonia,6/28/21,155676,21-Jun,5,7,5484,0,,75.8,0.774,,PfizerBioNTech,9578174,Mild,Male Above 30 and Below 65,4220,75
+NOR,Europe,Norway,6/28/21,130744,21-Jun,20,171.286,792,0,2495201,82.4,0.957,,Moderna,7,TotalRecovered,Male Below 30,4409,340
+OMN,Asia,Oman,6/28/21,264302,21-Jun,,1961.429,3013,46,854274,77.86,0.813,,JohnsonJohnson,38210,NewlyRecovered,Female Above 65,433,9
+PAK,Asia,Pakistan,6/28/21,956392,21-Jun,3,936.286,22254,23,,67.27,0.557,,OxfordAstraZeneca,178518,SeriousCritical,Female Below 30,42164,5821
+PSE,Asia,Palestine,6/28/21,313851,21-Jun,1,148.571,3561,2,490082,74.05,0.708,,OxfordAstraZeneca,103691,Mild,Female Above 30 and Below 65,5810,250
+PAN,North America,Panama,6/28/21,401332,21-Jun,2,1013,6529,5,994064,78.51,0.815,,PfizerBioNTech,484291,TotalRecovered,Male Above 65,40326,5079
+PNG,Oceania,Papua New Guinea,6/28/21,17098,21-Jun,0,12.143,173,0,,64.5,0.555,,OxfordAstraZeneca,835580,NewlyRecovered,Male Above 30 and Below 65,1380,31
+PRY,South America,Paraguay,6/28/21,419764,21-Jun,0,1720.429,12641,124,,74.25,0.728,,PfizerBioNTech,1912347,SeriousCritical,Male Below 30,39204,5309
+PER,South America,Peru,6/28/21,2048115,21-Jun,2,2500.571,191899,315,,76.74,0.777,,PfizerBioNTech,32232422,Mild,Female Above 65,228,1
+PHL,Asia,Philippines,6/28/21,1403588,21-Jun,2,5621.286,24456,84,,71.23,0.718,,PfizerBioNTech,87142,TotalRecovered,Female Below 30,8501,14
+POL,Europe,Poland,6/28/21,2879689,21-Jun,5,121.286,74979,0,16716871,78.73,0.88,,PfizerBioNTech,243669,NewlyRecovered,Female Above 30 and Below 65,19636,2089
+PRT,Europe,Portugal,6/28/21,875449,21-Jun,7,1377.571,17086,2,5386835,82.05,0.864,,PfizerBioNTech,3359401,SeriousCritical,Male Above 65,5078,123
+QAT,Asia,Qatar,6/28/21,221810,21-Jun,5,125.714,588,0,1689837,80.23,0.848,,PfizerBioNTech,397127,Mild,Male Above 30 and Below 65,42328,5286
+ROU,Europe,Romania,6/28/21,1080667,21-Jun,0,55,33311,58,4702086,76.05,0.828,,PfizerBioNTech,6354991,TotalRecovered,Male Below 30,8084,697
+RUS,Europe,Russia,6/28/21,5408744,21-Jun,10,19488,131671,601,21790363,72.58,0.824,,Moderna,122580,NewlyRecovered,Female Above 65,5077,432
+RWA,Africa,Rwanda,6/28/21,37384,21-Jun,10,849.857,427,7,,69.02,0.543,,PfizerBioNTech,41577309,SeriousCritical,Male Above 65,413701,56709
+KNA,North America,Saint Kitts and Nevis,6/28/21,439,21-Jun,4,12.714,3,0,,76.23,0.779,,JohnsonJohnson,26,Mild,Male Above 30 and Below 65,2563,123
+LCA,North America,Saint Lucia,6/28/21,5284,21-Jun,5,9.429,84,0,,76.2,0.759,,SinopharmBeijing,1873498,TotalRecovered,Male Below 30,40580,5683
+VCT,North America,Saint Vincent and the Grenadines,6/28/21,2219,21-Jun,4,3.286,12,0,,72.53,0.738,,OxfordAstraZeneca,23333,NewlyRecovered,Female Above 65,3752,65
+WSM,Oceania,Samoa,6/28/21,3,21-Jun,0,0,,,,73.32,0.715,,Moderna,28350,SeriousCritical,Female Below 30,48343,6719
+SMR,Europe,San Marino,6/28/21,5091,21-Jun,8,0.143,90,0,,84.97,,,PfizerBioNTech,6241647,Mild,Female Above 30 and Below 65,7262,554
+STP,Africa,Sao Tome and Principe,6/28/21,2365,21-Jun,1,0.429,37,0,16453,70.39,0.625,,OxfordAstraZeneca,10462051,TotalRecovered,Male Above 30 and Below 65,15199,1474
+SAU,Asia,Saudi Arabia,6/28/21,484539,21-Jun,75,1305.143,7789,14,,75.13,0.854,,PfizerBioNTech,41237,NewlyRecovered,Male Below 30,1185,47
+SEN,Africa,Senegal,6/28/21,42929,21-Jun,9,70.286,1164,0,515344,67.94,0.512,,PfizerBioNTech,49089,NewlyRecovered,Female Above 65,41363,6045
+SRB,Europe,Serbia,6/28/21,716385,21-Jun,0,77.714,7039,8,,76,0.806,,JohnsonJohnson,78410,SeriousCritical,Female Below 30,8208,816
+SYC,Africa,Seychelles,6/28/21,15579,21-Jun,2,208,68,5,,73.4,0.796,,PfizerBioNTech,487334,NewlyRecovered,Female Above 30 and Below 65,46888,5960
+SLE,Africa,Sierra Leone,6/28/21,5443,21-Jun,4,80.571,97,3,,54.7,0.452,,Moderna,323062,SeriousCritical,Male Above 65,982,25
+SGP,Asia,Singapore,6/28/21,62553,21-Jun,,17.571,36,0,,83.62,0.938,,Moderna,38575,Mild,Male Above 30 and Below 65,1353,37
+SVK,Europe,Slovakia,6/28/21,391566,21-Jun,2,34.286,12509,4,2007665,77.54,0.86,,PfizerBioNTech,1557676,NewlyRecovered,Male Below 30,2729,136
+SVN,Europe,Slovenia,6/28/21,257252,21-Jun,0,35.857,4419,0,815838,81.32,0.917,,JohnsonJohnson,10939901,SeriousCritical,Female Above 65,1835,74
+SLB,Oceania,Solomon Islands,6/28/21,20,21-Jun,6,0,,,,73,0.567,,Sinovac,640232,NewlyRecovered,Female Below 30,4754,124
+SOM,Africa,Somalia,6/28/21,14933,21-Jun,1,9.429,775,0,137981,57.4,,,OxfordAstraZeneca,44961,SeriousCritical,Female Above 30 and Below 65,22571,2499
+ZAF,Africa,South Africa,6/28/21,1941119,21-Jun,1,15520,60038,138,2787996,64.13,0.709,,OxfordAstraZeneca,333289,NewlyRecovered,Female Above 65,9343,829
+KOR,Asia,South Korea,6/28/21,156167,21-Jun,6,609.429,2017,2,15304120,83.03,0.916,,Moderna,53610,SeriousCritical,Female Below 30,15199,1474
+SSD,Africa,South Sudan,6/28/21,10824,21-Jun,0,5.429,116,1,42166,57.85,0.433,,JohnsonJohnson,94539,Mild,Female Above 30 and Below 65,41556,6237
+ESP,Europe,Spain,6/28/21,3792642,21-Jun,8,3998.714,80789,10,,83.56,0.904,,OxfordAstraZeneca,151216,TotalRecovered,Male Above 65,39204,5309
+LKA,Asia,Sri Lanka,6/28/21,255508,21-Jun,0,1955.429,2985,41,2605558,76.98,0.782,,OxfordAstraZeneca,7473179,NewlyRecovered,Male Above 30 and Below 65,38574,5050
+SDN,Africa,Sudan,6/28/21,36620,21-Jun,5,39,2754,0,550291,65.31,0.51,,JohnsonJohnson,26,SeriousCritical,Male Below 30,3752,65
+SUR,South America,Suriname,6/28/21,21360,21-Jun,20,174.143,512,5,157982,71.68,0.738,,JohnsonJohnson,55848,Mild,Female Above 65,20534,2192
+SWE,Europe,Sweden,6/28/21,1088896,21-Jun,,608.571,14619,0,,82.8,0.945,,JohnsonJohnson,5,TotalRecovered,Female Below 30,14445,1388
+CHE,Europe,Switzerland,6/28/21,702746,21-Jun,3,107.429,10885,3,,83.78,0.955,,Moderna,4,NewlyRecovered,Female Above 30 and Below 65,1835,74
+SYR,Asia,Syria,6/28/21,25442,21-Jun,1,40.571,1870,3,,72.7,0.567,,OxfordAstraZeneca,7556219,SeriousCritical,Male Above 65,23116,2374
+TWN,Asia,Taiwan,6/28/21,14694,21-Jun,2,87.714,635,3,1926572,80.46,,,PfizerBioNTech,32648,Mild,Male Above 30 and Below 65,38574,5050
+TJK,Asia,Tajikistan,6/28/21,13460,21-Jun,0,21.714,90,0,,71.1,0.668,,OxfordAstraZeneca,269591,TotalRecovered,Male Below 30,18492,1907
+TZA,Africa,Tanzania,6/28/21,509,21-Jun,0,0,21,0,,65.46,0.529,,Moderna,74016,NewlyRecovered,Female Above 65,204,3
+THA,Asia,Thailand,6/28/21,249853,21-Jun,2,4078.143,1934,22,6721038,77.15,0.777,,OxfordAstraZeneca,194383,SeriousCritical,Female Below 30,2702,127
+TLS,Asia,Timor,6/28/21,9055,21-Jun,2,46.714,21,0,,69.5,0.606,,PfizerBioNTech,1466214,Mild,Female Above 30 and Below 65,35264,4206
+TGO,Africa,Togo,6/28/21,13846,21-Jun,5,16.429,128,0,,61.04,0.515,,JohnsonJohnson,391734,TotalRecovered,Male Above 65,4403,97
+TTO,North America,Trinidad and Tobago,6/28/21,32343,21-Jun,7,225.143,822,5,211363,73.51,0.796,,PfizerBioNTech,322027,NewlyRecovered,Male Above 30 and Below 65,7262,554
+TUN,Africa,Tunisia,6/28/21,408931,21-Jun,5,3357.571,14737,83,,76.7,0.74,,Moderna,68858013,SeriousCritical,Male Below 30,315,3
+TUR,Asia,Turkey,6/28/21,5414310,21-Jun,0,5531,49634,58,33934402,77.69,0.82,,Sinovac,830628,Mild,Female Above 65,5077,432
+UGA,Africa,Uganda,6/28/21,79089,21-Jun,10,915.714,956,53,,63.37,0.544,,Sinovac,562744,TotalRecovered,Male Above 65,2374,126
+UKR,Europe,Ukraine,6/28/21,2298478,21-Jun,10,965.143,54517,19,1912469,72.06,0.779,,PfizerBioNTech,143745,NewlyRecovered,Male Above 30 and Below 65,44395,6546
+ARE,Asia,United Arab Emirates,6/28/21,628976,21-Jun,4,2140.429,1802,6,,77.97,0.89,,OxfordAstraZeneca,383508,SeriousCritical,Male Below 30,44526,6471
+GBR,Europe,United Kingdom,6/28/21,4771367,21-Jun,5,16404.429,128367,3,,81.32,0.932,,Moderna,94678,Mild,Female Above 65,44802,6290
+USA,North America,United States,6/28/21,33640502,21-Jun,4,12318.143,604115,150,179615165,78.86,0.926,,OxfordAstraZeneca,4458360,TotalRecovered,Female Below 30,44526,6471
+URY,South America,Uruguay,6/28/21,366915,21-Jun,0,1504.714,5524,30,,77.91,0.817,,PfizerBioNTech,4281764,NewlyRecovered,Female Above 30 and Below 65,5638,163
+UZB,Asia,Uzbekistan,6/28/21,109692,21-Jun,8,462.857,731,2,,71.72,0.72,,OxfordAstraZeneca,10079638,SeriousCritical,Male Above 30 and Below 65,26496,3114
+VUT,Oceania,Vanuatu,6/28/21,4,21-Jun,1,0,1,0,,70.47,0.609,,JohnsonJohnson,1871546,Mild,Male Below 30,7174,438
+VAT,Europe,Vatican,6/28/21,27,21-Jun,75,0,,,,75.12,,,,,TotalRecovered,Male Above 65,10556,30
+VEN,South America,Venezuela,6/28/21,269635,21-Jun,9,1085.286,3068,0,,72.06,0.711,,,,NewlyRecovered,Male Above 30 and Below 65,3603,210
+VNM,Asia,Vietnam,6/28/21,16136,21-Jun,0,372.286,78,2,3324110,75.4,0.704,,,,NewlyRecovered,Male Below 30,3939,277
+YEM,Asia,Yemen,6/28/21,6909,21-Jun,2,2.857,1361,1,,66.12,0.47,,,,SeriousCritical,Female Above 65,16987,1651
+ZMB,Africa,Zambia,6/28/21,149661,21-Jun,4,2718.571,2091,69,,63.89,0.584,,,,NewlyRecovered,Female Below 30,198,2
+ZWE,Africa,Zimbabwe,6/28/21,47284,21-Jun,,727,1749,13,,61.49,0.571,,,,SeriousCritical,Female Above 30 and Below 65,7174,438
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,2,85.429,4510,2,,75.09,0.776,,OxfordAstraZeneca,4,Mild,Male Above 65,44502,6455
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,0,85.429,4510,2,,75.09,0.776,,PfizerBioNTech,4,NewlyRecovered,Male Above 30 and Below 65,44502,6455
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,6,85.429,4510,2,,75.09,0.776,,JohnsonJohnson,4,SeriousCritical,Male Below 30,90,6455
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,1,85.429,4510,2,,75.09,0.776,,JohnsonJohnson,4,Mild,Female Above 65,44502,6455
+ARM,Asia,Armenia,6/28/21,224851,21-Jun,1,85.429,4510,2,,75.09,0.776,,JohnsonJohnson,4,TotalRecovered,Female Below 30,3455,6455
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,60,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,NewlyRecovered,Female Above 30 and Below 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,0,1692.714,4730,211,,64.83,0.511,,Moderna,10804437,SeriousCritical,Male Above 65,154445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,8,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,Mild,Male Above 30 and Below 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,0,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,TotalRecovered,Male Below 30,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,5,1692.714,4730,211,,64.83,0.511,,OxfordAstraZeneca,10804437,NewlyRecovered,Female Above 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,20,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,SeriousCritical,Male Above 65,1334445,1388
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,Mild,Male Above 30 and Below 65,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,100,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,TotalRecovered,Male Below 30,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,1,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,NewlyRecovered,Female Above 65,44392,6443
+ALB,Europe,Albania,6/28/21,132513,21-Jun,2,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Below 30,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,0,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,Mild,Female Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,0,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,TotalRecovered,Male Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,2,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,NewlyRecovered,Male Below 30,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,2,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,NewlyRecovered,Female Above 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,5,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Below 30,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,7,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,NewlyRecovered,Female Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,5,3.286,2456,0,547300,78.57,0.795,,Sinovac,95843,SeriousCritical,Male Above 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,0,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,Mild,Male Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,10,3.286,2456,0,547300,78.57,0.795,,PfizerBioNTech,95843,NewlyRecovered,Male Below 30,1835,74
+BGD,Asia,Bangladesh,6/28/21,8,21-Jun,10,5780.857,14276,3,5823245,72.59,0.632,,JohnsonJohnson,8886,SeriousCritical,Female Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,8,21-Jun,4,5780.857,14276,5,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Female Below 30,42328,5286
+BGD,Asia,Bangladesh,6/28/21,20,21-Jun,5,5780.857,14276,0,5823245,72.59,0.632,,PfizerBioNTech,8886,SeriousCritical,Female Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,4,5780.857,14276,0,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Female Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,0,5780.857,14276,0,5823245,72.59,0.632,,PfizerBioNTech,8886,SeriousCritical,Female Below 30,42328,5286
+AND,Europe,Andorra,6/28/21,13882,21-Jun,8,2.571,127,0,,83.73,0.868,,PfizerBioNTech,298706,Mild,Female Above 30 and Below 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,1,123.571,891,2,943301,61.15,0.581,,Sinovac,3028162,TotalRecovered,Female Above 65,44504,5641
+AND,Europe,Andorra,6/28/21,13882,21-Jun,75,2.571,127,0,,83.73,0.868,,JohnsonJohnson,298706,NewlyRecovered,Female Below 30,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,9,123.571,891,2,943301,61.15,0.581,,PfizerBioNTech,3028162,SeriousCritical,Female Above 30 and Below 65,44504,5641
+AND,Europe,Andorra,6/28/21,13882,21-Jun,0,2.571,127,0,,83.73,0.868,,JohnsonJohnson,298706,Mild,Male Above 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,2,123.571,891,2,943301,61.15,0.581,,PfizerBioNTech,3028162,TotalRecovered,Male Above 30 and Below 65,44504,5641
+AND,Europe,Andorra,6/28/21,13882,21-Jun,4,2.571,127,0,,83.73,0.868,,Moderna,298706,NewlyRecovered,Male Above 65,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,,123.571,891,2,943301,61.15,0.581,,PfizerBioNTech,3028162,SeriousCritical,Male Above 30 and Below 65,44504,5641
+AND,Europe,Andorra,6/28/21,13882,21-Jun,2,2.571,127,0,,83.73,0.868,,OxfordAstraZeneca,298706,Mild,Male Below 30,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,0,123.571,891,2,943301,61.15,0.581,,PfizerBioNTech,3028162,TotalRecovered,Female Above 65,44504,5641
+AND,Europe,Andorra,6/28/21,13882,21-Jun,6,2.571,127,0,,83.73,0.868,,OxfordAstraZeneca,298706,NewlyRecovered,Female Below 30,10810,1128
+AGO,Africa,Angola,6/28/21,38613,21-Jun,1,123.571,891,2,943301,61.15,0.581,,Moderna,3028162,SeriousCritical,Female Above 30 and Below 65,44504,5641
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,1,0,42,0,,77.02,0.778,,Moderna,23,Mild,Male Above 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,6,0,42,0,,77.02,0.778,,Moderna,23,TotalRecovered,Male Above 30 and Below 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,0,0,42,0,,77.02,0.778,,JohnsonJohnson,23,NewlyRecovered,Male Below 30,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,110,0,42,0,,77.02,0.778,,JohnsonJohnson,23,SeriousCritical,Female Above 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,0,0,42,0,,77.02,0.778,,Sinovac,23,Mild,Female Below 30,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,5,0,42,0,,77.02,0.778,,Sinovac,23,TotalRecovered,Female Above 30 and Below 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,20,0,42,0,,77.02,0.778,,Sinovac,23,NewlyRecovered,Male Above 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,5,0,42,0,,77.02,0.778,,Sinovac,23,SeriousCritical,Male Above 30 and Below 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,3,0,42,0,,77.02,0.778,,Sinovac,23,Mild,Male Below 30,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,10,0,42,0,,77.02,0.778,,JohnsonJohnson,23,TotalRecovered,Female Above 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,2,0,42,0,,77.02,0.778,,JohnsonJohnson,23,NewlyRecovered,Male Above 65,228,1
+ATG,North America,Antigua and Barbuda,6/28/21,1263,21-Jun,0,0,42,0,,77.02,0.778,,JohnsonJohnson,23,SeriousCritical,Male Above 30 and Below 65,228,1
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,0,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,Mild,Male Below 30,300,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,2,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,TotalRecovered,Female Above 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,2,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,NewlyRecovered,Female Below 30,500,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,5,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,NewlyRecovered,Female Above 30 and Below 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,50,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,SeriousCritical,Male Above 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,5,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,NewlyRecovered,Male Above 30 and Below 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,0,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,SeriousCritical,Male Below 30,800,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,10,20891.571,93142,574,15993494,76.67,0.845,,CanSino,2707983,Mild,Female Above 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,10,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,NewlyRecovered,Female Below 30,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,4,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,SeriousCritical,Female Above 30 and Below 65,200,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,5,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,NewlyRecovered,Male Above 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,40,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,SeriousCritical,Male Above 30 and Below 65,400,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,0,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,NewlyRecovered,Male Below 30,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,8,20891.571,93142,574,15993494,76.67,0.845,,PfizerBioNTech,2707983,SeriousCritical,Female Above 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,1,20891.571,93142,574,15993494,76.67,0.845,,Moderna,2707983,Mild,Female Below 30,600,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,75,20891.571,93142,574,15993494,76.67,0.845,,Moderna,2707983,TotalRecovered,Female Above 30 and Below 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,9,20891.571,93142,574,15993494,76.67,0.845,,Moderna,2707983,NewlyRecovered,Male Above 65,2203,81
+ARG,South America,Argentina,6/28/21,4423636,21-Jun,0,20891.571,93142,574,15993494,76.67,0.845,,Moderna,2707983,SeriousCritical,Male Above 30 and Below 65,2203,81
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,2,27.714,910,0,6152645,83.44,0.944,,PfizerBioNTech,2975738,Mild,Male Below 30,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,4,27.714,910,0,6152645,83.44,0.944,,PfizerBioNTech,2975738,TotalRecovered,Female Above 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,50,27.714,910,0,6152645,83.44,0.944,,Moderna,2975738,NewlyRecovered,Male Above 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,2,27.714,910,0,6152645,83.44,0.944,,Moderna,2975738,SeriousCritical,Male Above 30 and Below 65,100,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,0,27.714,910,0,6152645,83.44,0.944,,Moderna,2975738,Mild,Male Below 30,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,6,27.714,910,0,6152645,83.44,0.944,,Moderna,2975738,TotalRecovered,Female Above 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,1,27.714,910,0,6152645,83.44,0.944,,Moderna,2975738,NewlyRecovered,Female Below 30,405,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,1,27.714,910,0,6152645,83.44,0.944,,PfizerBioNTech,2975738,SeriousCritical,Female Above 30 and Below 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,6,27.714,910,0,6152645,83.44,0.944,,PfizerBioNTech,2975738,Mild,Male Above 30 and Below 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,0,27.714,910,0,6152645,83.44,0.944,,OxfordAstraZeneca,2975738,TotalRecovered,Male Below 30,667,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,8,27.714,910,0,6152645,83.44,0.944,,OxfordAstraZeneca,2975738,NewlyRecovered,Female Above 65,10556,30
+AUS,Oceania,Australia,6/28/21,30560,21-Jun,0,27.714,910,0,6152645,83.44,0.944,,OxfordAstraZeneca,2975738,SeriousCritical,Female Below 30,10556,30
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,5,548.286,25168,8,7013433,81.63,0.931,,SinopharmBeijing,566082,Mild,Female Above 30 and Below 65,41363,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,20,548.286,25168,8,7013433,81.63,0.931,,SinopharmBeijing,566082,TotalRecovered,Male Above 65,555,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,,548.286,25168,8,7013433,81.63,0.931,,OxfordAstraZeneca,566082,NewlyRecovered,Male Above 30 and Below 65,41363,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,3,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,SeriousCritical,Male Below 30,41363,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,1,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,Mild,Female Above 65,41363,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,2,548.286,25168,8,7013433,81.63,0.931,,JohnsonJohnson,566082,TotalRecovered,Female Below 30,2222,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,0,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,NewlyRecovered,Female Above 30 and Below 65,3333,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,0,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,SeriousCritical,Female Above 65,4444,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,2,548.286,25168,8,7013433,81.63,0.931,,OxfordAstraZeneca,566082,Mild,Female Below 30,66,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,2,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,TotalRecovered,Female Above 30 and Below 65,41363,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,5,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,NewlyRecovered,Male Above 65,41363,6045
+BEL,Europe,Belgium,6/28/21,1083478,21-Jun,7,548.286,25168,8,7013433,81.63,0.931,,PfizerBioNTech,566082,SeriousCritical,Male Above 30 and Below 65,666,6045
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,5,68795.857,514092,618,71291563,75.88,0.765,,OxfordAstraZeneca,10389329,Mild,Male Below 30,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,0,68795.857,514092,618,71291563,75.88,0.765,,OxfordAstraZeneca,10389329,TotalRecovered,Female Above 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,10,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,NewlyRecovered,Female Below 30,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,10,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,NewlyRecovered,Female Above 30 and Below 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,4,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,SeriousCritical,Male Above 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,5,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,NewlyRecovered,Male Above 30 and Below 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,4,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,SeriousCritical,Male Below 30,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,0,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,Mild,Female Above 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,8,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,NewlyRecovered,Female Below 30,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,1,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,SeriousCritical,Female Above 30 and Below 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,75,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,NewlyRecovered,Male Above 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,9,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,SeriousCritical,Male Above 30 and Below 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,0,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,NewlyRecovered,Male Below 30,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,40,68795.857,514092,618,71291563,75.88,0.765,,Moderna,10389329,SeriousCritical,Female Above 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,4,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,Mild,Male Above 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,,68795.857,514092,618,71291563,75.88,0.765,,CanSino,10389329,TotalRecovered,Male Above 30 and Below 65,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,2,68795.857,514092,618,71291563,75.88,0.765,,CanSino,10389329,NewlyRecovered,Male Below 30,198,2
+BRA,South America,Brazil,6/28/21,18448402,21-Jun,0,68795.857,514092,618,71291563,75.88,0.765,,PfizerBioNTech,10389329,SeriousCritical,Female Above 65,198,2
+ABW,North America,Aruba,6/28/21,,21-Jun,6,,,,67457,76.29,,,PfizerBioNTech,533,Mild,Female Below 30,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,1,,,,67457,76.29,,,JohnsonJohnson,533,TotalRecovered,Female Above 30 and Below 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,1,,,,67457,76.29,,,JohnsonJohnson,533,NewlyRecovered,Male Above 30 and Below 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,6,,,,67457,76.29,,,Sinovac,533,SeriousCritical,Male Below 30,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,0,,,,67457,76.29,,,Sinovac,533,Mild,Male Above 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,8,,,,67457,76.29,,,Sinovac,533,TotalRecovered,Male Above 30 and Below 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,0,,,,67457,76.29,,,Sinovac,533,NewlyRecovered,Male Below 30,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,5,,,,67457,76.29,,,Sinovac,533,SeriousCritical,Female Above 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,20,,,,67457,76.29,,,Moderna,533,Mild,Female Below 30,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,,,,,67457,76.29,,,Moderna,533,TotalRecovered,Female Above 30 and Below 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,20,,,,67457,76.29,,,Moderna,533,NewlyRecovered,Male Above 65,10556,30
+ABW,North America,Aruba,6/28/21,,21-Jun,1,,,,67457,76.29,,,Moderna,533,SeriousCritical,Male Above 30 and Below 65,10556,30
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,0,5780.857,14276,0,5823245,72.59,0.632,,Moderna,8886,Mild,Male Below 30,42328,5286
+ALB,Europe,Bangladesh,6/28/21,1,21-Jun,4,3.286,2456,0,547300,78.57,0.795,,JohnsonJohnson,95843,NewlyRecovered,Female Above 65,1835,74
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,0,5780.857,14276,104,5823245,72.59,0.632,,JohnsonJohnson,8886,Mild,Female Above 65,42328,5286
+ALB,Europe,Bangladesh,6/28/21,1,21-Jun,6,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,Mild,Female Above 30 and Below 65,1835,74
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,0,5780.857,14276,6,5823245,72.59,0.632,,Sinovac,8886,SeriousCritical,Male Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,2,5780.857,14276,,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Male Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,10,5780.857,14276,7,5823245,72.59,0.632,,JohnsonJohnson,8886,SeriousCritical,Male Below 30,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,50,5780.857,14276,7,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Female Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,5,5780.857,14276,8,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Male Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,4,5780.857,14276,4,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Male Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,0,5780.857,14276,3,5823245,72.59,0.632,,PfizerBioNTech,8886,SeriousCritical,Male Below 30,42328,5286
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,1,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,NewlyRecovered,Male Above 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,4,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,Mild,Female Above 30 and Below 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,6,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,NewlyRecovered,Male Above 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,10,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,NewlyRecovered,Male Below 30,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,0,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,SeriousCritical,Male Below 30,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,10,1692.714,4730,211,,64.83,0.511,,Moderna,10804437,NewlyRecovered,Male Below 30,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,100,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,NewlyRecovered,Female Above 30 and Below 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,0,1692.714,4730,211,,64.83,0.511,,Moderna,10804437,SeriousCritical,Male Above 65,154445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,8,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,Mild,Male Above 30 and Below 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,0,1692.714,4730,211,,64.83,0.511,,PfizerBioNTech,10804437,TotalRecovered,Male Below 30,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,5,1692.714,4730,211,,64.83,0.511,,OxfordAstraZeneca,10804437,NewlyRecovered,Female Above 65,14445,1388
+AFG,Asia,Afghanistan,6/28/21,115751,21-Jun,20,1692.714,4730,211,,64.83,0.511,,Sinovac,10804437,SeriousCritical,Male Above 65,1334445,1388
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,6,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,Mild,Male Below 30,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,4,363.714,3699,6,,76.88,0.748,,Moderna,518004,NewlyRecovered,Male Above 30 and Below 65,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,40,363.714,3699,6,,76.88,0.748,,Moderna,518004,Mild,Male Below 30,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,5,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,Mild,Female Below 30,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,1,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,TotalRecovered,Female Below 30,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,4,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,NewlyRecovered,Male Above 65,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,Mild,Male Above 30 and Below 65,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,3,363.714,3699,6,,76.88,0.748,,PfizerBioNTech,518004,TotalRecovered,Male Below 30,44392,6443
+DZA,Africa,Algeria,6/28/21,138840,21-Jun,1,363.714,3699,6,,76.88,0.748,,OxfordAstraZeneca,518004,NewlyRecovered,Female Above 65,44392,6443
+ALB,Europe,Albania,6/28/21,132513,21-Jun,10,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Above 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,50,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Below 30,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,0,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,Mild,Female Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,30,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,TotalRecovered,Male Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,2,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,NewlyRecovered,Male Below 30,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,2,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,NewlyRecovered,Female Above 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,40,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,SeriousCritical,Female Below 30,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,7,3.286,2456,0,547300,78.57,0.795,,Moderna,95843,NewlyRecovered,Female Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,5,3.286,2456,0,547300,78.57,0.795,,Sinovac,95843,SeriousCritical,Male Above 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,0,3.286,2456,0,547300,78.57,0.795,,OxfordAstraZeneca,95843,Mild,Male Above 30 and Below 65,1835,74
+ALB,Europe,Albania,6/28/21,132513,21-Jun,10,3.286,2456,0,547300,78.57,0.795,,PfizerBioNTech,95843,NewlyRecovered,Male Below 30,1835,74
+IND,Asia,India,6/28/21,30316897,21-Jun,20,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 30 and Below 65,5078,123
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,907,265545768,69.66,0.645,,Moderna,12163032,NewlyRecovered,Female Above 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,6000,800,265545768,69.66,0.645,,Moderna,163032,SeriousCritical,Male Above 65,4000,4000
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,45000,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 30 and Below 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,300,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,TotalRecovered,Male Below 30,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,70000,907,265545768,69.66,0.645,,PfizerBioNTech,566082,NewlyRecovered,Female Above 65,41363,6045
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,600,265545768,69.66,0.645,,Moderna,82622178,SeriousCritical,Female Below 30,2868,500
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,30000,200,265545768,69.66,0.645,,CanSino,10450,Mild,Male Above 65,250,1000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,1000000,907,265545768,69.66,0.645,,SinopharmBeijing,1873498,TotalRecovered,Male Above 30 and Below 65,40580,5683
+IND,Asia,India,6/28/21,30316897,21-Jun,9,48433.714,397637,907,265545768,69.66,0.645,,JohnsonJohnson,12163032,SeriousCritical,Male Above 65,5078,123
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,397637,907,265545768,69.66,0.645,,JohnsonJohnson,12163032,SeriousCritical,Female Below 30,5078,123
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,6000,800,265545768,69.66,0.645,,JohnsonJohnson,163032,TotalRecovered,Male Above 30 and Below 65,4000,4000
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,45000,907,265545768,69.66,0.645,,Sinovac,12163032,NewlyRecovered,Male Below 30,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,397637,300,265545768,69.66,0.645,,OxfordAstraZeneca,12163032,NewlyRecovered,Female Above 65,15000,15000
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,70000,907,265545768,69.66,0.645,,PfizerBioNTech,566082,SeriousCritical,Female Below 30,41363,6045
+IND,Asia,India,6/28/21,30316897,21-Jun,7,48433.714,397637,600,265545768,69.66,0.645,,Moderna,82622178,NewlyRecovered,Female Above 30 and Below 65,2868,500
+IND,Asia,India,6/28/21,30316897,21-Jun,5,48433.714,30000,200,265545768,69.66,0.645,,CanSino,10450,SeriousCritical,Male Above 65,250,1000
+IND,Asia,India,6/28/21,30316897,21-Jun,0,48433.714,1000000,907,265545768,69.66,0.645,,CanSino,1873498,Mild,Male Above 30 and Below 65,40580,5683
+IND,Asia,India,6/28/21,30316897,21-Jun,2,48433.714,397637,907,265545768,69.66,0.645,,Sinovac,12163032,Mild,Male Above 65,5078,123
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,30,5780.857,14276,3,5823245,72.59,0.632,,Sinovac,8886,SeriousCritical,Male Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,2,5780.857,14276,2,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Male Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,10,5780.857,14276,5,5823245,72.59,0.632,,JohnsonJohnson,8886,SeriousCritical,Male Below 30,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,4,5780.857,14276,6,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Female Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,11,21-Jun,5,5780.857,14276,7,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Male Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,4,5780.857,14276,8,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Male Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,1,21-Jun,0,5780.857,14276,8,5823245,72.59,0.632,,PfizerBioNTech,8886,SeriousCritical,Male Below 30,42328,5286
+BGD,Asia,Bangladesh,6/28/21,0,21-Jun,100,5780.857,14276,104,5823245,72.59,0.632,,Sinovac,8886,SeriousCritical,Male Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,2,21-Jun,2,5780.857,14276,9,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Male Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,2,21-Jun,10,5780.857,14276,9,5823245,72.59,0.632,,JohnsonJohnson,8886,SeriousCritical,Male Below 30,42328,5286
+BGD,Asia,Bangladesh,6/28/21,2,21-Jun,4,5780.857,14276,9,5823245,72.59,0.632,,JohnsonJohnson,8886,NewlyRecovered,Female Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,2,21-Jun,5,5780.857,14276,9,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Male Above 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,2,21-Jun,4,5780.857,14276,9,5823245,72.59,0.632,,PfizerBioNTech,8886,NewlyRecovered,Male Above 30 and Below 65,42328,5286
+BGD,Asia,Bangladesh,6/28/21,2,21-Jun,0,5780.857,14276,9,5823245,72.59,0.632,,PfizerBioNTech,8886,SeriousCritical,Male Below 30,42328,5286
