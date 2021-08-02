@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Covid19 Vaccination and Recovery data for different Age groups </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="stylesheets/normalize.css"
+      media="screen"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:200,500"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="stylesheets/stylesheet.css"
+      media="screen"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="stylesheets/github-light.css"
+      media="screen"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="stylesheets/custom.css"
+      media="screen"
+    />
+  </head>
+
+  <body onload="init()">
+    <section class="page-header1">
+      <table>
+		 <tr>
+    <td><img src="images/vaccination-campaign.jpg" alt="Covid19 Data Visualization" width="300" height="100"></td>
+    <td><h1 class="project-name" style="background-color:#ff9980;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covid19 Data Visualization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></td>
+	<td><img src="images/prmo_vaccinationcovid19.jpg" alt="Covid19 Data Visualization" width="300" height="100"></td>
+  </tr>
+  </table>       
+    </section>
+    <div class="w3-bar w3-red">
+      <a
+        href="#"
+        onclick="navigate('previous');"
+        class="w3-bar-item w3-button"
+        style="width: 27%;"
+        ><<</a
+      >
+      <a
+        href="#"
+        onclick="navigate('summary');"
+        class="w3-bar-item w3-button"
+        style="width: 15%;"
+        >Covid19 Summary</a
+      >
+      <a
+        href="#"
+        onclick="navigate('covid19data');"
+        class="w3-bar-item w3-button"
+        style="width: 15%;"
+        >Covid19 Data</a
+      >
+      <a
+        href="#"
+        onclick="navigate('covid19det');"
+        class="w3-bar-item w3-button w3-green"
+        style="width: 15%;"
+        >Covid19 Details</a
+      >
+      <a
+        href="#"
+        onclick="navigate('next');"
+        class="w3-bar-item w3-button"
+        style="width: 28%;"
+        >>></a
+      >
+    </div>
+    <section class="main-content">
+      <h3>
+        <span aria-hidden="true" class="octicon octicon-link"></span>Vaccination / Recovery Count For People Of Different Age Groups
+      </h3>
+      <div class="tooltip1">
+        This chart shows <mark class="red"> count of vaccination and recovery</mark> data for people of different <mark class="red">age groups</mark>. By default this chart shows the count of different type of vaccination received by 
+different age groups of <mark class="red">Male/Female</mark> in a day.Upon selection of the <mark class="red">vaccination and recovery</mark> from the previous page shows the corresponding type of data in this page for different age groups. 
+          </br>
+      </p>
+        <div id="selectchoice">
+          <div id="selectdiv"></div>
+        </div>      
+        <div> 
+          <label id="chartlabel" for="chartlabel"></label>
+        </div>
+	
+        <svg id="chart" width="960" height="500"></svg>        
+      </div>
+
+      <footer class="site-footer">
+        <div class="tooltip2">
+        Please click <mark class="red">Previous[<<]</mark> or <mark class="red">Next[>>]</mark> buttons on the menu bar to navigate and view author set charts.
+        </br>
+        <span class="site-footer-credits">
+        You may mouse over on the bars to interactively view corresponsing data on the charts.
+        </span>
+        </div>
+      </footer>
+    </section>
+
+    <script>
+      //Global Variable
+      var filedata; // this one holds csv data
+      var filteredData = []; // holds filtered data per parameters
+      var chartdata = []; //this will hold chart data at any point of time
+      var totaljobs;
+      var topjobs = []; // Top job Keys
+      var origin;
+      var originby = 'Age group';  //default
+      var originByVal;
+
+      // Scene navigation logic
+      var currentPage1 = "chart3.html";
+      var nextPage1 = "chart3.html";
+      var previousPage1 = "chart2.html";
+      var summaryPage1 = "chart1.html";
+      var jobsbyPage1 = "chart2.html";
+      var jobsdetailPage1= "chart3.html";
+
+      function navigate(action) {
+        if (action == "next") {
+          dest = nextPage1;
+        } else if (action == "previous") {
+          dest = previousPage1;
+        } else if (action == "summary") {
+          dest = summaryPage1;
+        } else if (action == "covid19data") {
+          dest = jobsbyPage1;
+        } else if (action == "covid19det") {
+          dest = jobsdetailPage1;
+        } else dest = "#";
+        window.location = dest;
+      }
+
+      // global JavaScript variables
+      var list = [];
+      var pageList = [];
+      var currentPage = 1;
+      var numberPerPage = 6;
+      var numberOfPages = 1;   // calculates the total number of pages      
+
+      function nextPage() {
+        currentPage += 1;
+        d3.select("svg").selectAll("*").remove(); 
+        setTimeout(function(){ loadList(); }, 500);
+      }
+
+      function previousPage() {
+        currentPage -= 1;
+        d3.select("svg").selectAll("*").remove(); 
+        setTimeout(function(){ loadList(); }, 500);
+      }
+
+      function firstPage() {
+        currentPage = 1;
+        d3.select("svg").selectAll("*").remove(); 
+        setTimeout(function(){ loadList(); }, 500);
+      }
+
+      function lastPage() {
+        currentPage = numberOfPages;
+        d3.select("svg").selectAll("*").remove(); 
+        setTimeout(function(){ loadList(); }, 500);
+      }
+
+      function getNumberOfPages() {
+        return Math.ceil(list.length / numberPerPage);
+      }      
+
+      function loadList() {
+	    const urlParams = new URLSearchParams(window.location.search);
+        const myParam = urlParams.get('origin');
+		console.log('myParam::::::'+myParam);
+        numberOfPages = getNumberOfPages();
+		console.log('currentPage::'+currentPage);
+        var begin = ((currentPage - 1) * numberPerPage);
+		console.log('begin::'+document.getElementById('origin'));
+        var end = begin + numberPerPage;
+		console.log('list::'+list);
+        pageList = list.slice(begin, end);
+		console.log('pageList::::::'+pageList);
+        chart(pageList); // draws out our data
+        check();         // determines the states of the pagination buttons
+
+        //set page number
+        document.getElementById("paginationlabel").innerHTML = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + 
+        "Total Covid Data: <b>" + list.length + "</b>" + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + 
+          "Current Page: <b>" + currentPage + "</b>" + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + "Total Pages:<b>" + numberOfPages + "</b>";    
+      } 
+      
+      function check() {
+        document.getElementById("next").disabled = currentPage == numberOfPages ? true : false;
+        document.getElementById("previous").disabled = currentPage == 1 ? true : false;
+        document.getElementById("first").disabled = currentPage == 1 ? true : false;
+        document.getElementById("last").disabled = currentPage == numberOfPages ? true : false;
+      }      
+
+      // All chart variables
+      var svg = d3.select("svg"),
+        margin = {top: 20, right: 20, bottom: 30, left: 40},
+        width = +svg.attr("width") - margin.left - margin.right,
+        height = +svg.attr("height") - margin.top - margin.bottom,
+        g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+      // The scale spacing the groups:
+      var x0 = d3.scaleBand()
+          .rangeRound([0, width])
+          .paddingInner(0.1);
+
+      // The scale for spacing each group's bar:
+      var x1 = d3.scaleBand()
+          .padding(0.05);
+
+      var y = d3.scaleLinear()
+        .rangeRound([height, 0]);   
+        
+      var z = d3.scaleOrdinal()
+        //.range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);        
+        .range(["steelblue", "darkorange", "green", "red", "purple", "brown", "pink"]);
+
+      // Tool Tip mouse hover
+      var tooltip = d3
+        .select("body")
+        .append("div")
+        .attr("class", "tooltip")
+        .style("position", "absolute")
+        .style("z-index", 10)
+        .style("visibility", "hidden")
+        .text("Simple text");
+
+      //Function called on body onload
+      async function init() {
+        filedata = await d3.csv("data/owid-covid-data_latest_new1.csv");
+
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        origin =
+          urlParams.get("origin") == undefined ||
+          urlParams.get("origin") == null ||
+          urlParams.get("origin") == ""
+            ? "All Covid Data"
+            : urlParams.get("origin").replace('^', ' ').replace('~',' & ').replace('`', '+');
+        originby =
+          urlParams.get("originby") == undefined ||
+          urlParams.get("originby") == null ||
+          urlParams.get("originby") == ""
+            ? "Vaccination"
+            : urlParams.get("originby").replace('^', ' ').replace('~',' & ').replace('`', '+');
+        originbyval =
+          urlParams.get("originbyval") == undefined ||
+          urlParams.get("originbyval") == null ||
+          urlParams.get("originbyval") == ""
+            ? ""
+            : urlParams.get("originbyval").replace('^', ' ').replace('~',' & ').replace('`', '+');            
+        console.log('origin', origin);
+        console.log('originby', originby);
+        console.log('originbyval', originbyval);
+
+        //Before drawing chart set everything to blank
+        var originbyval1 = (originbyval !== "")? originbyval : "All";
+        document.getElementById("chartlabel").innerHTML = "<mark class='green'> Chart: </mark>" + 
+          "Showing distribution for <mark class='red'>" + origin + "</mark> by  " + 
+          "<mark class='red'>" + originby + "</mark> - " + "<mark class='green'>" + originbyval1 + "</mark>" +
+          " different age groups of Male/Female" + "</br></br>";
+
+        initializeChartData(); //initializes list with data for the next loadList call
+        loadList();
+      }
+
+
+      //Function to form chart data depending on selection
+      function initializeChartData() {
+        var keyval;
+        
+          // first filter data by origin type
+		  
+	  
+	   console.log('Before the country filter:::');	
+        if (originby === 'Recovery') {
+          if (originbyval === '') {
+            filteredData = filedata.filter(function(d){return d;});
+          } else if (originbyval === 'Unknown') {
+            filteredData = filedata.filter(function(d){
+              if ((d.recovery_count == '-1') || (d.recovery_count.toLowerCase().indexOf('unknown') !== -1)) 
+              return d ;
+            });
+          } 
+		  
+		  else if(origin === 'All Countries'){
+		  console.log('Inside All Countries');
+            filteredData = filedata.filter(function(d){
+			   
+			  
+			    console.log('In India:::::::::');
+			  	return d.recovery_count == originbyval;
+			  
+			  
+			
+			});
+          }
+		  
+		  else {
+            filteredData = filedata.filter(function(d){
+			
+			 if(d.location === origin){
+			  	return d.recovery_count == originbyval;
+			  }
+			
+			
+			});
+			
+          }
+        } 
+        else if (originby === 'Vaccination') {
+          if (originbyval === '') {
+		  	console.log('originbyval::'+originbyval);
+            filteredData = filedata.filter(function(d){return d;});
+          } else if (originbyval === 'Unknown') {
+            filteredData = filedata.filter(function(d){
+              if ((d.vaccine == '-1') || (d.vaccine.toLowerCase().indexOf('unknown') !== -1)) 
+              return d ;
+            });
+          } else if(origin === 'All Countries'){
+		  console.log('Inside All Countries');
+            filteredData = filedata.filter(function(d){
+			   
+			  
+			    console.log('In India:::::::::');
+			  	return d.vaccine == originbyval;
+			  
+			  
+			
+			});
+          }
+		  
+		  else {
+            filteredData = filedata.filter(function(d){
+			  console.log('location::::'+ d.location);  
+			  if(d.location === origin){
+			    console.log('In India:::::::::');
+			  	return d.vaccine == originbyval;
+			  }
+			  
+			
+			});
+          }
+        }
+		
+		<!--
+        else if (originby === 'IMDb') {
+          if (originbyval === '') {
+            filteredData = filedata.filter(function(d){return d;});
+          } else if (originbyval === 'Unknown') {
+            filteredData = filedata.filter(function(d){
+              if ((d.IMDb == '-1') || (d.IMDb.toLowerCase().indexOf('unknown') !== -1)) 
+              return d ;
+            });
+          } else {
+            filteredData = filedata.filter(function(d){return d.IMDb == originbyval;});
+          }
+        }
+        else if (originby === 'Country') {
+          if (originbyval === '') {
+            filteredData = filedata.filter(function(d){return d;});
+          } else if (originbyval === 'Unknown') {
+            filteredData = filedata.filter(function(d){
+              if ((d.Country == '-1') || (d.Country.toLowerCase().indexOf('unknown') !== -1)) 
+              return d ;
+            });
+          } else {
+            filteredData = filedata.filter(function(d){return d.Country == originbyval;});
+          }
+        } 
+        //console.log('filteredData', filteredData);
+-->
+		  console.log('filteredData', filteredData);	
+        // form chart data now
+        var interimData, interimData1, interimData2, interimData3  = [];
+        interimData = d3
+        .nest()
+        .key(function (d) {
+          if (d["age_years"] === "") keyval = "NA";
+          else if (d["age_years"] === "-1") keyval = "NA";
+          else keyval = d["age_years"].split('\n')[0]; //Removing linefeed and numbers at the end of company name
+          return keyval;
+        })      
+        .rollup(function (d) {
+          return {
+            sinovac: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'sinovac'){
+			    console.log('PRINT:::::');
+			    return 1;
+				}
+              else { 
+			    return 0;
+				}
+            }),
+ moderna: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'moderna') return 1;
+              else return 0;
+            }),
+johnsonjohnson: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'johnsonjohnson') return 1;
+              else return 0;
+            }),			
+oxfordastrazeneca: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'oxfordastrazeneca') return 1;
+              else return 0;
+            }),
+pfizerbiontech: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'pfizerbiontech') return 1;
+              else return 0;
+            }),
+sinopharmbeijing: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'sinopharmbeijing') return 1;
+              else return 0;
+            }),
+cansino: d3.sum(d, function (g) {
+              if (g.vaccine.toLowerCase() == 'cansino') return 1;
+              else return 0;
+            }),		
+			
+mild: d3.sum(d, function (g) {
+              if (g.recovery_count.toLowerCase() == 'mild') return 1;
+              else return 0;
+            }),		
+			
+totalrecovered: d3.sum(d, function (g) {
+              if (g.recovery_count.toLowerCase() == 'totalrecovered') return 1;
+              else return 0;
+            }),	
+			
+seriouscritical: d3.sum(d, function (g) {
+              if (g.recovery_count.toLowerCase() == 'seriouscritical') return 1;
+              else return 0;
+            }),	
+			
+			
+newlyrecovered: d3.sum(d, function (g) {
+              if (g.recovery_count.toLowerCase() == 'newlyrecovered') return 1;
+              else return 0;
+            }),							
+						
+										
+            totaljobcount: d3.sum(d, function (g) {
+                return 1;
+            })
+          }
+        })
+        .entries(filteredData);
+
+        if((origin !== 'All^Countries') && (origin !== ""))
+          if (origin == 'Sinovac') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.sinovac, b.value.sinovac));
+          else if (origin == 'Moderna') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.moderna, b.value.moderna));
+          else if (origin == 'JohnsonJohnson') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.johnsonjohnson, b.value.johnsonjohnson));          
+          else if (origin == 'OxfordAstrazeneca') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.oxfordastrazeneca, b.value.oxfordastrazeneca));
+          else if (origin == 'PfizerBiontech') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.pfizerbiontech, b.value.pfizerbiontech));          
+          else if (origin == 'SinopharmBeijing') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.sinopharmbeijing, b.value.sinopharmbeijing));
+          else if (origin == 'CanSino') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.cansino, b.value.cansino));          
+ 		  else if (origin == 'NewlyRecovered') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.newlyrecovered, b.value.newlyrecovered));
+          else if (origin == 'TotalRecovered') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.totalrecovered, b.value.totalrecovered));          
+ 		  else if (origin == 'SeriousCritical') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.seriouscritical, b.value.seriouscritical));
+          else if (origin == 'Mild') interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.mild, b.value.mild));          
+ 		
+          else interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.totaljobcount, b.value.totaljobcount));         
+        else
+          interimData1 = interimData.slice().sort((a, b) => d3.descending(a.value.totaljobcount, b.value.totaljobcount));
+
+        var i = 0;   
+        interimData2 = interimData1.map(function (obj) {
+          return {
+            key: obj.key,
+            sinovac: obj.value.sinovac,
+			moderna: obj.value.moderna,
+			johnsonjohnson: obj.value.johnsonjohnson,
+			oxfordastrazeneca: obj.value.oxfordastrazeneca,
+			pfizerbiontech: obj.value.pfizerbiontech,
+			sinopharmbeijing: obj.value.sinopharmbeijing,
+			cansino: obj.value.cansino,	
+			
+			newlyrecovered: obj.value.newlyrecovered,
+			seriouscritical: obj.value.seriouscritical,
+			totalrecovered: obj.value.totalrecovered,
+			mild: obj.value.mild,
+					            
+            totaljobcount: obj.value.totaljobcount
+          }
+        });
+        // console.log('Sorted Data', interimData2);
+        list = [...interimData2];
+      }      
+
+      //Drawing the chart
+      function chart(data) {
+        // data = data.slice(0, 13);
+        console.log('Page Data:::::::::::::::::::::', data);
+
+        svg = d3.select("svg"),
+        margin = {top: 20, right: 20, bottom: 30, left: 40},
+        width = +svg.attr("width") - margin.left - margin.right,
+        height = +svg.attr("height") - margin.top - margin.bottom,
+        g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");        
+
+        x0 = d3.scaleBand()
+          .rangeRound([0, width])
+          .paddingInner(0.1);
+
+        // The scale for spacing each group's bar:
+        x1 = d3.scaleBand()
+          .padding(0.05);
+
+        y = d3.scaleLinear()
+        .rangeRound([height, 0]);   
+
+        z = d3.scaleOrdinal()
+        //.range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);        
+        .range(["steelblue", "darkorange", "green", "red", "purple", "brown", "pink"]);        
+
+        //var keys = data.columns.slice(1);
+        //var keys = ['data_engineer' ,'senior_data_engineer', 'software_engineer', 'bigdata_engineer', 'sr_data_engineer', 'others', 'totaljobcount'];
+        if (originby === 'Vaccination') {
+		var keys = ['sinovac','moderna','johnsonjohnson','oxfordastrazeneca','pfizerbiontech','sinopharmbeijing','cansino'];
+		}else{
+		var keys = ['totalrecovered','seriouscritical','newlyrecovered','mild'];
+		}
+		
+
+        console.log('keys', keys);
+        x0.domain(data.map(function(d) { 
+		console.log('key data ::'+d.key);
+		return d.key; }));
+        x1.domain(keys).rangeRound([0, x0.bandwidth()]);
+        y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
+
+        g.append("g")
+            .selectAll("g")
+            .data(data)
+            .enter().append("g")
+            .attr("class","bar")
+            .attr("transform", function(d) { return "translate(" + x0(d.key) + ",0)"; })
+            .selectAll("rect")
+            .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+            .enter().append("rect")
+            .attr("x", function(d) { return x1(d.key); })
+            .attr("y", function(d) { return y(d.value); })
+            .attr("width", x1.bandwidth())
+            .attr("height", function(d) { return height - y(d.value); })
+            .attr("fill", function(d) { return z(d.key); })
+          .on("mouseover", function(d,i) {
+            var selval = pageList[i];
+            var textval = "";
+            // textval = textval + "Company Name : " + selval.key;
+            // textval = textval + "</br>" + originby ;
+            // if (originbyval !== "") textval = textval + " : " + originbyval;
+            // else textval = textval + " : " + "All";
+            // textval = textval + "</br>" + "Total Jobs : " + selval.totaljobcount;
+            // textval = textval + "</br>" + d.key + " : " +  d.value
+            textval = d.key + " : " +  d.value
+            tooltip.html(textval);
+            return tooltip.style("visibility", "visible");
+          })    
+          .on("mousemove", function () {
+            return tooltip
+              .style("top", d3.event.pageY - 10 + "px")
+              .style("left", d3.event.pageX + 10 + "px");
+          })
+          .on("mouseout", () => tooltip.style("visibility", "hidden"));            
+
+        g.append("g")
+            .attr("class", "axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x0))
+            .selectAll("text")
+            .style("font-size", "12px");
+
+        g.append("g")
+            .attr("class", "y axis")
+            .call(d3.axisLeft(y).ticks(null, "s"))
+            .append("text")
+            .attr("x", 2)
+            .attr("y", y(y.ticks().pop()) + 0.5)
+            .attr("dy", "0.32em")
+            .attr("font-size", 11)
+            .attr("fill", "#000")
+            //.attr("font-weight", "bold")
+            .attr("text-anchor", "start")
+            .text("Count");
+
+        var legend = g.append("g")
+            .attr("font-family", "sans-serif")
+            .attr("font-size", 12)
+            .attr("text-anchor", "end")
+            .selectAll("g")
+            .data(keys.slice())
+            .enter().append("g")
+            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+        legend.append("rect")
+            .attr("x", width - 17)
+            .attr("width", 15)
+            .attr("height", 15)
+            .attr("fill", z)
+            .attr("stroke", z)
+            .attr("stroke-width",2);
+           // .on("click",function(d) { update(d) })
+
+        legend.append("text")
+            .attr("x", width - 24)
+            .attr("y", 9.5)
+            .attr("dy", "0.32em")
+            .text(function(d) { return d; });
+
+        var filtered = [];
+
+        function update(d) {
+
+          // Array update and clicked key addition if not included
+            if (filtered.indexOf(d) == -1) {
+                filtered.push(d);
+                // if all bars are un-checked, reset:
+                if(filtered.length == keys.length) filtered = [];
+            }
+            else {             // remove
+                filtered.splice(filtered.indexOf(d), 1);
+            }
+
+            // Scale update group items
+            var newKeys = [];
+            keys.forEach(function(d) {
+                if (filtered.indexOf(d) == -1 ) {
+                    newKeys.push(d);
+                }
+            })
+            x1.domain(newKeys).rangeRound([0, x0.bandwidth()]);
+            y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { if (filtered.indexOf(key) == -1) return d[key]; }); })]).nice();
+
+            // update y axis:
+            svg.select(".y")
+                .transition()
+                .call(d3.axisLeft(y).ticks(null, "s"))
+                .duration(500);
+
+            //Hide bands if required
+            var bars = svg.selectAll(".bar").selectAll("rect")
+                .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+
+            bars.filter(function(d) {
+                    return filtered.indexOf(d.key) > -1;
+                })
+                .transition()
+                .attr("x", function(d) {
+                    return (+d3.select(this).attr("x")) + (+d3.select(this).attr("width"))/2;
+                })
+                .attr("height",0)
+                .attr("width",0)
+                .attr("y", function(d) { return height; })
+                .duration(500);
+
+            // Bars adjustment
+            bars.filter(function(d) {
+                    return filtered.indexOf(d.key) == -1;
+                })
+                .transition()
+                .attr("x", function(d) { return x1(d.key); })
+                .attr("y", function(d) { return y(d.value); })
+                .attr("height", function(d) { return height - y(d.value); })
+                .attr("width", x1.bandwidth())
+                .attr("fill", function(d) { return z(d.key); })
+                .duration(500);
+
+
+            // update filters
+            legend.selectAll("rect")
+                .transition()
+                .attr("fill",function(d) {
+                    if (filtered.length) {
+                        if (filtered.indexOf(d) == -1) {
+                            return z(d);
+                        }
+                        else {
+                            return "white";
+                        }
+                    }
+                    else {
+                        return z(d);
+                    }
+                })
+                .duration(100);
+        }
+      }
+    </script>
+  </body>
+</html>
